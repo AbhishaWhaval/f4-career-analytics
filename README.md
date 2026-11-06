@@ -1,5 +1,9 @@
 # From F4 to F1: predicting who climbs motorsport's junior ladder
 
+[![tests](https://github.com/AbhishaWhaval/f4-career-analytics/actions/workflows/tests.yml/badge.svg)](https://github.com/AbhishaWhaval/f4-career-analytics/actions/workflows/tests.yml)
+
+**Try it:** [live career explorer](STREAMLIT_LINK) · look up any F4 driver's path and the model's estimate
+
 Hundreds of drivers race Formula 4 every year. Only a handful ever reach Formula 1.
 This project builds a dataset of every FIA Formula 4 championship since 2014 and every
 higher championship on the ladder, then asks:
@@ -35,6 +39,8 @@ Wikipedia season pages ──fetch──▶ data/raw/*.html  (cached, so later s
 data/processed/f4_results.csv     driver × F4 series × season
 data/processed/ladder.csv         driver × higher series × season
         │
+       bios   birth dates from each driver's article infobox (50 per API call)
+        │
      features  one row per driver, from their ROOKIE F4 season only
         │      + series strength (two-way fixed-effects model)
         ▼
@@ -42,18 +48,20 @@ data/processed/drivers.csv
         │
       train   temporal split · 3 models · bootstrap CIs · calibration · importance
         ▼
-reports/results.md · reports/figures/*.png · reports/watchlist.csv
+reports/results.md · reports/figures/*.png · app/data/ → Streamlit app
 ```
 
 | Stage | Module | What it does |
 |---|---|---|
-| Fetch | `wiki.py` | MediaWiki API with caching, retry and polite rate limiting |
+| Fetch | `wiki.py` | MediaWiki API with caching, retry, rate limiting, a search fallback for renamed pages and batched birth-date lookups |
 | Parse | `parse.py` | Finds the drivers' standings table on a season page and extracts per-race results |
 | Build | `build.py` | Tidy tables plus a page-level coverage audit |
 | Strength | `strength.py` | Ranks F4 series by field quality using drivers who raced in several series in one year |
-| Features | `features.py` | 13 rookie-season features and ladder outcomes, with leakage controls |
+| Bios | `build.py` | Birth dates → age at F4 debut |
+| Features | `features.py` | 14 rookie-season features and ladder outcomes, with leakage controls |
 | Model | `model.py` | Baseline, logistic regression and gradient boosting; evaluation and figures |
-| Report | `report.py` | Writes `reports/results.md` |
+| Report | `report.py` | Writes `reports/results.md`, including an age ablation |
+| App | `app/streamlit_app.py` | Interactive career explorer |
 
 ## Method choices worth discussing in an interview
 
@@ -76,6 +84,15 @@ has to beat it out of sample to earn its place.
 **Series strength without leakage.** A two-way fixed-effects model,
 `finish percentile = driver-year ability + series difficulty`, is fitted only on training seasons.
 
+**Age without leakage.** Age at debut comes from Wikipedia infoboxes, but only drivers with an
+article have one, and successful drivers are more likely to get an article. A "missing age" flag
+would therefore smuggle the outcome into the model. Missing ages are median-imputed with no flag,
+and the report includes an ablation (with vs without age, on drivers whose age is known).
+
+**Renamed pages.** Series get renamed (F4 NEZ ran as SMP F4; Danish F4 became Nordic 4). If a configured
+title doesn't exist, the scraper searches Wikipedia and accepts a result only if it names the right
+season and series. Accepted matches are saved in `data/raw/title_overrides.json` for auditing.
+
 **Entity resolution.** Drivers are linked across pages by their Wikipedia article, then by an
 accent- and punctuation-insensitive name key.
 
@@ -85,14 +102,16 @@ accent- and punctuation-insensitive name key.
 git clone https://github.com/AbhishaWhaval/f4-career-analytics.git && cd f4-career-analytics
 python -m venv .venv && source .venv/bin/activate      # Windows: .venv\Scripts\activate
 make setup
-make all        # fetch (~15 min first run, then cached) → build → train
-make test       # 5 tests incl. an offline end-to-end run on synthetic data
+make all        # fetch (~15 min first run, then cached) → build → bios → train
+make test       # 9 tests incl. an offline end-to-end run on synthetic data
+make app        # open the career explorer at http://localhost:8501
 ```
 
 Without `make`:
 ```bash
 pip install -r requirements.txt
 PYTHONPATH=src python -m f4ca all          # Windows PowerShell: $env:PYTHONPATH="src"
+streamlit run app/streamlit_app.py
 ```
 
 Options:
@@ -124,17 +143,18 @@ between series and individual career look-ups.
 
 ## Extending it
 
-- Add driver age at debut (from each driver's article infobox). It is likely the strongest missing feature.
 - Survival analysis (time-to-F3 with Kaplan–Meier / Cox) instead of a fixed horizon.
 - Add team strength, or academy membership from the Red Bull, Ferrari, Alpine and Mercedes academy pages.
-- Serve the watchlist as a Streamlit app.
+- Track the watchlist over time to see how well open-case predictions hold up.
 
 ## Project layout
 
 ```
 ├── src/f4ca/            pipeline package (python -m f4ca …)
 ├── tests/               parser tests + synthetic end-to-end test
+├── app/                 Streamlit app + data snapshot (app/data)
 ├── notebooks/           exploration notebook
+├── .github/workflows/   tests run on every push
 ├── reports/             generated results.md, figures, metrics.json, watchlist.csv
 ├── data/                raw cache + processed CSVs (git-ignored)
 ├── Makefile · requirements.txt · pyproject.toml
