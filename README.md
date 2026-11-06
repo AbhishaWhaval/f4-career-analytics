@@ -2,7 +2,7 @@
 
 [![tests](https://github.com/AbhishaWhaval/f4-career-analytics/actions/workflows/tests.yml/badge.svg)](https://github.com/AbhishaWhaval/f4-career-analytics/actions/workflows/tests.yml)
 
-**Try it:** [live career explorer](STREAMLIT_LINK) · look up any F4 driver's path and the model's estimate
+**Try it:** [live career explorer](https://f4-to-f1.streamlit.app/) · look up any F4 driver's path and the model's estimate
 
 Hundreds of drivers race Formula 4 every year. Only a handful ever reach Formula 1.
 This project builds a dataset of every FIA Formula 4 championship since 2014 and every
