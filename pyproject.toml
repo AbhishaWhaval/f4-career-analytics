@@ -1,0 +1,11 @@
+[project]
+name = "f4ca"
+version = "1.0.0"
+description = "Does Formula 4 performance predict who reaches F3, F2 and F1?"
+requires-python = ">=3.9"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
