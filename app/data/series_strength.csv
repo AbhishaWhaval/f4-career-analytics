@@ -1,0 +1,15 @@
+series,strength,shared_driver_seasons,estimated
+Danish F4,0.339177961177548,4,True
+ADAC F4,0.19105710601259251,64,True
+F4 UAE,0.10558481838507247,21,True
+Italian F4,0.09540621689666198,62,True
+Indian F4,0.0,0,False
+Chinese F4,0.0,2,False
+US F4,0.0,2,False
+SEA F4,0.0,0,False
+Japanese F4,0.0,1,False
+French F4,-0.014268304295637885,9,True
+Australian F4,-0.1276094810395174,5,True
+Spanish F4,-0.1630755167211839,26,True
+British F4,-0.18219321454693369,11,True
+NEZ F4,-0.24407958586859985,28,True

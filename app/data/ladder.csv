@@ -1,0 +1,1626 @@
+pos,driver_id,driver,points,entries,finishes,wins,podiums,poles,fastest_laps,retirements,race_columns,series,season,tier,name_key
+1,Frederik_Vesti,Frederik Vesti,467.0,24,24,13,20,10,9,0,25,FRECA,2019,regional,frederik vesti
+2,Enzo_Fittipaldi,Enzo Fittipaldi,336.0,24,23,2,13,2,5,1,25,FRECA,2019,regional,enzo fittipaldi
+3,Igor_Fraga,Igor Fraga,300.0,23,23,4,11,4,3,0,25,FRECA,2019,regional,igor fraga
+4,David_Schumacher_(racing_driver),David Schumacher,285.0,24,24,4,9,5,3,0,25,FRECA,2019,regional,david schumacher
+5,Olli_Caldwell,Olli Caldwell,213.0,24,21,1,7,1,0,3,25,FRECA,2019,regional,olli caldwell
+6,Ra%C3%BAl_Guzm%C3%A1n_(racing_driver),Raúl Guzmán,180.0,24,23,0,2,0,0,1,25,FRECA,2019,regional,raul guzman
+7,Sophia_Fl%C3%B6rsch,Sophia Flörsch,149.0,24,24,0,0,0,1,0,25,FRECA,2019,regional,sophia florsch
+8,Marcos_Siebert,Marcos Siebert,70.0,12,11,0,1,0,1,1,25,FRECA,2019,regional,marcos siebert
+9,Dan_Ticktum,Dan Ticktum,64.0,6,6,0,2,0,0,0,25,FRECA,2019,regional,dan ticktum
+10,name:isac blomqvist,Isac Blomqvist,62.0,15,14,0,1,2,0,1,25,FRECA,2019,regional,isac blomqvist
+11,Konsta_Lappalainen,Konsta Lappalainen,56.0,24,21,0,1,0,0,3,25,FRECA,2019,regional,konsta lappalainen
+12,Jake_Hughes,Jake Hughes,45.0,3,3,0,3,0,1,0,25,FRECA,2019,regional,jake hughes
+13,Matteo_Nannini,Matteo Nannini,43.0,15,15,0,0,0,1,0,25,FRECA,2019,regional,matteo nannini
+14,Lirim_Zendeli,Lirim Zendeli,42.0,3,3,0,2,0,0,0,25,FRECA,2019,regional,lirim zendeli
+15,Niko_Kari,Niko Kari,26.0,3,3,0,0,0,0,0,25,FRECA,2019,regional,niko kari
+16,Joey_Mawson,Joey Mawson,24.0,2,2,0,0,0,0,0,25,FRECA,2019,regional,joey mawson
+17,Andreas_Estner,Andreas Estner,24.0,3,3,0,0,0,0,0,25,FRECA,2019,regional,andreas estner
+18,name:sharon scolari,Sharon Scolari,17.0,22,18,0,0,0,0,4,25,FRECA,2019,regional,sharon scolari
+19,name:tom beckhauser,Tom Beckhäuser,12.0,14,13,0,0,0,0,1,25,FRECA,2019,regional,tom beckhauser
+20,Alexandre_Bardinon,Alexandre Bardinon,5.0,20,16,0,0,0,0,4,25,FRECA,2019,regional,alexandre bardinon
+1,Gianluca_Petecof,Gianluca Petecof,359.0,23,23,4,14,5,7,0,24,FRECA,2020,regional,gianluca petecof
+2,Arthur_Leclerc,Arthur Leclerc,343.0,23,20,6,15,8,2,3,24,FRECA,2020,regional,arthur leclerc
+3,Oliver_Rasmussen,Oliver Rasmussen,343.0,22,22,6,13,3,3,0,24,FRECA,2020,regional,oliver rasmussen
+4,Patrik_Pasma,Patrik Pasma,290.0,23,23,4,6,3,3,0,24,FRECA,2020,regional,patrik pasma
+5,Pierre-Louis_Chovet,Pierre-Louis Chovet,244.0,23,22,1,7,1,3,1,24,FRECA,2020,regional,pierre louis chovet
+6,Konsta_Lappalainen,Konsta Lappalainen,140.0,22,19,0,2,0,1,3,24,FRECA,2020,regional,konsta lappalainen
+7,Dennis_Hauger,Dennis Hauger,134.0,8,8,1,6,2,1,0,24,FRECA,2020,regional,dennis hauger
+8,J%C3%BCri_Vips,Jüri Vips,81.0,9,7,0,3,0,3,2,24,FRECA,2020,regional,juri vips
+9,Jamie_Chadwick,Jamie Chadwick,80.0,23,20,0,1,0,0,3,24,FRECA,2020,regional,jamie chadwick
+10,Gillian_Henrion,Gillian Henrion,78.0,22,17,0,0,0,0,5,24,FRECA,2020,regional,gillian henrion
+11,Alessandro_Famularo,Alessandro Famularo,73.0,9,9,0,0,0,0,0,24,FRECA,2020,regional,alessandro famularo
+12,Emidio_Pesce,Emidio Pesce,50.0,22,20,0,0,0,0,2,24,FRECA,2020,regional,emidio pesce
+13,Ian_Rodr%C3%ADguez,Ian Rodríguez,45.0,3,3,1,2,0,0,0,24,FRECA,2020,regional,ian rodriguez
+14,Andrea_Cola,Andrea Cola,26.0,15,13,0,0,0,0,2,24,FRECA,2020,regional,andrea cola
+15,Matteo_Nannini,Matteo Nannini,14.0,3,3,0,0,0,0,0,24,FRECA,2020,regional,matteo nannini
+16,Nico_G%C3%B6hler,Nico Göhler,12.0,5,3,0,0,0,0,2,24,FRECA,2020,regional,nico gohler
+17,Nicola_Marinangeli,Nicola Marinangeli,6.0,5,5,0,0,0,0,0,24,FRECA,2020,regional,nicola marinangeli
+1,Gr%C3%A9goire_Saucy,Grégoire Saucy,277.0,20,18,8,10,8,2,2,20,FRECA,2021,regional,gregoire saucy
+2,Hadrien_David,Hadrien David,209.0,20,18,2,9,1,2,2,20,FRECA,2021,regional,hadrien david
+3,Paul_Aron,Paul Aron,197.0,20,19,2,7,2,1,1,20,FRECA,2021,regional,paul aron
+4,Zane_Maloney,Zane Maloney,170.0,20,19,1,7,1,1,1,20,FRECA,2021,regional,zane maloney
+5,Isack_Hadjar,Isack Hadjar,166.0,20,20,2,5,1,3,0,20,FRECA,2021,regional,isack hadjar
+6,Franco_Colapinto,Franco Colapinto,140.0,16,13,2,4,3,4,3,20,FRECA,2021,regional,franco colapinto
+7,Gabriele_Min%C3%AC,Gabriele Minì,122.0,20,17,0,4,0,0,3,20,FRECA,2021,regional,gabriele mini
+8,Michael_Belov,Michael Belov,116.0,13,12,2,5,2,4,1,20,FRECA,2021,regional,michael belov
+9,Alex_Quinn_(racing_driver),Alex Quinn,104.0,20,17,0,2,0,0,3,20,FRECA,2021,regional,alex quinn
+10,David_Vidales,David Vidales,102.0,20,16,1,3,1,1,4,20,FRECA,2021,regional,david vidales
+11,William_Alatalo,William Alatalo,91.0,20,20,0,1,0,0,0,20,FRECA,2021,regional,william alatalo
+12,Patrik_Pasma,Patrik Pasma,56.0,20,18,0,0,0,0,2,20,FRECA,2021,regional,patrik pasma
+13,Dino_Beganovic,Dino Beganovic,53.0,20,16,0,1,1,2,4,20,FRECA,2021,regional,dino beganovic
+14,Mari_Boya,Mari Boya,51.0,20,17,0,1,0,0,3,20,FRECA,2021,regional,mari boya
+15,Gabriel_Bortoleto,Gabriel Bortoleto,44.0,20,20,0,1,0,0,0,20,FRECA,2021,regional,gabriel bortoleto
+16,Kas_Haverkort,Kas Haverkort,35.0,20,17,0,0,0,0,3,20,FRECA,2021,regional,kas haverkort
+17,Thomas_ten_Brinke,Thomas ten Brinke,28.0,8,8,0,0,0,0,0,20,FRECA,2021,regional,thomas ten brinke
+18,Pietro_Delli_Guanti,Pietro Delli Guanti,18.0,20,17,0,0,0,0,3,20,FRECA,2021,regional,pietro delli guanti
+19,Andrea_Rosso_(racing_driver),Andrea Rosso,14.0,19,17,0,0,0,0,2,20,FRECA,2021,regional,andrea rosso
+20,Francesco_Pizzi,Francesco Pizzi,12.0,20,20,0,0,0,0,0,20,FRECA,2021,regional,francesco pizzi
+21,Dexter_Patterson,Dexter Patterson,6.0,2,2,0,0,0,0,0,20,FRECA,2021,regional,dexter patterson
+22,Gianluca_Petecof,Gianluca Petecof,5.0,8,7,0,0,0,0,1,20,FRECA,2021,regional,gianluca petecof
+23,Oliver_Goethe,Oliver Goethe,3.0,20,20,0,0,0,0,0,20,FRECA,2021,regional,oliver goethe
+24,Elias_Sepp%C3%A4nen,Elias Seppänen,1.0,14,13,0,0,0,0,1,20,FRECA,2021,regional,elias seppanen
+25,Lorenzo_Flux%C3%A1,Lorenzo Fluxá,0.0,19,17,0,0,0,0,2,20,FRECA,2021,regional,lorenzo fluxa
+26,Brad_Benavides,Brad Benavides,0.0,10,8,0,0,0,0,2,20,FRECA,2021,regional,brad benavides
+27,Ido_Cohen,Ido Cohen,0.0,8,6,0,0,0,0,2,20,FRECA,2021,regional,ido cohen
+28,Axel_Gnos,Axel Gnos,0.0,20,18,0,0,0,0,1,20,FRECA,2021,regional,axel gnos
+29,Eduardo_Barrichello,Eduardo Barrichello,0.0,19,18,0,0,0,0,1,20,FRECA,2021,regional,eduardo barrichello
+30,Nicola_Marinangeli,Nicola Marinangeli,0.0,20,13,0,0,0,0,7,20,FRECA,2021,regional,nicola marinangeli
+31,Tommy_Smith_(racing_driver),Tommy Smith,0.0,20,14,0,0,0,0,5,20,FRECA,2021,regional,tommy smith
+32,Alessandro_Famularo,Alessandro Famularo,0.0,6,3,0,0,0,0,2,20,FRECA,2021,regional,alessandro famularo
+33,Alexandre_Bardinon,Alexandre Bardinon,0.0,20,14,0,0,0,0,5,20,FRECA,2021,regional,alexandre bardinon
+34,Nico_G%C3%B6hler,Nico Göhler,0.0,20,17,0,0,0,0,2,20,FRECA,2021,regional,nico gohler
+35,Jasin_Ferati,Jasin Ferati,0.0,14,6,0,0,0,0,7,20,FRECA,2021,regional,jasin ferati
+36,Jos%C3%A9_Garfias,José Garfias,0.0,6,5,0,0,0,0,1,20,FRECA,2021,regional,jose garfias
+37,Emidio_Pesce,Emidio Pesce,0.0,20,15,0,0,0,0,4,20,FRECA,2021,regional,emidio pesce
+38,L%C3%A9na_B%C3%BChler,Léna Bühler,0.0,18,16,0,0,0,0,1,20,FRECA,2021,regional,lena buhler
+39,Bel%C3%A9n_Garc%C3%ADa,Belén García,0.0,8,8,0,0,0,0,0,20,FRECA,2021,regional,belen garcia
+1,Dino_Beganovic,Dino Beganovic,300.0,20,20,4,13,4,2,0,20,FRECA,2022,regional,dino beganovic
+2,Gabriele_Min%C3%AC,Gabriele Minì,242.0,20,18,3,9,3,5,2,20,FRECA,2022,regional,gabriele mini
+3,Paul_Aron,Paul Aron,238.0,20,18,6,7,7,4,1,20,FRECA,2022,regional,paul aron
+4,Hadrien_David,Hadrien David,222.0,20,20,3,7,3,4,0,20,FRECA,2022,regional,hadrien david
+5,Kas_Haverkort,Kas Haverkort,184.0,20,19,2,5,1,2,1,20,FRECA,2022,regional,kas haverkort
+6,Gabriel_Bortoleto,Gabriel Bortoleto,174.0,20,18,2,5,2,1,2,20,FRECA,2022,regional,gabriel bortoleto
+7,Michael_Belov,Michael Belov,91.0,10,10,0,2,0,0,0,20,FRECA,2022,regional,michael belov
+8,Leonardo_Fornaroli,Leonardo Fornaroli,83.0,20,20,0,0,0,0,0,20,FRECA,2022,regional,leonardo fornaroli
+9,Joshua_Dufek,Joshua Dufek,79.0,20,17,0,3,0,0,2,20,FRECA,2022,regional,joshua dufek
+10,Mari_Boya,Mari Boya,67.0,20,19,0,1,0,2,1,20,FRECA,2022,regional,mari boya
+11,Eduardo_Barrichello,Eduardo Barrichello,51.0,20,19,0,1,0,0,1,20,FRECA,2022,regional,eduardo barrichello
+12,Lorenzo_Flux%C3%A1,Lorenzo Fluxá,49.0,20,17,0,1,0,0,2,20,FRECA,2022,regional,lorenzo fluxa
+13,Sebasti%C3%A1n_Montoya,Sebastián Montoya,44.0,20,19,0,0,0,0,1,20,FRECA,2022,regional,sebastian montoya
+14,Joshua_D%C3%BCrksen,Joshua Dürksen,40.0,20,18,0,0,0,0,2,20,FRECA,2022,regional,joshua durksen
+15,Tim_Tramnitz,Tim Tramnitz,35.0,20,16,0,0,0,0,4,20,FRECA,2022,regional,tim tramnitz
+16,Sami_Meguetounif,Sami Meguetounif,21.0,19,17,0,1,0,0,2,20,FRECA,2022,regional,sami meguetounif
+17,Victor_Bernier,Victor Bernier,20.0,20,14,0,1,0,0,5,20,FRECA,2022,regional,victor bernier
+18,Roman_Bili%C5%84ski,Roman Biliński,16.0,20,17,0,1,0,0,3,20,FRECA,2022,regional,roman bilinski
+19,Dilano_van_%27t_Hoff,Dilano van 't Hoff,16.0,14,10,0,1,0,0,3,20,FRECA,2022,regional,dilano van t hoff
+20,Owen_Tangavelou,Owen Tangavelou,15.0,19,16,0,0,0,0,2,20,FRECA,2022,regional,owen tangavelou
+21,Laurens_van_Hoepen,Laurens van Hoepen,15.0,20,17,0,0,0,0,3,20,FRECA,2022,regional,laurens van hoepen
+22,Mac%C3%A9o_Capietto,Macéo Capietto,12.0,20,18,0,0,0,0,2,20,FRECA,2022,regional,maceo capietto
+23,Noel_Le%C3%B3n,Noel León,3.0,20,19,0,0,0,0,1,20,FRECA,2022,regional,noel leon
+24,Esteban_Masson,Esteban Masson,1.0,20,17,0,0,0,0,3,20,FRECA,2022,regional,esteban masson
+25,Pietro_Delli_Guanti,Pietro Delli Guanti,1.0,14,11,0,0,0,0,3,20,FRECA,2022,regional,pietro delli guanti
+26,Francesco_Braschi,Francesco Braschi,1.0,20,17,0,0,0,0,2,20,FRECA,2022,regional,francesco braschi
+27,Santiago_Ramos_(racing_driver),Santiago Ramos,0.0,20,17,0,0,0,0,2,20,FRECA,2022,regional,santiago ramos
+28,Levente_R%C3%A9v%C3%A9sz,Levente Révész,0.0,20,17,0,0,0,0,2,20,FRECA,2022,regional,levente revesz
+29,Nicol%C3%A1s_Baptiste,Nicolás Baptiste,0.0,20,18,0,0,0,0,1,20,FRECA,2022,regional,nicolas baptiste
+30,Keith_Donegan,Keith Donegan,0.0,10,8,0,0,0,0,1,20,FRECA,2022,regional,keith donegan
+31,Axel_Gnos,Axel Gnos,0.0,15,13,0,0,0,0,1,20,FRECA,2022,regional,axel gnos
+32,Mat%C3%ADas_Zagazeta,Matías Zagazeta,0.0,20,19,0,0,0,0,0,20,FRECA,2022,regional,matias zagazeta
+33,Pietro_Armanni,Pietro Armanni,0.0,20,17,0,0,0,0,2,20,FRECA,2022,regional,pietro armanni
+34,Andrea_Rosso_(racing_driver),Andrea Rosso,0.0,2,2,0,0,0,0,0,20,FRECA,2022,regional,andrea rosso
+35,Piotr_Wi%C5%9Bnicki,Piotr Wiśnicki,0.0,18,15,0,0,0,0,2,20,FRECA,2022,regional,piotr wisnicki
+36,Patrik_Pasma,Patrik Pasma,0.0,2,2,0,0,0,0,0,20,FRECA,2022,regional,patrik pasma
+37,Nicola_Marinangeli,Nicola Marinangeli,0.0,8,7,0,0,0,0,1,20,FRECA,2022,regional,nicola marinangeli
+38,Hamda_Al_Qubaisi,Hamda Al Qubaisi,0.0,16,12,0,0,0,0,3,20,FRECA,2022,regional,hamda al qubaisi
+39,L%C3%A9na_B%C3%BChler,Léna Bühler,0.0,4,1,0,0,0,0,2,20,FRECA,2022,regional,lena buhler
+40,Cenyu_Han,Cenyu Han,0.0,10,8,0,0,0,0,1,20,FRECA,2022,regional,cenyu han
+1,Andrea_Kimi_Antonelli,Andrea Kimi Antonelli,300.0,20,19,5,11,4,5,1,20,FRECA,2023,regional,andrea kimi antonelli
+2,Martinius_Stenshorne,Martinius Stenshorne,261.0,20,19,5,11,3,3,1,20,FRECA,2023,regional,martinius stenshorne
+3,Tim_Tramnitz,Tim Tramnitz,239.0,20,18,3,10,4,1,2,20,FRECA,2023,regional,tim tramnitz
+4,Kas_Haverkort,Kas Haverkort,174.0,20,18,2,5,2,3,2,20,FRECA,2023,regional,kas haverkort
+5,Rafael_C%C3%A2mara,Rafael Câmara,173.0,20,16,2,5,3,1,4,20,FRECA,2023,regional,rafael camara
+6,Alessandro_Giusti,Alessandro Giusti,111.0,20,15,3,4,2,3,5,20,FRECA,2023,regional,alessandro giusti
+7,Lorenzo_Flux%C3%A1,Lorenzo Fluxá,88.0,20,17,0,1,0,0,3,20,FRECA,2023,regional,lorenzo fluxa
+8,Mac%C3%A9o_Capietto,Macéo Capietto,77.0,20,18,0,1,0,0,2,20,FRECA,2023,regional,maceo capietto
+9,Sami_Meguetounif,Sami Meguetounif,75.0,18,14,0,3,0,2,4,20,FRECA,2023,regional,sami meguetounif
+10,Laurens_van_Hoepen,Laurens van Hoepen,71.0,20,19,0,2,0,0,1,20,FRECA,2023,regional,laurens van hoepen
+11,Santiago_Ramos_(racing_driver),Santiago Ramos,67.0,17,14,0,1,0,1,3,20,FRECA,2023,regional,santiago ramos
+12,Nikhil_Bohra,Nikhil Bohra,56.0,20,17,0,1,0,0,3,20,FRECA,2023,regional,nikhil bohra
+13,Joshua_Dufek,Joshua Dufek,52.0,12,11,0,0,1,0,1,20,FRECA,2023,regional,joshua dufek
+14,Owen_Tangavelou,Owen Tangavelou,43.0,20,18,0,0,0,0,2,20,FRECA,2023,regional,owen tangavelou
+15,Victor_Bernier,Victor Bernier,42.0,18,17,0,1,0,0,1,20,FRECA,2023,regional,victor bernier
+16,Esteban_Masson,Esteban Masson,39.0,12,10,0,1,0,0,2,20,FRECA,2023,regional,esteban masson
+17,Maya_Weug,Maya Weug,27.0,20,17,0,0,0,0,3,20,FRECA,2023,regional,maya weug
+18,Marcus_Amand,Marcus Amand,26.0,20,18,0,1,1,0,2,20,FRECA,2023,regional,marcus amand
+19,Joshua_D%C3%BCrksen,Joshua Dürksen,26.0,20,17,0,1,0,0,3,20,FRECA,2023,regional,joshua durksen
+20,Michael_Belov,Michael Belov,23.0,16,14,0,0,0,1,2,20,FRECA,2023,regional,michael belov
+21,Roman_Bili%C5%84ski,Roman Biliński,23.0,20,18,0,0,0,0,2,20,FRECA,2023,regional,roman bilinski
+22,Mat%C3%ADas_Zagazeta,Matías Zagazeta,12.0,20,18,0,0,0,0,2,20,FRECA,2023,regional,matias zagazeta
+23,Dilano_van_%27t_Hoff,Dilano van 't Hoff,8.0,8,7,0,0,0,0,1,20,FRECA,2023,regional,dilano van t hoff
+24,Emerson_Fittipaldi_Jr.,Emerson Fittipaldi Jr.,4.0,20,18,0,0,0,0,2,20,FRECA,2023,regional,emerson fittipaldi jr
+25,Levente_R%C3%A9v%C3%A9sz,Levente Révész,2.0,16,14,0,0,0,0,2,20,FRECA,2023,regional,levente revesz
+26,Charlie_Wurz,Charlie Wurz,1.0,10,9,0,0,0,0,1,20,FRECA,2023,regional,charlie wurz
+27,Tom_Lebbon,Tom Lebbon,0.0,20,20,0,0,0,0,0,20,FRECA,2023,regional,tom lebbon
+28,Kirill_Smal,Kirill Smal,0.0,10,7,0,0,0,0,3,20,FRECA,2023,regional,kirill smal
+29,Hadrien_David,Hadrien David,0.0,6,5,0,0,0,0,1,20,FRECA,2023,regional,hadrien david
+30,Pierre-Alexandre_Provost,Pierre-Alexandre Provost,0.0,9,6,0,0,0,0,3,20,FRECA,2023,regional,pierre alexandre provost
+31,Enzo_Scionti,Enzo Scionti,0.0,18,16,0,0,0,0,2,20,FRECA,2023,regional,enzo scionti
+32,Bruno_del_Pino,Bruno del Pino,0.0,2,2,0,0,0,0,0,20,FRECA,2023,regional,bruno del pino
+33,name:oleksandr partyshev,Oleksandr Partyshev,0.0,8,3,0,0,0,0,5,20,FRECA,2023,regional,oleksandr partyshev
+34,Giovanni_Maschio,Giovanni Maschio,0.0,20,15,0,0,0,0,5,20,FRECA,2023,regional,giovanni maschio
+35,Lucas_Medina,Lucas Medina,0.0,12,8,0,0,0,0,4,20,FRECA,2023,regional,lucas medina
+36,Konsta_Lappalainen,Konsta Lappalainen,0.0,2,2,0,0,0,0,0,20,FRECA,2023,regional,konsta lappalainen
+37,Niels_Koolen,Niels Koolen,0.0,18,15,0,0,0,0,3,20,FRECA,2023,regional,niels koolen
+38,Adam_Fitzgerald_(racing_driver),Adam Fitzgerald,0.0,7,7,0,0,0,0,0,20,FRECA,2023,regional,adam fitzgerald
+39,name:shannon lugassy,Shannon Lugassy,0.0,2,2,0,0,0,0,0,20,FRECA,2023,regional,shannon lugassy
+40,William_Karlsson_(racing_driver),William Karlsson,0.0,4,4,0,0,0,0,0,20,FRECA,2023,regional,william karlsson
+41,name:ivan klymenko,Ivan Klymenko,0.0,9,8,0,0,0,0,1,20,FRECA,2023,regional,ivan klymenko
+42,Jesse_Carrasquedo_Jr.,Jesse Carrasquedo Jr.,0.0,4,3,0,0,0,0,1,20,FRECA,2023,regional,jesse carrasquedo jr
+1,Rafael_C%C3%A2mara,Rafael Câmara,309.0,20,20,7,12,7,7,0,20,FRECA,2024,regional,rafael camara
+2,James_Wharton_(racing_driver),James Wharton,234.0,19,18,4,10,5,2,1,20,FRECA,2024,regional,james wharton
+3,Tuukka_Taponen,Tuukka Taponen,198.0,20,15,4,7,3,2,5,20,FRECA,2024,regional,tuukka taponen
+4,Alessandro_Giusti,Alessandro Giusti,195.0,20,18,2,7,0,2,2,20,FRECA,2024,regional,alessandro giusti
+5,Brando_Badoer,Brando Badoer,174.0,20,18,0,7,1,2,2,20,FRECA,2024,regional,brando badoer
+6,Noah_Str%C3%B8msted,Noah Strømsted,121.0,20,18,0,4,1,3,2,20,FRECA,2024,regional,noah strmsted
+7,Evan_Giltaire,Evan Giltaire,97.0,20,18,1,2,0,1,2,20,FRECA,2024,regional,evan giltaire
+8,Pedro_Clerot,Pedro Clerot,93.0,20,16,0,2,0,0,4,20,FRECA,2024,regional,pedro clerot
+9,Th%C3%A9ophile_Na%C3%ABl,Théophile Naël,81.0,20,18,1,1,1,0,2,20,FRECA,2024,regional,theophile nael
+10,Ivan_Domingues,Ivan Domingues,77.0,20,19,0,2,0,0,1,20,FRECA,2024,regional,ivan domingues
+11,Ugo_Ugochukwu,Ugo Ugochukwu,74.0,20,16,1,2,1,0,4,20,FRECA,2024,regional,ugo ugochukwu
+12,Enzo_Deligny,Enzo Deligny,61.0,20,18,0,0,0,0,2,20,FRECA,2024,regional,enzo deligny
+13,Enzo_Peugeot,Enzo Peugeot,60.0,20,18,0,0,0,0,2,20,FRECA,2024,regional,enzo peugeot
+14,Zachary_David,Zachary David,55.0,20,18,0,1,0,0,2,20,FRECA,2024,regional,zachary david
+15,Roman_Bili%C5%84ski,Roman Biliński,52.0,12,11,0,1,1,0,1,20,FRECA,2024,regional,roman bilinski
+16,Nikita_Bedrin,Nikita Bedrin,33.0,14,13,0,0,0,0,1,20,FRECA,2024,regional,nikita bedrin
+17,Matteo_De_Palo,Matteo De Palo,29.0,20,14,0,0,0,0,6,20,FRECA,2024,regional,matteo de palo
+18,Kanato_Le,Kanato Le,27.0,20,18,0,1,0,0,2,20,FRECA,2024,regional,kanato le
+19,Michael_Belov,Michael Belov,26.0,6,5,0,1,0,0,1,20,FRECA,2024,regional,michael belov
+20,Valerio_Rinicella,Valerio Rinicella,16.0,20,18,0,0,0,0,2,20,FRECA,2024,regional,valerio rinicella
+21,Nicola_Lacorte,Nicola Lacorte,3.0,20,18,0,0,0,1,2,20,FRECA,2024,regional,nicola lacorte
+22,Nikhil_Bohra,Nikhil Bohra,2.0,20,18,0,0,0,0,2,20,FRECA,2024,regional,nikhil bohra
+23,Ruiqi_Liu,Ruiqi Liu,2.0,20,18,0,0,0,0,2,20,FRECA,2024,regional,ruiqi liu
+24,Giovanni_Maschio,Giovanni Maschio,1.0,20,16,0,0,0,0,4,20,FRECA,2024,regional,giovanni maschio
+25,name:romain andriolo,Romain Andriolo,0.0,20,14,0,0,0,0,6,20,FRECA,2024,regional,romain andriolo
+26,Nandhavud_Bhirombhakdi,Nandhavud Bhirombhakdi,0.0,20,14,0,0,0,0,6,20,FRECA,2024,regional,nandhavud bhirombhakdi
+27,Doriane_Pin,Doriane Pin,0.0,15,13,0,0,0,0,2,20,FRECA,2024,regional,doriane pin
+28,Marta_Garc%C3%ADa_(racing_driver),Marta García,0.0,20,19,0,0,0,0,1,20,FRECA,2024,regional,marta garcia
+29,Maya_Weug,Maya Weug,0.0,2,2,0,0,0,0,0,20,FRECA,2024,regional,maya weug
+30,John_Bennett_(racing_driver),John Bennett,0.0,2,1,0,0,0,0,1,20,FRECA,2024,regional,john bennett
+31,name:edgar pierre,Edgar Pierre,0.0,19,15,0,0,0,0,4,20,FRECA,2024,regional,edgar pierre
+32,Alex_Sawer,Alex Sawer,0.0,16,15,0,0,0,0,1,20,FRECA,2024,regional,alex sawer
+33,Jesse_Carrasquedo_Jr.,Jesse Carrasquedo Jr.,0.0,8,8,0,0,0,0,0,20,FRECA,2024,regional,jesse carrasquedo jr
+34,Costa_Toparis,Costa Toparis,0.0,4,3,0,0,0,0,1,20,FRECA,2024,regional,costa toparis
+35,Yaroslav_Veselaho,Yaroslav Veselaho,0.0,18,16,0,0,0,0,2,20,FRECA,2024,regional,yaroslav veselaho
+36,name:jett bowling,Jett Bowling,0.0,4,4,0,0,0,0,0,20,FRECA,2024,regional,jett bowling
+37,%C3%81lvaro_Cho,Álvaro Cho,0.0,4,4,0,0,0,0,0,20,FRECA,2024,regional,alvaro cho
+38,L%C3%A9na_B%C3%BChler,Léna Bühler,0.0,11,8,0,0,0,0,3,20,FRECA,2024,regional,lena buhler
+39,Enzo_Scionti,Enzo Scionti,0.0,2,2,0,0,0,0,0,20,FRECA,2024,regional,enzo scionti
+40,name:gao yujia,Gao Yujia,0.0,6,5,0,0,0,0,1,20,FRECA,2024,regional,gao yujia
+41,name:isaac barashi,Isaac Barashi,0.0,4,3,0,0,0,0,1,20,FRECA,2024,regional,isaac barashi
+1,Freddie_Slater_(racing_driver),Freddie Slater,313.0,20,17,8,12,6,7,3,20,FRECA,2025,regional,freddie slater
+2,Matteo_De_Palo,Matteo De Palo,277.0,20,19,4,11,3,3,1,20,FRECA,2025,regional,matteo de palo
+3,Enzo_Deligny,Enzo Deligny,235.0,20,18,4,9,4,2,2,20,FRECA,2025,regional,enzo deligny
+4,Pedro_Clerot,Pedro Clerot,235.0,20,20,2,7,3,1,0,20,FRECA,2025,regional,pedro clerot
+5,Evan_Giltaire,Evan Giltaire,185.0,20,20,1,5,2,0,0,20,FRECA,2025,regional,evan giltaire
+6,Akshay_Bohra,Akshay Bohra,159.0,20,19,1,6,1,1,1,20,FRECA,2025,regional,akshay bohra
+7,Taito_Kato,Taito Kato,107.0,20,20,0,2,0,0,0,20,FRECA,2025,regional,taito kato
+8,Rashid_Al_Dhaheri,Rashid Al Dhaheri,105.0,19,18,0,3,1,3,1,20,FRECA,2025,regional,rashid al dhaheri
+9,Hiyu_Yamakoshi,Hiyu Yamakoshi,86.0,20,16,0,2,0,0,4,20,FRECA,2025,regional,hiyu yamakoshi
+10,Jin_Nakamura,Jin Nakamura,81.0,20,17,0,1,0,3,3,20,FRECA,2025,regional,jin nakamura
+11,Nikita_Bedrin,Nikita Bedrin,72.0,20,15,0,2,0,0,5,20,FRECA,2025,regional,nikita bedrin
+12,Dion_Gowda,Dion Gowda,38.0,20,18,0,0,0,0,2,20,FRECA,2025,regional,dion gowda
+13,Jack_Beeton,Jack Beeton,32.0,19,15,0,0,0,0,4,20,FRECA,2025,regional,jack beeton
+14,Kanato_Le,Kanato Le,30.0,20,19,0,0,0,0,1,20,FRECA,2025,regional,kanato le
+15,Michael_Belov,Michael Belov,27.0,18,16,0,0,0,0,2,20,FRECA,2025,regional,michael belov
+16,Nandhavud_Bhirombhakdi,Nandhavud Bhirombhakdi,24.0,20,20,0,0,0,0,0,20,FRECA,2025,regional,nandhavud bhirombhakdi
+17,Giovanni_Maschio,Giovanni Maschio,6.0,20,16,0,0,0,0,4,20,FRECA,2025,regional,giovanni maschio
+18,Ruiqi_Liu,Ruiqi Liu,4.0,20,19,0,0,0,0,1,20,FRECA,2025,regional,ruiqi liu
+19,Ean_Eyckmans,Ean Eyckmans,2.0,8,6,0,0,0,0,2,20,FRECA,2025,regional,ean eyckmans
+20,Reno_Francot,Reno Francot,1.0,2,2,0,0,0,0,0,20,FRECA,2025,regional,reno francot
+21,Edu_Robinson,Edu Robinson,1.0,14,13,0,0,0,0,1,20,FRECA,2025,regional,edu robinson
+22,Enzo_Peugeot,Enzo Peugeot,0.0,6,6,0,0,0,0,0,20,FRECA,2025,regional,enzo peugeot
+23,Enzo_Yeh,Rui-Heng Yeh,0.0,12,12,0,0,0,0,0,20,FRECA,2025,regional,rui heng yeh
+24,Kacper_Sztuka,Kacper Sztuka,0.0,6,6,0,0,0,0,0,20,FRECA,2025,regional,kacper sztuka
+25,Enea_Frey,Enea Frey,0.0,6,4,0,0,0,0,2,20,FRECA,2025,regional,enea frey
+26,Zachary_David,Zachary David,0.0,6,5,0,0,0,0,1,20,FRECA,2025,regional,zachary david
+27,name:aditya kulkarni,Aditya Kulkarni,0.0,9,7,0,0,0,0,2,20,FRECA,2025,regional,aditya kulkarni
+28,Saqer_Al-Maosherji,Saqer Al-Maosherji,0.0,17,16,0,0,0,0,1,20,FRECA,2025,regional,saqer al maosherji
+29,Tim_Gerhards,Tim Gerhards,0.0,16,13,0,0,0,0,3,20,FRECA,2025,regional,tim gerhards
+30,Doriane_Pin,Doriane Pin,0.0,8,6,0,0,0,0,2,20,FRECA,2025,regional,doriane pin
+31,name:edouard borgna,Édouard Borgna,0.0,20,18,0,0,0,0,2,20,FRECA,2025,regional,edouard borgna
+32,Mac%C3%A9o_Capietto,Macéo Capietto,0.0,4,3,0,0,0,0,1,20,FRECA,2025,regional,maceo capietto
+33,Zhenrui_Chi,Zhenrui Chi,0.0,4,3,0,0,0,0,1,20,FRECA,2025,regional,zhenrui chi
+34,Yaroslav_Veselaho,Yaroslav Veselaho,0.0,17,17,0,0,0,0,0,20,FRECA,2025,regional,yaroslav veselaho
+35,Enzo_Richer,Enzo Richer,0.0,2,2,0,0,0,0,0,20,FRECA,2025,regional,enzo richer
+36,name:arthur aegerter,Arthur Aegerter,0.0,5,4,0,0,0,0,1,20,FRECA,2025,regional,arthur aegerter
+37,Javier_Sagrera,Javier Sagrera,0.0,4,2,0,0,0,0,2,20,FRECA,2025,regional,javier sagrera
+38,Valerio_Rinicella,Valerio Rinicella,0.0,2,1,0,0,0,0,1,20,FRECA,2025,regional,valerio rinicella
+39,Maya_Weug,Maya Weug,0.0,2,1,0,0,0,0,1,20,FRECA,2025,regional,maya weug
+1,Sandy_Stuvik,Sandy Stuvik,332.0,17,16,12,13,11,6,1,17,Euroformula Open,2014,regional,sandy stuvik
+2,Artur_Janosz,Artur Janosz,243.0,17,15,2,9,3,5,2,17,Euroformula Open,2014,regional,artur janosz
+3,%C3%81lex_Palou,Álex Palou,242.0,17,15,3,11,3,4,2,17,Euroformula Open,2014,regional,alex palou
+4,Yu_Kanamaru,Yu Kanamaru,128.0,17,17,0,5,0,2,0,17,Euroformula Open,2014,regional,yu kanamaru
+5,name:yarin stern,Yarin Stern,125.0,17,12,0,6,0,0,5,17,Euroformula Open,2014,regional,yarin stern
+6,Konstantin_Tereshchenko,Konstantin Tereshchenko,75.0,16,15,0,1,0,0,1,17,Euroformula Open,2014,regional,konstantin tereshchenko
+7,Tanart_Sathienthirakul,Tanart Sathienthirakul,69.0,16,14,0,0,0,0,2,17,Euroformula Open,2014,regional,tanart sathienthirakul
+8,name:andres saravia,Andrés Saravia,61.0,16,13,0,1,0,0,3,17,Euroformula Open,2014,regional,andres saravia
+9,name:cameron twynham,Cameron Twynham,53.0,9,8,0,1,0,0,1,17,Euroformula Open,2014,regional,cameron twynham
+10,Sean_Walkinshaw,Sean Walkinshaw,53.0,17,16,0,0,0,0,1,17,Euroformula Open,2014,regional,sean walkinshaw
+11,name:john simonyan,John Simonyan,38.0,17,11,0,1,0,0,6,17,Euroformula Open,2014,regional,john simonyan
+12,name:nicolas pohler,Nicolas Pohler,38.0,15,10,0,0,0,0,5,17,Euroformula Open,2014,regional,nicolas pohler
+13,Christopher_H%C3%B6her,Christopher Höher,35.0,9,7,0,1,0,0,2,17,Euroformula Open,2014,regional,christopher hoher
+14,name:che one lim,Che One Lim,35.0,17,10,0,0,0,0,7,17,Euroformula Open,2014,regional,che one lim
+15,name:gerardo nieto,Gerardo Nieto,26.0,6,6,0,0,0,0,0,17,Euroformula Open,2014,regional,gerardo nieto
+16,name:damiano fioravanti,Damiano Fioravanti,26.0,8,7,0,0,0,0,1,17,Euroformula Open,2014,regional,damiano fioravanti
+17,name:alexander toril,Alexander Toril,18.0,2,2,0,0,0,0,0,17,Euroformula Open,2014,regional,alexander toril
+18,Shaun_Thong,Wei Fung Thong,16.0,17,13,0,0,0,0,4,17,Euroformula Open,2014,regional,wei fung thong
+19,Leonardo_Pulcini,Leonardo Pulcini,14.0,2,2,0,0,0,0,0,17,Euroformula Open,2014,regional,leonardo pulcini
+20,name:henrique baptista,Henrique Baptista,11.0,17,13,0,0,0,0,4,17,Euroformula Open,2014,regional,henrique baptista
+21,name:saud al faisal,Saud Al Faisal,6.0,17,13,0,0,0,0,4,17,Euroformula Open,2014,regional,saud al faisal
+22,name:igor urien,Igor Urien,2.0,4,3,0,0,0,0,1,17,Euroformula Open,2014,regional,igor urien
+23,name:costantino peroni,Costantino Peroni,2.0,11,10,0,0,0,0,1,17,Euroformula Open,2014,regional,costantino peroni
+24,name:william barbosa,William Barbosa,0.0,14,9,0,0,0,0,5,17,Euroformula Open,2014,regional,william barbosa
+25,name:tommaso menchini,Tommaso Menchini,0.0,2,1,0,0,0,0,1,17,Euroformula Open,2014,regional,tommaso menchini
+1,Vitor_Baptista_(racing_driver),Vitor Baptista,291.0,18,17,6,13,5,7,1,18,Euroformula Open,2015,regional,vitor baptista
+2,Konstantin_Tereshchenko,Konstantin Tereshchenko,286.0,18,16,6,12,8,6,2,18,Euroformula Open,2015,regional,konstantin tereshchenko
+3,Yu_Kanamaru,Yu Kanamaru,206.0,18,17,2,9,3,1,1,18,Euroformula Open,2015,regional,yu kanamaru
+4,Tanart_Sathienthirakul,Tanart Sathienthirakul,133.0,18,17,0,3,0,0,1,18,Euroformula Open,2015,regional,tanart sathienthirakul
+5,name:yarin stern,Yarin Stern,119.0,18,13,0,3,1,0,5,18,Euroformula Open,2015,regional,yarin stern
+6,Alessio_Rovera,Alessio Rovera,100.0,14,12,2,6,0,2,2,18,Euroformula Open,2015,regional,alessio rovera
+7,name:damiano fioravanti,Damiano Fioravanti,96.0,18,15,1,1,0,1,3,18,Euroformula Open,2015,regional,damiano fioravanti
+8,Diego_Menchaca,Diego Menchaca,94.0,18,17,0,1,0,0,1,18,Euroformula Open,2015,regional,diego menchaca
+9,Leonardo_Pulcini,Leonardo Pulcini,91.0,17,13,1,2,0,0,4,18,Euroformula Open,2015,regional,leonardo pulcini
+10,Igor_Wali%C5%82ko,Igor Waliłko,62.0,18,15,0,2,0,0,3,18,Euroformula Open,2015,regional,igor waliko
+11,name:william barbosa,William Barbosa,41.0,13,11,0,0,0,0,2,18,Euroformula Open,2015,regional,william barbosa
+12,name:andres saravia,Andrés Saravia,41.0,18,16,0,0,0,0,2,18,Euroformula Open,2015,regional,andres saravia
+13,name:antoni ptak jr,Antoni Ptak Jr.,19.0,18,15,0,0,0,0,3,18,Euroformula Open,2015,regional,antoni ptak jr
+14,name:dzhon simonyan,Dzhon Simonyan,14.0,6,4,0,1,0,0,2,18,Euroformula Open,2015,regional,dzhon simonyan
+15,name:henrique baptista,Henrique Baptista,14.0,18,14,0,0,0,0,4,18,Euroformula Open,2015,regional,henrique baptista
+16,Kantadhee_Kusiri,Kantadhee Kusiri,13.0,6,4,0,0,0,1,2,18,Euroformula Open,2015,regional,kantadhee kusiri
+17,name:ahmad al ghanem,Ahmad Al Ghanem,4.0,16,15,0,0,0,0,1,18,Euroformula Open,2015,regional,ahmad al ghanem
+18,name:parth ghorpade,Parth Ghorpade,2.0,6,5,0,0,0,0,1,18,Euroformula Open,2015,regional,parth ghorpade
+19,name:jose manuel vilalta,José Manuel Vilalta,1.0,18,15,0,0,0,0,3,18,Euroformula Open,2015,regional,jose manuel vilalta
+20,Luis_Michael_D%C3%B6rrbecker,Luis Michael Dörrbecker,1.0,6,6,0,0,0,0,0,18,Euroformula Open,2015,regional,luis michael dorrbecker
+21,Aleksey_Chuklin,Aleksey Chuklin,0.0,8,6,0,0,0,0,2,18,Euroformula Open,2015,regional,aleksey chuklin
+22,name:javier cobian,Javier Cobián,0.0,2,2,0,0,0,0,0,18,Euroformula Open,2015,regional,javier cobian
+23,name:otto sanchez,Otto Sánchez,0.0,2,2,0,0,0,0,0,18,Euroformula Open,2015,regional,otto sanchez
+1,Leonardo_Pulcini,Leonardo Pulcini,303.0,18,18,8,15,3,8,0,18,Euroformula Open,2016,regional,leonardo pulcini
+2,Ferdinand_Zvonimir_von_Habsburg,Ferdinand Habsburg,247.0,18,17,2,14,5,1,1,18,Euroformula Open,2016,regional,ferdinand habsburg
+3,Colton_Herta,Colton Herta,199.0,15,13,4,6,5,4,2,18,Euroformula Open,2016,regional,colton herta
+4,Diego_Menchaca,Diego Menchaca,145.0,18,16,1,5,0,2,2,18,Euroformula Open,2016,regional,diego menchaca
+5,name:damiano fioravanti,Damiano Fioravanti,136.0,18,16,0,4,1,0,2,18,Euroformula Open,2016,regional,damiano fioravanti
+6,name:antoni ptak jr,Antoni Ptak Jr.,94.0,17,12,1,2,0,1,5,18,Euroformula Open,2016,regional,antoni ptak jr
+7,Tanart_Sathienthirakul,Tanart Sathienthirakul,80.0,16,15,0,0,0,0,1,18,Euroformula Open,2016,regional,tanart sathienthirakul
+8,Jack_Aitken,Jack Aitken,71.0,6,6,2,3,2,1,0,18,Euroformula Open,2016,regional,jack aitken
+9,Tatiana_Calder%C3%B3n,Tatiana Calderón,66.0,12,11,0,2,0,0,1,18,Euroformula Open,2016,regional,tatiana calderon
+10,Igor_Wali%C5%82ko,Igor Waliłko,50.0,10,10,0,0,0,0,0,18,Euroformula Open,2016,regional,igor waliko
+11,Enaam_Ahmed,Enaam Ahmed,49.0,8,7,0,0,0,0,1,18,Euroformula Open,2016,regional,enaam ahmed
+12,Keyvan_Andres_Soori,Keyvan Andres Soori,42.0,18,16,0,0,0,0,2,18,Euroformula Open,2016,regional,keyvan andres soori
+13,Nikita_Troitskiy,Nikita Troitskiy,36.0,4,4,0,1,1,0,0,18,Euroformula Open,2016,regional,nikita troitskiy
+14,Julio_Moreno_(racing_driver),Julio Moreno,30.0,18,13,0,0,0,1,5,18,Euroformula Open,2016,regional,julio moreno
+15,Ameya_Vaidyanathan,Ameya Vaidyanathan,26.0,16,15,0,0,0,0,1,18,Euroformula Open,2016,regional,ameya vaidyanathan
+16,Ye_Hongli,Ye Hongli,26.0,8,7,0,0,0,0,1,18,Euroformula Open,2016,regional,ye hongli
+17,Kantadhee_Kusiri,Kantadhee Kusiri,21.0,18,17,0,0,0,0,1,18,Euroformula Open,2016,regional,kantadhee kusiri
+18,name:nikita zlobin,Nikita Zlobin,12.0,17,13,0,0,0,0,4,18,Euroformula Open,2016,regional,nikita zlobin
+19,name:sam macleod,Sam Macleod,8.0,2,2,0,0,0,0,0,18,Euroformula Open,2016,regional,sam macleod
+20,Vladimir_Atoev,Vladimir Atoev,3.0,6,4,0,0,0,0,2,18,Euroformula Open,2016,regional,vladimir atoev
+21,name:daniil pronenko,Daniil Pronenko,2.0,16,14,0,0,0,0,2,18,Euroformula Open,2016,regional,daniil pronenko
+22,name:riccardo cazzaniga,Riccardo Cazzaniga,1.0,8,7,0,0,0,0,1,18,Euroformula Open,2016,regional,riccardo cazzaniga
+23,name:daniele cazzaniga,Daniele Cazzaniga,1.0,8,7,0,0,0,0,1,18,Euroformula Open,2016,regional,daniele cazzaniga
+24,Kang_Ling,Kang Ling,0.0,7,6,0,0,0,0,1,18,Euroformula Open,2016,regional,kang ling
+25,Petru_Florescu,Petru Florescu,0.0,6,6,0,0,0,0,0,18,Euroformula Open,2016,regional,petru florescu
+26,name:gulhuseyn abdullayev,Gülhüseyn Abdullayev,0.0,17,16,0,0,0,0,1,18,Euroformula Open,2016,regional,gulhuseyn abdullayev
+27,name:jose manuel vilalta,Jose Manuel Vilalta,0.0,8,5,0,0,0,0,3,18,Euroformula Open,2016,regional,jose manuel vilalta
+28,Liang_Jiatong,Liang Jiatong,0.0,6,6,0,0,0,0,0,18,Euroformula Open,2016,regional,liang jiatong
+1,Harrison_Scott,Harrison Scott,340.0,16,16,13,14,11,10,0,18,Euroformula Open,2017,regional,harrison scott
+2,Nikita_Troitskiy,Nikita Troitskiy,222.0,18,17,0,11,3,4,1,18,Euroformula Open,2017,regional,nikita troitskiy
+3,Devlin_DeFrancesco,Devlin DeFrancesco,172.0,18,15,1,7,0,0,3,18,Euroformula Open,2017,regional,devlin defrancesco
+4,Ameya_Vaidyanathan,Ameya Vaidyanathan,169.0,18,16,1,5,1,1,2,18,Euroformula Open,2017,regional,ameya vaidyanathan
+5,Jannes_Fittje,Jannes Fittje,159.0,18,17,0,5,1,0,1,18,Euroformula Open,2017,regional,jannes fittje
+6,Simo_Laaksonen,Simo Laaksonen,100.0,18,15,0,2,0,0,3,18,Euroformula Open,2017,regional,simo laaksonen
+7,name:thiago vivacqua,Thiago Vivacqua,98.0,18,15,1,4,0,1,3,18,Euroformula Open,2017,regional,thiago vivacqua
+8,name:alex karkosik,Alex Karkosik,98.0,16,14,0,2,0,1,2,18,Euroformula Open,2017,regional,alex karkosik
+9,name:matheus iorio,Matheus Iorio,52.0,18,13,0,1,0,0,5,18,Euroformula Open,2017,regional,matheus iorio
+10,Petru_Florescu,Petru Florescu,45.0,18,13,0,0,0,0,5,18,Euroformula Open,2017,regional,petru florescu
+11,name:ben hingeley,Ben Hingeley,44.0,8,7,0,0,0,0,1,18,Euroformula Open,2017,regional,ben hingeley
+12,name:eliseo martinez,Eliseo Martínez,44.0,18,18,0,0,0,0,0,18,Euroformula Open,2017,regional,eliseo martinez
+13,Raoul_Hyman,Raoul Hyman,28.0,2,2,0,1,1,0,0,18,Euroformula Open,2017,regional,raoul hyman
+14,name:tarun reddy,Tarun Reddy,26.0,16,10,0,0,0,0,6,18,Euroformula Open,2017,regional,tarun reddy
+15,Cameron_Das,Cameron Das,13.0,8,6,0,0,0,0,2,18,Euroformula Open,2017,regional,cameron das
+16,name:christian hahn,Christian Hahn,11.0,18,16,0,0,0,0,2,18,Euroformula Open,2017,regional,christian hahn
+17,Guilherme_Samaia,Guilherme Samaia,7.0,8,6,0,0,0,0,2,18,Euroformula Open,2017,regional,guilherme samaia
+18,name:lodovico laurini,Lodovico Laurini,6.0,18,14,0,0,0,0,4,18,Euroformula Open,2017,regional,lodovico laurini
+19,name:pedro cardoso,Pedro Cardoso,3.0,18,15,0,0,0,0,3,18,Euroformula Open,2017,regional,pedro cardoso
+20,name:javier cobian,Javier Cobián,2.0,4,4,0,0,0,0,0,18,Euroformula Open,2017,regional,javier cobian
+21,Aleksey_Chuklin,Aleksey Chuklin,1.0,6,5,0,0,0,0,1,18,Euroformula Open,2017,regional,aleksey chuklin
+22,name:daniil pronenko,Daniil Pronenko,0.0,16,12,0,0,0,0,4,18,Euroformula Open,2017,regional,daniil pronenko
+23,name:yan leon shlom,Yan Leon Shlom,0.0,6,4,1,1,0,1,2,18,Euroformula Open,2017,regional,yan leon shlom
+24,name:najiy razak,Najiy Razak,0.0,2,1,0,0,0,0,1,18,Euroformula Open,2017,regional,najiy razak
+25,Daniel_Lu,Daniel Lu,0.0,4,3,0,0,0,0,1,18,Euroformula Open,2017,regional,daniel lu
+1,Felipe_Drugovich,Felipe Drugovich,405.0,18,18,14,18,10,10,0,18,Euroformula Open,2018,regional,felipe drugovich
+2,Bent_Viscaal,Bent Viscaal,246.0,18,17,3,14,5,4,1,18,Euroformula Open,2018,regional,bent viscaal
+3,Marcos_Siebert,Marcos Siebert,195.0,16,15,1,7,1,2,1,18,Euroformula Open,2018,regional,marcos siebert
+4,name:matheus iorio,Matheus Iorio,178.0,18,16,0,5,0,0,2,18,Euroformula Open,2018,regional,matheus iorio
+5,Cameron_Das,Cameron Das,159.0,18,16,0,5,0,1,2,18,Euroformula Open,2018,regional,cameron das
+6,Guilherme_Samaia,Guilherme Samaia,94.0,18,17,0,1,0,0,1,18,Euroformula Open,2018,regional,guilherme samaia
+7,Lukas_Dunner,Lukas Dunner,81.0,17,13,0,2,0,0,4,18,Euroformula Open,2018,regional,lukas dunner
+8,name:alex karkosik,Alex Karkosik,66.0,12,9,0,1,0,0,3,18,Euroformula Open,2018,regional,alex karkosik
+9,Aldo_Festante,Aldo Festante,29.0,18,11,0,0,0,0,7,18,Euroformula Open,2018,regional,aldo festante
+10,name:christian hahn,Christian Hahn,29.0,16,13,0,0,0,0,3,18,Euroformula Open,2018,regional,christian hahn
+11,Calan_Williams,Calan Williams,25.0,14,13,0,0,0,0,1,18,Euroformula Open,2018,regional,calan williams
+12,Jannes_Fittje,Jannes Fittje,22.0,8,8,0,1,0,0,0,18,Euroformula Open,2018,regional,jannes fittje
+13,Petru_Florescu,Petru Florescu,21.0,6,4,0,0,1,0,2,18,Euroformula Open,2018,regional,petru florescu
+14,Kaylen_Frederick,Kaylen Frederick,21.0,4,4,0,0,0,1,0,18,Euroformula Open,2018,regional,kaylen frederick
+15,Leonardo_Lorandi,Leonardo Lorandi,20.0,2,2,0,0,0,0,0,18,Euroformula Open,2018,regional,leonardo lorandi
+16,Yves_Baltas,Yves Baltas,18.0,10,8,0,0,0,0,2,18,Euroformula Open,2018,regional,yves baltas
+17,Dev_Gore,Dev Gore,11.0,8,7,0,0,0,0,1,18,Euroformula Open,2018,regional,dev gore
+18,Leonard_Hoogenboom,Leonard Hoogenboom,9.0,4,3,0,0,0,0,1,18,Euroformula Open,2018,regional,leonard hoogenboom
+19,Micha%C3%ABl_Benyahia,Michaël Benyahia,9.0,8,7,0,0,0,0,1,18,Euroformula Open,2018,regional,michael benyahia
+20,Ra%C3%BAl_Guzm%C3%A1n_(racing_driver),Raúl Guzmán,0.0,2,2,0,0,0,0,0,18,Euroformula Open,2018,regional,raul guzman
+21,name:moritz muller crepon,Moritz Müller-Crepon,0.0,4,3,0,0,0,0,1,18,Euroformula Open,2018,regional,moritz muller crepon
+1,Marino_Sato,Marino Sato,307.0,16,15,9,11,6,5,0,20,Euroformula Open,2019,regional,marino sato
+2,Liam_Lawson,Liam Lawson,179.0,14,11,4,7,2,1,3,20,Euroformula Open,2019,regional,liam lawson
+3,Lukas_Dunner,Lukas Dunner,178.0,20,17,0,6,2,2,2,20,Euroformula Open,2019,regional,lukas dunner
+4,Yuki_Tsunoda,Yuki Tsunoda,151.0,14,12,1,6,0,3,2,20,Euroformula Open,2019,regional,yuki tsunoda
+5,Linus_Lundqvist,Linus Lundqvist,144.0,20,17,1,3,1,1,2,20,Euroformula Open,2019,regional,linus lundqvist
+6,Teppei_Natori,Teppei Natori,115.0,15,15,1,5,2,1,0,20,Euroformula Open,2019,regional,teppei natori
+7,Nicolai_Kj%C3%A6rgaard,Nicolai Kjærgaard,111.0,20,18,0,5,0,2,2,20,Euroformula Open,2019,regional,nicolai kjrgaard
+8,Julian_Hanses,Julian Hanses,98.0,12,10,0,4,1,0,2,20,Euroformula Open,2019,regional,julian hanses
+9,Billy_Monger,Billy Monger,89.0,20,19,1,2,1,0,1,20,Euroformula Open,2019,regional,billy monger
+10,name:christian hahn,Christian Hahn,84.0,20,16,0,2,0,0,4,20,Euroformula Open,2019,regional,christian hahn
+11,Jack_Doohan_(racing_driver),Jack Doohan,79.0,16,14,0,2,0,0,2,20,Euroformula Open,2019,regional,jack doohan
+12,Cameron_Das,Cameron Das,54.0,18,16,0,0,0,1,2,20,Euroformula Open,2019,regional,cameron das
+13,Calan_Williams,Calan Williams,53.0,18,18,0,0,0,0,0,20,Euroformula Open,2019,regional,calan williams
+14,Toshiki_Oyu,Toshiki Oyu,52.0,2,2,2,2,2,0,0,20,Euroformula Open,2019,regional,toshiki oyu
+15,Enaam_Ahmed,Enaam Ahmed,37.0,2,2,0,2,0,1,0,20,Euroformula Open,2019,regional,enaam ahmed
+16,Guilherme_Samaia,Guilherme Samaia,26.0,10,10,0,1,0,1,0,20,Euroformula Open,2019,regional,guilherme samaia
+17,name:javier gonzalez,Javier González,22.0,7,6,0,0,0,0,1,20,Euroformula Open,2019,regional,javier gonzalez
+18,Nobuharu_Matsushita,Nobuharu Matsushita,20.0,3,2,1,2,2,2,1,20,Euroformula Open,2019,regional,nobuharu matsushita
+19,Dennis_Hauger,Dennis Hauger,18.0,2,2,0,0,0,0,0,20,Euroformula Open,2019,regional,dennis hauger
+20,Niklas_Kr%C3%BCtten,Niklas Krütten,14.0,6,6,0,0,0,0,0,20,Euroformula Open,2019,regional,niklas krutten
+21,Aldo_Festante,Aldo Festante,10.0,14,11,0,0,0,0,3,20,Euroformula Open,2019,regional,aldo festante
+22,Rui_Andrade_(racing_driver),Rui Andrade,6.0,18,15,0,0,0,0,3,20,Euroformula Open,2019,regional,rui andrade
+23,Pierre-Louis_Chovet,Pierre-Louis Chovet,2.0,7,5,0,0,0,0,2,20,Euroformula Open,2019,regional,pierre louis chovet
+24,Manuel_Maldonado,Manuel Maldonado,0.0,2,2,0,0,0,0,0,20,Euroformula Open,2019,regional,manuel maldonado
+25,name:stuart wiltshire,Stuart Wiltshire,0.0,4,4,0,0,0,0,0,20,Euroformula Open,2019,regional,stuart wiltshire
+26,Petru_Florescu,Petru Florescu,0.0,2,2,0,0,0,0,0,20,Euroformula Open,2019,regional,petru florescu
+27,Franco_Colapinto,Franco Colapinto,0.0,2,2,0,0,0,0,0,20,Euroformula Open,2019,regional,franco colapinto
+28,Artem_Petrov,Artem Petrov,0.0,2,1,0,0,0,0,1,20,Euroformula Open,2019,regional,artem petrov
+29,name:dimitrios tsimpris,Dimitrios Tsimpris,0.0,2,2,0,0,0,0,0,20,Euroformula Open,2019,regional,dimitrios tsimpris
+30,name:stefano leaney,Stefano Leaney,0.0,2,1,0,0,0,0,1,20,Euroformula Open,2019,regional,stefano leaney
+1,Yifei_Ye,Yifei Ye,369.0,18,16,11,15,12,12,0,18,Euroformula Open,2020,regional,yifei ye
+2,Lukas_Dunner,Lukas Dunner,248.0,14,14,5,10,5,4,0,18,Euroformula Open,2020,regional,lukas dunner
+3,Andreas_Estner,Andreas Estner,177.0,18,16,0,6,0,0,1,18,Euroformula Open,2020,regional,andreas estner
+4,Manuel_Maldonado,Manuel Maldonado,153.0,18,17,0,4,0,0,1,18,Euroformula Open,2020,regional,manuel maldonado
+5,Niklas_Kr%C3%BCtten,Niklas Krütten,153.0,18,16,0,5,0,0,0,18,Euroformula Open,2020,regional,niklas krutten
+6,Cameron_Das,Cameron Das,123.0,14,14,0,2,0,1,0,18,Euroformula Open,2020,regional,cameron das
+7,Ido_Cohen,Ido Cohen,114.0,18,16,0,2,0,0,2,18,Euroformula Open,2020,regional,ido cohen
+8,Zane_Maloney,Zane Maloney,113.0,17,15,0,2,0,0,2,18,Euroformula Open,2020,regional,zane maloney
+9,Glenn_van_Berlo,Glenn van Berlo,80.0,18,16,0,1,0,0,1,18,Euroformula Open,2020,regional,glenn van berlo
+10,name:sebastian estner,Sebastian Estner,76.0,18,17,0,2,0,1,1,18,Euroformula Open,2020,regional,sebastian estner
+11,Ayrton_Simmons,Ayrton Simmons,62.0,9,9,0,0,0,0,0,18,Euroformula Open,2020,regional,ayrton simmons
+12,Louis_Foster,Louis Foster,57.0,7,5,1,2,0,0,2,18,Euroformula Open,2020,regional,louis foster
+13,Ben_Barnicoat,Ben Barnicoat,41.0,2,2,1,2,1,0,0,18,Euroformula Open,2020,regional,ben barnicoat
+14,Rui_Andrade_(racing_driver),Rui Andrade,28.0,18,17,0,0,0,0,1,18,Euroformula Open,2020,regional,rui andrade
+15,Benjamin_Pedersen,Benjamin Pedersen,14.0,3,2,0,0,0,0,1,18,Euroformula Open,2020,regional,benjamin pedersen
+16,Alexandre_Bardinon,Alexandre Bardinon,9.0,18,14,0,0,0,0,4,18,Euroformula Open,2020,regional,alexandre bardinon
+17,name:shihab al habsi,Shihab Al Habsi,6.0,6,6,0,0,0,0,0,18,Euroformula Open,2020,regional,shihab al habsi
+18,Matthias_L%C3%BCthen,Matthias Lüthen,0.0,4,4,0,0,0,0,0,18,Euroformula Open,2020,regional,matthias luthen
+1,Cameron_Das,Cameron Das,382.0,24,22,7,16,1,6,2,24,Euroformula Open,2021,regional,cameron das
+2,Louis_Foster,Louis Foster,315.0,24,21,3,13,2,4,3,24,Euroformula Open,2021,regional,louis foster
+3,Jak_Crawford,Jak Crawford,304.0,16,16,8,10,4,12,0,24,Euroformula Open,2021,regional,jak crawford
+4,Nazim_Azman,Nazim Azman,262.0,24,24,1,7,0,0,0,24,Euroformula Open,2021,regional,nazim azman
+5,Cem_B%C3%B6l%C3%BCkba%C5%9F%C4%B1,Cem Bölükbaşı,217.0,15,14,2,8,1,1,1,24,Euroformula Open,2021,regional,cem bolukbas
+6,Casper_Stevenson,Casper Stevenson,214.0,24,24,2,4,0,0,0,24,Euroformula Open,2021,regional,casper stevenson
+7,Enzo_Trulli,Enzo Trulli,144.0,21,19,0,4,0,1,2,24,Euroformula Open,2021,regional,enzo trulli
+8,Rafael_Villag%C3%B3mez,Rafael Villagómez,135.0,18,16,0,5,0,0,2,24,Euroformula Open,2021,regional,rafael villagomez
+9,Josh_Mason,Josh Mason,89.0,24,20,0,0,0,0,4,24,Euroformula Open,2021,regional,josh mason
+10,name:filip kaminiarz,Filip Kaminiarz,80.0,24,21,0,1,0,0,3,24,Euroformula Open,2021,regional,filip kaminiarz
+11,Christian_Mansell,Christian Mansell,79.0,9,9,0,1,0,0,0,24,Euroformula Open,2021,regional,christian mansell
+12,Roman_Stan%C4%9Bk,Roman Staněk,55.0,3,3,1,2,0,0,0,24,Euroformula Open,2021,regional,roman stanek
+13,Brad_Benavides,Brad Benavides,39.0,9,9,0,0,0,0,0,24,Euroformula Open,2021,regional,brad benavides
+14,Enzo_Scionti,Enzo Scionti,33.0,24,22,0,0,0,0,2,24,Euroformula Open,2021,regional,enzo scionti
+15,Zden%C4%9Bk_Chovanec,Zdeněk Chovanec,33.0,18,15,0,0,0,0,3,24,Euroformula Open,2021,regional,zdenek chovanec
+16,Reshad_de_Gerus,Reshad de Gerus,30.0,6,6,0,0,0,0,0,24,Euroformula Open,2021,regional,reshad de gerus
+17,Joshua_D%C3%BCrksen,Joshua Dürksen,29.0,3,3,0,1,0,0,0,24,Euroformula Open,2021,regional,joshua durksen
+18,Francesco_Simonazzi,Francesco Simonazzi,15.0,6,6,0,0,0,0,0,24,Euroformula Open,2021,regional,francesco simonazzi
+19,name:branden lee oxley,Branden Lee Oxley,13.0,3,3,0,0,0,0,0,24,Euroformula Open,2021,regional,branden lee oxley
+20,Vivien_Keszthelyi,Vivien Keszthelyi,12.0,12,11,0,0,0,0,1,24,Euroformula Open,2021,regional,vivien keszthelyi
+21,Andreas_Estner,Andreas Estner,6.0,3,3,0,0,0,0,0,24,Euroformula Open,2021,regional,andreas estner
+22,Nico_Pino,Nico Pino,4.0,3,2,0,0,0,0,1,24,Euroformula Open,2021,regional,nico pino
+23,Matthias_L%C3%BCthen,Matthias Lüthen,0.0,3,2,0,0,0,0,1,24,Euroformula Open,2021,regional,matthias luthen
+1,Oliver_Goethe,Oliver Goethe,473.0,26,26,11,18,7,12,0,26,Euroformula Open,2022,regional,oliver goethe
+2,Vladislav_Lomko,Vladislav Lomko,416.0,26,26,6,19,2,5,0,26,Euroformula Open,2022,regional,vladislav lomko
+3,Christian_Mansell,Christian Mansell,377.0,26,24,3,15,1,3,2,26,Euroformula Open,2022,regional,christian mansell
+4,Frederick_Lubin,Frederick Lubin,293.0,26,25,1,9,0,2,1,26,Euroformula Open,2022,regional,frederick lubin
+5,Josh_Mason,Josh Mason,278.0,26,23,3,7,0,1,3,26,Euroformula Open,2022,regional,josh mason
+6,Francesco_Simonazzi,Francesco Simonazzi,197.0,26,25,1,4,0,1,1,26,Euroformula Open,2022,regional,francesco simonazzi
+7,"Alex_Garc%C3%ADa_(racing_driver,_born_2003)",Alex García,116.0,26,20,0,1,0,0,6,26,Euroformula Open,2022,regional,alex garcia
+8,Sebastian_%C3%98gaard,Sebastian Øgaard,114.0,11,11,1,2,0,0,0,26,Euroformula Open,2022,regional,sebastian gaard
+9,Filip_Ugran,Filip Ugran,92.0,11,10,0,1,0,1,1,26,Euroformula Open,2022,regional,filip ugran
+10,Ayrton_Simmons,Ayrton Simmons,85.0,9,9,0,2,0,1,0,26,Euroformula Open,2022,regional,ayrton simmons
+11,name:vladimir netusil,Vladimír Netušil,51.0,15,15,0,0,0,0,0,26,Euroformula Open,2022,regional,vladimir netusil
+12,Nicola_Marinangeli,Nicola Marinangeli,36.0,8,6,0,0,0,0,2,26,Euroformula Open,2022,regional,nicola marinangeli
+13,Alex_Peroni,Alex Peroni,23.0,3,3,0,0,0,0,0,26,Euroformula Open,2022,regional,alex peroni
+14,Nico_Pino,Nico Pino,20.0,8,5,0,0,0,0,3,26,Euroformula Open,2022,regional,nico pino
+15,name:benjamin berta,Benjámin Berta,14.0,3,3,0,0,0,0,0,26,Euroformula Open,2022,regional,benjamin berta
+16,Daniel_Nogales,Daniel Nogales,4.0,3,1,0,0,0,0,2,26,Euroformula Open,2022,regional,daniel nogales
+17,name:filip kaminiarz,Filip Kaminiarz,3.0,3,2,0,0,0,0,1,26,Euroformula Open,2022,regional,filip kaminiarz
+1,Noel_Le%C3%B3n,Noel León,394.0,23,20,7,16,5,11,3,23,Euroformula Open,2023,regional,noel leon
+2,Cian_Shields,Cian Shields,307.0,23,22,4,10,0,3,1,23,Euroformula Open,2023,regional,cian shields
+3,Francesco_Simonazzi,Francesco Simonazzi,289.0,23,22,2,8,0,2,1,23,Euroformula Open,2023,regional,francesco simonazzi
+4,Bryce_Aron,Bryce Aron,238.0,20,19,3,5,0,1,1,23,Euroformula Open,2023,regional,bryce aron
+5,name:jakob bergmeister,Jakob Bergmeister,148.0,17,16,0,3,0,0,1,23,Euroformula Open,2023,regional,jakob bergmeister
+6,Charlie_Wurz,Charlie Wurz,139.0,11,9,1,5,1,3,2,23,Euroformula Open,2023,regional,charlie wurz
+7,Joshua_Dufek,Joshua Dufek,138.0,8,8,1,7,0,0,0,23,Euroformula Open,2023,regional,joshua dufek
+8,Juju_Noda,Juju Noda,118.0,12,12,1,3,0,1,0,23,Euroformula Open,2023,regional,juju noda
+9,Levente_R%C3%A9v%C3%A9sz,Levente Révész,103.0,8,8,1,3,0,0,0,23,Euroformula Open,2023,regional,levente revesz
+10,Enzo_Trulli,Enzo Trulli,98.0,6,6,2,3,2,0,0,23,Euroformula Open,2023,regional,enzo trulli
+11,Josh_Mason,Josh Mason,96.0,6,6,1,3,0,0,0,23,Euroformula Open,2023,regional,josh mason
+12,Tim_Tramnitz,Tim Tramnitz,55.0,3,3,0,3,0,2,0,23,Euroformula Open,2023,regional,tim tramnitz
+13,name:vladimir netusil,Vladimír Netušil,29.0,12,11,0,0,0,0,1,23,Euroformula Open,2023,regional,vladimir netusil
+14,name:paolo brajnik,Paolo Brajnik,26.0,11,7,0,0,0,0,4,23,Euroformula Open,2023,regional,paolo brajnik
+15,name:vladislav ryabov,Vladislav Ryabov,24.0,3,3,0,0,0,0,0,23,Euroformula Open,2023,regional,vladislav ryabov
+16,name:benjamin berta,Benjámin Berta,20.0,3,3,0,0,0,0,0,23,Euroformula Open,2023,regional,benjamin berta
+17,name:attila penzes,Attila Pénzes,16.0,3,3,0,0,0,0,0,23,Euroformula Open,2023,regional,attila penzes
+18,Gerrard_Xie,Gerrard Xie,8.0,3,2,0,0,0,0,1,23,Euroformula Open,2023,regional,gerrard xie
+1,Brad_Benavides,Brad Benavides,431.0,24,21,9,19,4,10,0,24,Euroformula Open,2024,regional,brad benavides
+2,Francesco_Simonazzi,Francesco Simonazzi,345.0,24,21,5,12,2,6,0,24,Euroformula Open,2024,regional,francesco simonazzi
+3,Fernando_Barrichello,Fernando Barrichello,264.0,24,21,1,5,0,1,0,24,Euroformula Open,2024,regional,fernando barrichello
+4,name:jakob bergmeister,Jakob Bergmeister,243.0,18,18,1,7,0,0,0,24,Euroformula Open,2024,regional,jakob bergmeister
+5,Levente_R%C3%A9v%C3%A9sz,Levente Révész,236.0,18,17,1,8,0,3,1,24,Euroformula Open,2024,regional,levente revesz
+6,Michael_Shin,Michael Shin,187.0,12,12,2,6,1,1,0,24,Euroformula Open,2024,regional,michael shin
+7,Jos%C3%A9_Garfias,José Garfias,99.0,9,7,0,4,1,1,2,24,Euroformula Open,2024,regional,jose garfias
+8,name:edward pearson,Edward Pearson,80.0,6,6,0,3,0,1,0,24,Euroformula Open,2024,regional,edward pearson
+9,Lorenzo_Flux%C3%A1,Lorenzo Fluxá,59.0,3,3,1,3,0,1,0,24,Euroformula Open,2024,regional,lorenzo fluxa
+10,name:vladislav ryabov,Vladislav Ryabov,58.0,6,4,1,1,0,0,2,24,Euroformula Open,2024,regional,vladislav ryabov
+11,Gerrard_Xie,Gerrard Xie,36.0,3,3,1,1,0,1,0,24,Euroformula Open,2024,regional,gerrard xie
+12,name:paolo brajnik g,Paolo Brajnik G,24.0,7,4,0,0,0,0,3,24,Euroformula Open,2024,regional,paolo brajnik g
+13,Ricardo_Escotto,Ricardo Escotto,18.0,3,3,0,0,0,0,0,24,Euroformula Open,2024,regional,ricardo escotto
+14,Enzo_Richer,Enzo Richer,16.0,3,2,0,0,0,0,1,24,Euroformula Open,2024,regional,enzo richer
+1,Tymek_Kucharczyk,Tymek Kucharczyk,362.0,24,21,6,14,5,9,0,24,Euroformula Open,2025,regional,tymek kucharczyk
+2,Yevan_David,Yevan David,345.0,24,21,6,14,3,2,0,24,Euroformula Open,2025,regional,yevan david
+3,Michael_Shin,Michael Shin,317.0,24,21,4,12,0,7,0,24,Euroformula Open,2025,regional,michael shin
+4,Jos%C3%A9_Garfias,José Garfias,276.0,24,21,3,10,0,3,0,24,Euroformula Open,2025,regional,jose garfias
+5,name:edward pearson,Edward Pearson,227.0,24,21,2,6,0,1,0,24,Euroformula Open,2025,regional,edward pearson
+6,Everett_Stack,Everett Stack,226.0,24,21,2,6,0,0,0,24,Euroformula Open,2025,regional,everett stack
+7,Fernando_Barrichello,Fernando Barrichello,212.0,21,20,1,6,0,1,1,24,Euroformula Open,2025,regional,fernando barrichello
+8,name:diego de la torre,Diego de la Torre,153.0,24,19,0,1,0,0,2,24,Euroformula Open,2025,regional,diego de la torre
+9,Alessandro_Famularo,Alessandro Famularo,68.0,9,9,0,0,0,0,0,24,Euroformula Open,2025,regional,alessandro famularo
+10,name:shawn rashid,Shawn Rashid,41.0,12,11,0,0,0,0,1,24,Euroformula Open,2025,regional,shawn rashid
+11,Theo_Micouris,Theo Micouris,32.0,3,3,0,1,0,0,0,24,Euroformula Open,2025,regional,theo micouris
+12,name:finley green,Finley Green,31.0,15,13,0,0,0,0,2,24,Euroformula Open,2025,regional,finley green
+13,name:vladislav ryabov,Vladislav Ryabov,27.0,6,5,0,0,0,0,1,24,Euroformula Open,2025,regional,vladislav ryabov
+14,name:preston lambert,Preston Lambert,26.0,3,2,0,1,0,0,1,24,Euroformula Open,2025,regional,preston lambert
+15,name:benjamin berta,Benjámin Berta,22.0,3,3,0,1,0,0,0,24,Euroformula Open,2025,regional,benjamin berta
+16,Enzo_Yeh,Enzo Yeh,21.0,6,5,0,0,0,1,1,24,Euroformula Open,2025,regional,enzo yeh
+17,Gino_Trappa,Gino Trappa,18.0,3,3,0,0,0,0,0,24,Euroformula Open,2025,regional,gino trappa
+18,Luca_Vii%C8%99oreanu,Luca Viișoreanu,18.0,6,5,0,0,0,0,1,24,Euroformula Open,2025,regional,luca viisoreanu
+19,name:paolo brajnik,Paolo Brajnik,6.0,9,7,0,0,0,0,2,24,Euroformula Open,2025,regional,paolo brajnik
+20,Francisco_Soldavini,Francisco Soldavini,4.0,3,3,0,0,0,0,0,24,Euroformula Open,2025,regional,francisco soldavini
+21,name:ricardo baptista,Ricardo Baptista,1.0,3,1,0,0,0,0,2,24,Euroformula Open,2025,regional,ricardo baptista
+1,Robert_Shwartzman,Robert Shwartzman,212.0,16,15,3,10,2,2,1,16,FIA F3,2019,tier3,robert shwartzman
+2,Marcus_Armstrong,Marcus Armstrong,158.0,16,16,3,7,1,4,0,16,FIA F3,2019,tier3,marcus armstrong
+3,Jehan_Daruvala,Jehan Daruvala,157.0,16,16,2,7,1,2,0,16,FIA F3,2019,tier3,jehan daruvala
+4,J%C3%BCri_Vips,Jüri Vips,141.0,16,15,3,4,1,1,1,16,FIA F3,2019,tier3,juri vips
+5,Pedro_Piquet,Pedro Piquet,98.0,16,14,1,3,0,1,2,16,FIA F3,2019,tier3,pedro piquet
+6,Christian_Lundgaard,Christian Lundgaard,97.0,16,15,1,2,2,2,1,16,FIA F3,2019,tier3,christian lundgaard
+7,Jake_Hughes,Jake Hughes,90.0,16,12,1,4,1,2,4,16,FIA F3,2019,tier3,jake hughes
+8,Leonardo_Pulcini,Leonardo Pulcini,78.0,16,15,1,2,0,0,1,16,FIA F3,2019,tier3,leonardo pulcini
+9,Yuki_Tsunoda,Yuki Tsunoda,67.0,16,16,1,3,0,1,0,16,FIA F3,2019,tier3,yuki tsunoda
+10,Max_Fewtrell,Max Fewtrell,57.0,16,14,0,2,0,0,2,16,FIA F3,2019,tier3,max fewtrell
+11,Liam_Lawson,Liam Lawson,41.0,16,15,0,2,0,0,1,16,FIA F3,2019,tier3,liam lawson
+12,Niko_Kari,Niko Kari,36.0,16,14,0,2,0,0,2,16,FIA F3,2019,tier3,niko kari
+13,Richard_Verschoor,Richard Verschoor,34.0,16,16,0,0,0,1,0,16,FIA F3,2019,tier3,richard verschoor
+14,David_Beckmann,David Beckmann,20.0,14,12,0,0,0,0,2,16,FIA F3,2019,tier3,david beckmann
+15,Bent_Viscaal,Bent Viscaal,10.0,16,14,0,0,0,0,2,16,FIA F3,2019,tier3,bent viscaal
+16,Felipe_Drugovich,Felipe Drugovich,8.0,16,15,0,0,0,0,1,16,FIA F3,2019,tier3,felipe drugovich
+17,Fabio_Scherer,Fabio Scherer,7.0,16,11,0,0,0,0,5,16,FIA F3,2019,tier3,fabio scherer
+18,Lirim_Zendeli,Lirim Zendeli,6.0,14,11,0,0,0,0,3,16,FIA F3,2019,tier3,lirim zendeli
+19,Logan_Sargeant,Logan Sargeant,5.0,16,15,0,0,0,0,1,16,FIA F3,2019,tier3,logan sargeant
+20,Alex_Peroni,Alex Peroni,5.0,13,9,0,0,0,0,4,16,FIA F3,2019,tier3,alex peroni
+21,Yifei_Ye,Yifei Ye,4.0,16,13,0,0,0,0,3,16,FIA F3,2019,tier3,yifei ye
+22,Raoul_Hyman,Raoul Hyman,2.0,16,13,0,0,0,0,3,16,FIA F3,2019,tier3,raoul hyman
+23,Simo_Laaksonen,Simo Laaksonen,2.0,16,12,0,0,0,0,4,16,FIA F3,2019,tier3,simo laaksonen
+24,Teppei_Natori,Teppei Natori,1.0,16,12,0,0,0,0,4,16,FIA F3,2019,tier3,teppei natori
+25,Devlin_DeFrancesco,Devlin DeFrancesco,0.0,16,15,0,0,0,0,1,16,FIA F3,2019,tier3,devlin defrancesco
+26,Andreas_Estner,Andreas Estner,0.0,16,16,0,0,0,0,0,16,FIA F3,2019,tier3,andreas estner
+27,Sebasti%C3%A1n_Fern%C3%A1ndez_(racing_driver),Sebastián Fernández,0.0,16,13,0,0,0,0,3,16,FIA F3,2019,tier3,sebastian fernandez
+28,Keyvan_Andres,Keyvan Andres,0.0,15,15,0,0,0,0,0,16,FIA F3,2019,tier3,keyvan andres
+29,Alessio_Deledda,Alessio Deledda,0.0,16,14,0,0,0,0,2,16,FIA F3,2019,tier3,alessio deledda
+30,Giorgio_Carrara,Giorgio Carrara,0.0,8,6,0,0,0,0,2,16,FIA F3,2019,tier3,giorgio carrara
+31,Artem_Petrov,Artem Petrov,0.0,2,1,0,0,0,0,1,16,FIA F3,2019,tier3,artem petrov
+32,David_Schumacher_(racing_driver),David Schumacher,0.0,2,2,0,0,0,0,0,16,FIA F3,2019,tier3,david schumacher
+33,Charles_Leong,Charles Leong,0.0,2,1,0,0,0,0,1,16,FIA F3,2019,tier3,charles leong
+34,Federico_Malvestiti,Federico Malvestiti,0.0,2,1,0,0,0,0,1,16,FIA F3,2019,tier3,federico malvestiti
+1,Oscar_Piastri,Oscar Piastri,164.0,18,16,2,6,0,4,2,18,FIA F3,2020,tier3,oscar piastri
+2,Th%C3%A9o_Pourchaire,Théo Pourchaire,161.0,18,18,2,8,0,2,0,18,FIA F3,2020,tier3,theo pourchaire
+3,Logan_Sargeant,Logan Sargeant,160.0,18,16,2,6,3,2,2,18,FIA F3,2020,tier3,logan sargeant
+4,Frederik_Vesti,Frederik Vesti,146.5,18,15,3,4,1,3,3,18,FIA F3,2020,tier3,frederik vesti
+5,Liam_Lawson,Liam Lawson,143.0,18,15,3,6,1,1,3,18,FIA F3,2020,tier3,liam lawson
+6,David_Beckmann,David Beckmann,139.5,18,17,2,6,0,0,1,18,FIA F3,2020,tier3,david beckmann
+7,Jake_Hughes,Jake Hughes,111.5,18,16,2,4,0,1,2,18,FIA F3,2020,tier3,jake hughes
+8,Lirim_Zendeli,Lirim Zendeli,104.0,18,16,1,3,2,1,2,18,FIA F3,2020,tier3,lirim zendeli
+9,Richard_Verschoor,Richard Verschoor,69.0,18,18,0,1,0,0,0,18,FIA F3,2020,tier3,richard verschoor
+10,Alex_Peroni,Alex Peroni,64.0,18,17,0,3,0,1,1,18,FIA F3,2020,tier3,alex peroni
+11,Alexander_Smolyar,Alexander Smolyar,59.0,18,16,0,1,1,1,2,18,FIA F3,2020,tier3,alexander smolyar
+12,Cl%C3%A9ment_Novalak,Clément Novalak,45.0,18,16,0,2,0,1,2,18,FIA F3,2020,tier3,clement novalak
+13,Bent_Viscaal,Bent Viscaal,40.0,18,14,1,2,0,1,4,18,FIA F3,2020,tier3,bent viscaal
+14,Sebasti%C3%A1n_Fern%C3%A1ndez_(racing_driver),Sebastián Fernández,31.0,18,16,0,0,1,0,2,18,FIA F3,2020,tier3,sebastian fernandez
+15,Enzo_Fittipaldi,Enzo Fittipaldi,27.0,18,18,0,0,0,0,0,18,FIA F3,2020,tier3,enzo fittipaldi
+16,Olli_Caldwell,Olli Caldwell,18.0,18,15,0,0,0,0,3,18,FIA F3,2020,tier3,olli caldwell
+17,Dennis_Hauger,Dennis Hauger,14.0,18,17,0,1,0,0,1,18,FIA F3,2020,tier3,dennis hauger
+18,Matteo_Nannini,Matteo Nannini,11.0,18,16,0,1,0,0,2,18,FIA F3,2020,tier3,matteo nannini
+19,Pierre-Louis_Chovet,Pierre-Louis Chovet,5.0,4,3,0,0,0,0,1,18,FIA F3,2020,tier3,pierre louis chovet
+20,Max_Fewtrell,Max Fewtrell,5.0,12,10,0,0,0,0,2,18,FIA F3,2020,tier3,max fewtrell
+21,Roman_Stan%C4%9Bk,Roman Staněk,3.0,18,18,0,0,0,0,0,18,FIA F3,2020,tier3,roman stanek
+22,Ben_Barnicoat,Ben Barnicoat,1.0,4,3,0,0,0,0,1,18,FIA F3,2020,tier3,ben barnicoat
+23,Michael_Belov,Michael Belov,1.0,6,5,0,0,0,0,1,18,FIA F3,2020,tier3,michael belov
+24,Igor_Fraga,Igor Fraga,1.0,16,14,0,0,0,0,2,18,FIA F3,2020,tier3,igor fraga
+25,Cameron_Das,Cameron Das,0.0,18,16,0,0,0,0,2,18,FIA F3,2020,tier3,cameron das
+26,Jack_Doohan,Jack Doohan,0.0,18,14,0,0,0,0,4,18,FIA F3,2020,tier3,jack doohan
+27,Lukas_Dunner,Lukas Dunner,0.0,18,14,0,0,0,0,4,18,FIA F3,2020,tier3,lukas dunner
+28,David_Schumacher_(racing_driver),David Schumacher,0.0,18,16,0,0,0,0,2,18,FIA F3,2020,tier3,david schumacher
+29,Sophia_Fl%C3%B6rsch,Sophia Flörsch,0.0,16,15,0,0,0,0,1,18,FIA F3,2020,tier3,sophia florsch
+30,Federico_Malvestiti,Federico Malvestiti,0.0,18,15,0,0,0,0,3,18,FIA F3,2020,tier3,federico malvestiti
+31,Calan_Williams,Calan Williams,0.0,18,15,0,0,0,0,3,18,FIA F3,2020,tier3,calan williams
+32,Enaam_Ahmed,Enaam Ahmed,0.0,6,6,0,0,0,0,0,18,FIA F3,2020,tier3,enaam ahmed
+33,Leonardo_Pulcini,Leonardo Pulcini,0.0,2,2,0,0,0,0,0,18,FIA F3,2020,tier3,leonardo pulcini
+34,Alessio_Deledda,Alessio Deledda,0.0,18,15,0,0,0,0,3,18,FIA F3,2020,tier3,alessio deledda
+35,Andreas_Estner,Andreas Estner,0.0,2,2,0,0,0,0,0,18,FIA F3,2020,tier3,andreas estner
+1,Dennis_Hauger,Dennis Hauger,205.0,20,20,4,9,3,4,0,21,FIA F3,2021,tier3,dennis hauger
+2,Jack_Doohan_(racing_driver),Jack Doohan,179.0,20,20,4,7,2,1,0,21,FIA F3,2021,tier3,jack doohan
+3,Cl%C3%A9ment_Novalak,Clément Novalak,147.0,20,18,0,4,0,2,2,21,FIA F3,2021,tier3,clement novalak
+4,Frederik_Vesti,Frederik Vesti,138.0,20,19,1,5,1,0,1,21,FIA F3,2021,tier3,frederik vesti
+5,Victor_Martins,Victor Martins,131.0,20,20,1,6,0,4,0,21,FIA F3,2021,tier3,victor martins
+6,Alexander_Smolyar,Alexander Smolyar,107.0,20,19,2,4,0,2,1,21,FIA F3,2021,tier3,alexander smolyar
+7,Logan_Sargeant,Logan Sargeant,102.0,20,17,1,4,0,0,3,21,FIA F3,2021,tier3,logan sargeant
+8,Olli_Caldwell,Olli Caldwell,93.0,20,19,1,4,0,1,1,21,FIA F3,2021,tier3,olli caldwell
+9,Caio_Collet,Caio Collet,93.0,20,18,0,2,0,0,2,21,FIA F3,2021,tier3,caio collet
+10,Arthur_Leclerc,Arthur Leclerc,79.0,20,18,2,3,1,2,2,21,FIA F3,2021,tier3,arthur leclerc
+11,David_Schumacher_(racing_driver),David Schumacher,55.0,20,19,1,2,0,0,1,21,FIA F3,2021,tier3,david schumacher
+12,Ayumu_Iwasa,Ayumu Iwasa,52.0,20,18,1,2,0,0,2,21,FIA F3,2021,tier3,ayumu iwasa
+13,Jak_Crawford,Jak Crawford,45.0,20,19,0,1,0,0,1,21,FIA F3,2021,tier3,jak crawford
+14,Matteo_Nannini,Matteo Nannini,44.0,20,19,1,2,0,1,1,21,FIA F3,2021,tier3,matteo nannini
+15,Lorenzo_Colombo_(racing_driver),Lorenzo Colombo,32.0,20,18,1,1,0,2,2,21,FIA F3,2021,tier3,lorenzo colombo
+16,Roman_Stan%C4%9Bk,Roman Staněk,29.0,20,20,0,2,0,0,0,21,FIA F3,2021,tier3,roman stanek
+17,Enzo_Fittipaldi,Enzo Fittipaldi,25.0,12,11,0,1,0,0,1,21,FIA F3,2021,tier3,enzo fittipaldi
+18,Jonny_Edgar,Jonny Edgar,23.0,20,18,0,0,0,0,2,21,FIA F3,2021,tier3,jonny edgar
+19,Calan_Williams,Calan Williams,15.0,20,19,0,1,0,0,1,21,FIA F3,2021,tier3,calan williams
+20,Johnathan_Hoggard,Johnathan Hoggard,14.0,17,15,0,0,0,0,2,21,FIA F3,2021,tier3,johnathan hoggard
+21,Juan_Manuel_Correa,Juan Manuel Correa,11.0,20,20,0,0,0,0,0,21,FIA F3,2021,tier3,juan manuel correa
+22,Kaylen_Frederick,Kaylen Frederick,2.0,13,12,0,0,0,0,1,21,FIA F3,2021,tier3,kaylen frederick
+23,Amaury_Cordeel,Amaury Cordeel,0.0,20,16,0,0,0,0,4,21,FIA F3,2021,tier3,amaury cordeel
+24,Ido_Cohen,Ido Cohen,0.0,20,15,0,0,0,0,5,21,FIA F3,2021,tier3,ido cohen
+25,Oliver_Rasmussen,Oliver Rasmussen,0.0,20,18,0,0,0,0,2,21,FIA F3,2021,tier3,oliver rasmussen
+26,Tijmen_van_der_Helm,Tijmen van der Helm,0.0,20,18,0,0,0,0,2,21,FIA F3,2021,tier3,tijmen van der helm
+27,Jake_Hughes,Jake Hughes,0.0,3,3,0,0,0,0,0,21,FIA F3,2021,tier3,jake hughes
+28,Reshad_de_Gerus,Reshad de Gerus,0.0,12,12,0,0,0,1,0,21,FIA F3,2021,tier3,reshad de gerus
+29,Rafael_Villag%C3%B3mez,Rafael Villagómez,0.0,20,18,0,0,0,0,2,21,FIA F3,2021,tier3,rafael villagomez
+30,Pierre-Louis_Chovet,Pierre-Louis Chovet,0.0,6,6,0,0,0,0,0,21,FIA F3,2021,tier3,pierre louis chovet
+31,Filip_Ugran,Filip Ugran,0.0,20,20,0,0,0,0,0,21,FIA F3,2021,tier3,filip ugran
+32,L%C3%A1szl%C3%B3_T%C3%B3th_(racing_driver),László Tóth,0.0,17,15,0,0,0,0,2,21,FIA F3,2021,tier3,laszlo toth
+33,Hunter_Yeany,Hunter Yeany,0.0,6,4,0,0,0,0,2,21,FIA F3,2021,tier3,hunter yeany
+34,Zden%C4%9Bk_Chovanec,Zdeněk Chovanec,0.0,8,8,0,0,0,0,0,21,FIA F3,2021,tier3,zdenek chovanec
+35,Ayrton_Simmons,Ayrton Simmons,0.0,2,2,0,0,0,0,0,21,FIA F3,2021,tier3,ayrton simmons
+1,Victor_Martins,Victor Martins,139.0,18,15,2,6,0,1,3,18,FIA F3,2022,tier3,victor martins
+2,Zane_Maloney,Zane Maloney,134.0,18,14,3,4,2,3,4,18,FIA F3,2022,tier3,zane maloney
+3,Oliver_Bearman,Oliver Bearman,132.0,18,18,1,8,0,1,0,18,FIA F3,2022,tier3,oliver bearman
+4,Isack_Hadjar,Isack Hadjar,123.0,18,18,3,5,1,2,0,18,FIA F3,2022,tier3,isack hadjar
+5,Roman_Stan%C4%9Bk,Roman Staněk,117.0,18,17,1,4,1,2,1,18,FIA F3,2022,tier3,roman stanek
+6,Arthur_Leclerc,Arthur Leclerc,114.0,18,18,1,2,0,1,0,18,FIA F3,2022,tier3,arthur leclerc
+7,Jak_Crawford,Jak Crawford,109.0,18,18,1,5,0,2,0,18,FIA F3,2022,tier3,jak crawford
+8,Caio_Collet,Caio Collet,88.0,18,17,2,5,1,2,1,18,FIA F3,2022,tier3,caio collet
+9,Franco_Colapinto,Franco Colapinto,76.0,18,16,2,5,1,0,2,18,FIA F3,2022,tier3,franco colapinto
+10,Alexander_Smolyar,Alexander Smolyar,76.0,16,16,1,3,2,1,0,18,FIA F3,2022,tier3,alexander smolyar
+11,Zak_O%27Sullivan,Zak O'Sullivan,54.0,18,16,0,2,1,1,2,18,FIA F3,2022,tier3,zak o sullivan
+12,Jonny_Edgar,Jonny Edgar,46.0,14,14,0,0,0,2,0,18,FIA F3,2022,tier3,jonny edgar
+13,Juan_Manuel_Correa,Juan Manuel Correa,39.0,16,14,0,1,0,0,2,18,FIA F3,2022,tier3,juan manuel correa
+14,Kush_Maini,Kush Maini,31.0,18,17,0,1,0,0,1,18,FIA F3,2022,tier3,kush maini
+15,Gr%C3%A9goire_Saucy,Grégoire Saucy,30.0,18,14,0,1,0,0,4,18,FIA F3,2022,tier3,gregoire saucy
+16,David_Vidales,David Vidales,29.0,17,13,1,1,0,0,4,18,FIA F3,2022,tier3,david vidales
+17,Kaylen_Frederick,Kaylen Frederick,27.0,18,16,0,0,0,0,2,18,FIA F3,2022,tier3,kaylen frederick
+18,William_Alatalo,William Alatalo,24.0,18,16,0,0,0,0,2,18,FIA F3,2022,tier3,william alatalo
+19,Oliver_Goethe,Oliver Goethe,15.0,4,3,0,0,0,0,1,18,FIA F3,2022,tier3,oliver goethe
+20,Reece_Ushijima,Reece Ushijima,13.0,18,17,0,1,0,0,1,18,FIA F3,2022,tier3,reece ushijima
+21,Sebasti%C3%A1n_Montoya,Sebastián Montoya,7.0,2,2,0,0,0,0,0,18,FIA F3,2022,tier3,sebastian montoya
+22,Oliver_Rasmussen,Oliver Rasmussen,4.0,4,3,0,0,0,0,1,18,FIA F3,2022,tier3,oliver rasmussen
+23,Brad_Benavides,Brad Benavides,3.0,18,13,0,0,0,0,5,18,FIA F3,2022,tier3,brad benavides
+24,Ido_Cohen,Ido Cohen,2.0,18,16,0,0,0,0,2,18,FIA F3,2022,tier3,ido cohen
+25,Rafael_Villag%C3%B3mez,Rafael Villagómez,2.0,18,13,0,0,0,0,5,18,FIA F3,2022,tier3,rafael villagomez
+26,Pepe_Mart%C3%AD,Pepe Martí,2.0,18,15,0,0,0,0,3,18,FIA F3,2022,tier3,pepe marti
+27,Francesco_Pizzi,Francesco Pizzi,1.0,18,16,0,0,0,0,2,18,FIA F3,2022,tier3,francesco pizzi
+28,David_Schumacher_(racing_driver),David Schumacher,0.0,4,4,0,0,0,0,0,18,FIA F3,2022,tier3,david schumacher
+29,Federico_Malvestiti,Federico Malvestiti,0.0,16,15,0,0,0,0,1,18,FIA F3,2022,tier3,federico malvestiti
+30,Niko_Kari,Niko Kari,0.0,2,2,0,0,0,0,0,18,FIA F3,2022,tier3,niko kari
+31,Lirim_Zendeli,Lirim Zendeli,0.0,2,2,0,0,0,0,0,18,FIA F3,2022,tier3,lirim zendeli
+32,Nazim_Azman,Nazim Azman,0.0,18,15,0,0,0,0,3,18,FIA F3,2022,tier3,nazim azman
+33,Hunter_Yeany,Hunter Yeany,0.0,11,11,0,0,0,0,0,18,FIA F3,2022,tier3,hunter yeany
+34,Enzo_Trulli,Enzo Trulli,0.0,18,17,0,0,0,0,1,18,FIA F3,2022,tier3,enzo trulli
+35,Ayrton_Simmons,Ayrton Simmons,0.0,2,2,0,0,0,0,0,18,FIA F3,2022,tier3,ayrton simmons
+36,Filip_Ugran,Filip Ugran,0.0,2,2,0,0,0,0,0,18,FIA F3,2022,tier3,filip ugran
+37,L%C3%A1szl%C3%B3_T%C3%B3th_(racing_driver),László Tóth,0.0,18,16,0,0,0,0,2,18,FIA F3,2022,tier3,laszlo toth
+38,Christian_Mansell,Christian Mansell,0.0,4,3,0,0,0,0,1,18,FIA F3,2022,tier3,christian mansell
+39,Alessandro_Famularo,Alessandro Famularo,0.0,2,2,0,0,0,0,0,18,FIA F3,2022,tier3,alessandro famularo
+40,Zden%C4%9Bk_Chovanec,Zdeněk Chovanec,0.0,4,2,0,0,0,0,2,18,FIA F3,2022,tier3,zdenek chovanec
+1,Gabriel_Bortoleto,Gabriel Bortoleto,164.0,18,17,2,6,0,0,1,18,FIA F3,2023,tier3,gabriel bortoleto
+2,Zak_O%27Sullivan,Zak O'Sullivan,119.0,18,18,4,5,0,0,0,18,FIA F3,2023,tier3,zak o sullivan
+3,Paul_Aron,Paul Aron,112.0,18,17,1,4,0,0,1,18,FIA F3,2023,tier3,paul aron
+4,Franco_Colapinto,Franco Colapinto,110.0,18,15,2,5,0,0,3,18,FIA F3,2023,tier3,franco colapinto
+5,Pepe_Mart%C3%AD,Pepe Martí,105.0,18,15,3,4,0,0,3,18,FIA F3,2023,tier3,pepe marti
+6,Dino_Beganovic,Dino Beganovic,96.0,18,17,0,4,0,0,1,18,FIA F3,2023,tier3,dino beganovic
+7,Gabriele_Min%C3%AC,Gabriele Minì,92.0,17,15,2,4,0,0,2,18,FIA F3,2023,tier3,gabriele mini
+8,Oliver_Goethe,Oliver Goethe,75.0,18,14,1,2,0,0,4,18,FIA F3,2023,tier3,oliver goethe
+9,Caio_Collet,Caio Collet,73.0,18,17,1,4,0,0,1,18,FIA F3,2023,tier3,caio collet
+10,Taylor_Barnard,Taylor Barnard,72.0,18,18,1,3,0,0,0,18,FIA F3,2023,tier3,taylor barnard
+11,Leonardo_Fornaroli,Leonardo Fornaroli,69.0,18,17,0,3,0,0,1,18,FIA F3,2023,tier3,leonardo fornaroli
+12,Christian_Mansell,Christian Mansell,60.0,18,17,0,2,0,0,1,18,FIA F3,2023,tier3,christian mansell
+13,Jonny_Edgar,Jonny Edgar,55.0,18,14,1,1,0,0,4,18,FIA F3,2023,tier3,jonny edgar
+14,Gr%C3%A9goire_Saucy,Grégoire Saucy,54.0,18,17,0,2,0,0,1,18,FIA F3,2023,tier3,gregoire saucy
+15,Luke_Browning,Luke Browning,41.0,18,14,0,1,0,0,4,18,FIA F3,2023,tier3,luke browning
+16,Sebasti%C3%A1n_Montoya,Sebastián Montoya,37.0,18,13,0,1,0,0,5,18,FIA F3,2023,tier3,sebastian montoya
+17,Mari_Boya,Mari Boya,29.0,18,14,0,1,0,0,4,18,FIA F3,2023,tier3,mari boya
+18,Nikita_Bedrin,Nikita Bedrin,24.0,18,17,0,2,0,0,1,18,FIA F3,2023,tier3,nikita bedrin
+19,Hugh_Barter,Hugh Barter,14.0,16,16,0,0,0,0,0,18,FIA F3,2023,tier3,hugh barter
+20,"Alex_Garc%C3%ADa_(racing_driver,_born_2003)",Alex García,12.0,18,16,0,0,0,0,2,18,FIA F3,2023,tier3,alex garcia
+21,Kaylen_Frederick,Kaylen Frederick,11.0,18,15,0,0,0,0,3,18,FIA F3,2023,tier3,kaylen frederick
+22,Nikola_Tsolov,Nikola Tsolov,6.0,18,17,0,0,0,0,1,18,FIA F3,2023,tier3,nikola tsolov
+23,Sophia_Fl%C3%B6rsch,Sophia Flörsch,6.0,18,17,0,0,0,0,1,18,FIA F3,2023,tier3,sophia florsch
+24,Ido_Cohen,Ido Cohen,2.0,18,9,0,0,0,0,9,18,FIA F3,2023,tier3,ido cohen
+25,Rafael_Villag%C3%B3mez,Rafael Villagómez,2.0,18,16,0,0,0,0,2,18,FIA F3,2023,tier3,rafael villagomez
+26,Francesco_Simonazzi,Francesco Simonazzi,0.0,4,4,0,0,0,0,0,18,FIA F3,2023,tier3,francesco simonazzi
+27,Tommy_Smith_(racing_driver),Tommy Smith,0.0,18,16,0,0,0,0,2,18,FIA F3,2023,tier3,tommy smith
+28,Oliver_Gray,Oliver Gray,0.0,18,15,0,0,0,0,3,18,FIA F3,2023,tier3,oliver gray
+29,Joshua_Dufek,Joshua Dufek,0.0,2,2,0,0,0,0,0,18,FIA F3,2023,tier3,joshua dufek
+30,Hunter_Yeany,Hunter Yeany,0.0,10,9,0,0,0,0,1,18,FIA F3,2023,tier3,hunter yeany
+31,Roberto_Faria,Roberto Faria,0.0,18,13,0,0,0,0,5,18,FIA F3,2023,tier3,roberto faria
+32,Michael_Shin,Michael Shin,0.0,6,5,0,0,0,0,1,18,FIA F3,2023,tier3,michael shin
+33,McKenzy_Cresswell,McKenzy Cresswell,0.0,4,4,0,0,0,0,0,18,FIA F3,2023,tier3,mckenzy cresswell
+34,Piotr_Wi%C5%9Bnicki,Piotr Wiśnicki,0.0,8,7,0,0,0,0,1,18,FIA F3,2023,tier3,piotr wisnicki
+35,Max_Esterson,Max Esterson,0.0,4,3,0,0,0,0,1,18,FIA F3,2023,tier3,max esterson
+1,Leonardo_Fornaroli,Leonardo Fornaroli,153.0,20,20,0,7,0,0,0,20,FIA F3,2024,tier3,leonardo fornaroli
+2,Gabriele_Min%C3%AC,Gabriele Minì,130.0,20,18,1,5,0,0,2,20,FIA F3,2024,tier3,gabriele mini
+3,Luke_Browning,Luke Browning,128.0,20,20,2,3,0,0,0,20,FIA F3,2024,tier3,luke browning
+4,Arvid_Lindblad,Arvid Lindblad,113.0,20,17,4,5,0,0,3,20,FIA F3,2024,tier3,arvid lindblad
+5,Christian_Mansell,Christian Mansell,112.0,20,19,0,5,0,0,1,20,FIA F3,2024,tier3,christian mansell
+6,Dino_Beganovic,Dino Beganovic,109.0,20,20,2,4,0,0,0,20,FIA F3,2024,tier3,dino beganovic
+7,Oliver_Goethe,Oliver Goethe,94.0,18,17,1,3,0,0,1,20,FIA F3,2024,tier3,oliver goethe
+8,Sami_Meguetounif,Sami Meguetounif,84.0,20,17,2,2,0,0,3,20,FIA F3,2024,tier3,sami meguetounif
+9,Tim_Tramnitz,Tim Tramnitz,81.0,20,20,1,4,0,0,0,20,FIA F3,2024,tier3,tim tramnitz
+10,Noel_Le%C3%B3n,Noel León,79.0,20,18,0,4,0,0,2,20,FIA F3,2024,tier3,noel leon
+11,Nikola_Tsolov,Nikola Tsolov,75.0,18,18,3,3,0,0,0,20,FIA F3,2024,tier3,nikola tsolov
+12,Callum_Voisin,Callum Voisin,67.0,20,18,1,2,0,0,2,20,FIA F3,2024,tier3,callum voisin
+13,Laurens_van_Hoepen,Laurens van Hoepen,58.0,20,18,0,3,0,0,2,20,FIA F3,2024,tier3,laurens van hoepen
+14,Alex_Dunne,Alex Dunne,50.0,20,18,0,2,0,0,2,20,FIA F3,2024,tier3,alex dunne
+15,Mari_Boya,Mari Boya,45.0,20,17,1,1,0,0,3,20,FIA F3,2024,tier3,mari boya
+16,Santiago_Ramos_(racing_driver),Santiago Ramos,44.0,20,20,0,1,0,0,0,20,FIA F3,2024,tier3,santiago ramos
+17,Sebasti%C3%A1n_Montoya,Sebastián Montoya,40.0,20,16,0,1,0,0,4,20,FIA F3,2024,tier3,sebastian montoya
+18,Martinius_Stenshorne,Martinius Stenshorne,38.0,18,17,1,2,0,0,1,20,FIA F3,2024,tier3,martinius stenshorne
+19,Nikita_Bedrin,Nikita Bedrin,25.0,20,16,1,1,0,0,4,20,FIA F3,2024,tier3,nikita bedrin
+20,Tommy_Smith_(racing_driver),Tommy Smith,12.0,20,19,0,0,0,0,1,20,FIA F3,2024,tier3,tommy smith
+21,Max_Esterson,Max Esterson,11.0,20,16,0,0,0,0,4,20,FIA F3,2024,tier3,max esterson
+22,Charlie_Wurz,Charlie Wurz,10.0,20,16,0,0,0,0,4,20,FIA F3,2024,tier3,charlie wurz
+23,Piotr_Wi%C5%9Bnicki,Piotr Wiśnicki,10.0,20,18,0,0,0,0,2,20,FIA F3,2024,tier3,piotr wisnicki
+24,Tasanapol_Inthraphuvasak,Tasanapol Inthraphuvasak,9.0,20,17,0,1,0,0,3,20,FIA F3,2024,tier3,tasanapol inthraphuvasak
+25,Mat%C3%ADas_Zagazeta,Matías Zagazeta,8.0,18,15,0,1,0,0,3,20,FIA F3,2024,tier3,matias zagazeta
+26,Joseph_Loake,Joseph Loake,8.0,20,19,0,0,0,0,1,20,FIA F3,2024,tier3,joseph loake
+27,Kacper_Sztuka,Kacper Sztuka,6.0,20,17,0,0,0,0,3,20,FIA F3,2024,tier3,kacper sztuka
+28,Joshua_Dufek,Joshua Dufek,1.0,20,16,0,0,0,0,4,20,FIA F3,2024,tier3,joshua dufek
+29,Sophia_Fl%C3%B6rsch,Sophia Flörsch,0.0,20,14,0,0,0,0,6,20,FIA F3,2024,tier3,sophia florsch
+30,Cian_Shields,Cian Shields,0.0,20,17,0,0,0,0,3,20,FIA F3,2024,tier3,cian shields
+31,Tuukka_Taponen,Tuukka Taponen,0.0,2,1,0,0,0,0,1,20,FIA F3,2024,tier3,tuukka taponen
+32,Noah_Str%C3%B8msted,Noah Strømsted,0.0,2,2,0,0,0,0,0,20,FIA F3,2024,tier3,noah strmsted
+33,James_Wharton_(racing_driver),James Wharton,0.0,2,2,0,0,0,0,0,20,FIA F3,2024,tier3,james wharton
+34,James_Hedley,James Hedley,0.0,2,2,0,0,0,0,0,20,FIA F3,2024,tier3,james hedley
+1,Rafael_C%C3%A2mara,Rafael Câmara,166.0,19,16,4,5,0,0,3,20,FIA F3,2025,tier3,rafael camara
+2,Nikola_Tsolov,Nikola Tsolov,124.0,19,17,2,6,0,0,2,20,FIA F3,2025,tier3,nikola tsolov
+3,Mari_Boya,Mari Boya,116.0,19,18,1,5,0,0,1,20,FIA F3,2025,tier3,mari boya
+4,Tim_Tramnitz,Tim Tramnitz,94.0,19,17,1,3,0,0,2,20,FIA F3,2025,tier3,tim tramnitz
+5,Martinius_Stenshorne,Martinius Stenshorne,89.0,19,18,2,5,0,0,1,20,FIA F3,2025,tier3,martinius stenshorne
+6,Noah_Str%C3%B8msted,Noah Strømsted,84.0,19,16,1,3,0,0,3,20,FIA F3,2025,tier3,noah strmsted
+7,Tasanapol_Inthraphuvasak,Tasanapol Inthraphuvasak,74.0,19,19,3,3,0,0,0,20,FIA F3,2025,tier3,tasanapol inthraphuvasak
+8,Th%C3%A9ophile_Na%C3%ABl,Théophile Naël,72.0,19,18,0,3,0,0,1,20,FIA F3,2025,tier3,theophile nael
+9,Tuukka_Taponen,Tuukka Taponen,67.0,19,17,0,3,0,0,2,20,FIA F3,2025,tier3,tuukka taponen
+10,Alessandro_Giusti,Alessandro Giusti,67.0,19,18,0,2,0,0,1,20,FIA F3,2025,tier3,alessandro giusti
+11,Roman_Bilinski,Roman Bilinski,65.0,19,17,1,3,0,0,2,20,FIA F3,2025,tier3,roman bilinski
+12,Laurens_van_Hoepen,Laurens van Hoepen,60.0,19,17,0,2,0,0,2,20,FIA F3,2025,tier3,laurens van hoepen
+13,Charlie_Wurz,Charlie Wurz,53.0,19,14,0,2,0,0,5,20,FIA F3,2025,tier3,charlie wurz
+14,Callum_Voisin,Callum Voisin,52.0,19,18,0,1,0,0,1,20,FIA F3,2025,tier3,callum voisin
+15,Santiago_Ramos_(racing_driver),Santiago Ramos,48.0,17,14,2,3,0,0,3,20,FIA F3,2025,tier3,santiago ramos
+16,Ugo_Ugochukwu,Ugo Ugochukwu,43.0,19,16,0,2,0,0,3,20,FIA F3,2025,tier3,ugo ugochukwu
+17,Noel_Le%C3%B3n,Noel León,36.0,19,16,0,2,0,0,3,20,FIA F3,2025,tier3,noel leon
+18,James_Wharton_(racing_driver),James Wharton,25.0,19,18,1,1,0,0,1,20,FIA F3,2025,tier3,james wharton
+19,Ivan_Domingues,Ivan Domingues,18.0,19,13,1,1,0,0,6,20,FIA F3,2025,tier3,ivan domingues
+20,Brad_Benavides,Brad Benavides,18.0,15,10,0,0,0,0,5,20,FIA F3,2025,tier3,brad benavides
+21,Nikita_Bedrin,Nikita Bedrin,17.0,2,2,0,0,0,0,0,20,FIA F3,2025,tier3,nikita bedrin
+22,Christian_Ho,Christian Ho,17.0,19,17,0,0,0,0,2,20,FIA F3,2025,tier3,christian ho
+23,Bruno_del_Pino,Bruno del Pino,16.0,19,17,0,1,0,0,2,20,FIA F3,2025,tier3,bruno del pino
+24,Mat%C3%ADas_Zagazeta,Matías Zagazeta,13.0,19,16,0,0,0,0,3,20,FIA F3,2025,tier3,matias zagazeta
+25,Brando_Badoer,Brando Badoer,13.0,19,15,0,0,0,0,4,20,FIA F3,2025,tier3,brando badoer
+26,Louis_Sharp,Louis Sharp,11.0,19,16,0,0,0,0,3,20,FIA F3,2025,tier3,louis sharp
+27,Freddie_Slater_(racing_driver),Freddie Slater,10.0,3,2,0,1,0,0,1,20,FIA F3,2025,tier3,freddie slater
+28,James_Hedley,James Hedley,7.0,12,10,0,0,0,0,2,20,FIA F3,2025,tier3,james hedley
+29,Gerrard_Xie,Gerrard Xie,1.0,19,17,0,0,0,0,2,20,FIA F3,2025,tier3,gerrard xie
+30,Joshua_Dufek,Joshua Dufek,0.0,8,7,0,0,0,0,1,20,FIA F3,2025,tier3,joshua dufek
+31,Jesse_Carrasquedo_Jr.,Jesse Carrasquedo Jr.,0.0,4,4,0,0,0,0,0,20,FIA F3,2025,tier3,jesse carrasquedo jr
+32,Nikita_Johnson,Nikita Johnson,0.0,8,8,0,0,0,0,0,20,FIA F3,2025,tier3,nikita johnson
+33,Nicola_Lacorte,Nicola Lacorte,0.0,17,13,0,0,0,0,4,20,FIA F3,2025,tier3,nicola lacorte
+34,Javier_Sagrera,Javier Sagrera,0.0,4,3,0,0,0,0,1,20,FIA F3,2025,tier3,javier sagrera
+35,Fernando_Barrichello,Fernando Barrichello,0.0,2,1,0,0,0,0,1,20,FIA F3,2025,tier3,fernando barrichello
+36,Nicola_Marinangeli,Nicola Marinangeli,0.0,19,16,0,0,0,0,3,20,FIA F3,2025,tier3,nicola marinangeli
+37,Jos%C3%A9_Garfias,José Garfias,0.0,2,1,0,0,0,0,1,20,FIA F3,2025,tier3,jose garfias
+1,Alex_Lynn,Alex Lynn,207.0,18,18,3,8,2,3,0,18,GP3,2014,tier3,alex lynn
+2,Dean_Stoneman,Dean Stoneman,163.0,18,16,5,6,1,2,2,18,GP3,2014,tier3,dean stoneman
+3,Marvin_Kirchh%C3%B6fer,Marvin Kirchhöfer,161.0,16,15,1,7,2,4,1,18,GP3,2014,tier3,marvin kirchhofer
+4,Jimmy_Eriksson,Jimmy Eriksson,134.0,18,16,2,5,2,0,2,18,GP3,2014,tier3,jimmy eriksson
+5,Emil_Bernstorff,Emil Bernstorff,134.0,18,15,1,5,0,1,3,18,GP3,2014,tier3,emil bernstorff
+6,Nick_Yelloly,Nick Yelloly,127.0,18,18,1,4,0,0,0,18,GP3,2014,tier3,nick yelloly
+7,Dino_Zamparelli,Dino Zamparelli,126.0,18,18,0,6,0,2,0,18,GP3,2014,tier3,dino zamparelli
+8,Richie_Stanaway,Richie Stanaway,125.0,18,16,2,5,1,1,2,18,GP3,2014,tier3,richie stanaway
+9,Jann_Mardenborough,Jann Mardenborough,77.0,18,15,1,2,0,2,3,18,GP3,2014,tier3,jann mardenborough
+10,Patric_Niederhauser,Patric Niederhauser,62.0,18,14,2,2,0,2,4,18,GP3,2014,tier3,patric niederhauser
+11,Alex_Fontana,Alex Fontana,43.0,18,14,0,2,0,1,4,18,GP3,2014,tier3,alex fontana
+12,Math%C3%A9o_Tuscher,Mathéo Tuscher,29.0,18,13,0,1,0,0,5,18,GP3,2014,tier3,matheo tuscher
+13,Robert_Vi%C8%99oiu,Robert Vișoiu,23.0,18,15,0,1,0,0,3,18,GP3,2014,tier3,robert visoiu
+14,Patrick_Kujala,Patrick Kujala,22.0,18,13,0,0,0,0,5,18,GP3,2014,tier3,patrick kujala
+15,Kevin_Ceccon,Kevin Ceccon,20.0,8,7,0,0,0,0,1,18,GP3,2014,tier3,kevin ceccon
+16,Riccardo_Agostini,Riccardo Agostini,18.0,16,14,0,0,0,0,2,18,GP3,2014,tier3,riccardo agostini
+17,P%C3%A5l_Varhaug,Pål Varhaug,12.0,18,13,0,0,0,0,5,18,GP3,2014,tier3,pal varhaug
+18,Roman_de_Beer,Roman de Beer,8.0,10,8,0,0,0,0,2,18,GP3,2014,tier3,roman de beer
+19,Lu%C3%ADs_S%C3%A1_Silva,Luís Sá Silva,6.0,18,17,0,0,0,0,1,18,GP3,2014,tier3,luis sa silva
+20,Luca_Ghiotto,Luca Ghiotto,4.0,4,4,0,0,1,0,0,18,GP3,2014,tier3,luca ghiotto
+21,Alfonso_Celis_Jr.,Alfonso Celis Jr.,2.0,18,13,0,0,0,0,5,18,GP3,2014,tier3,alfonso celis jr
+22,Nelson_Mason,Nelson Mason,0.0,17,15,0,0,0,0,2,18,GP3,2014,tier3,nelson mason
+23,Santiago_Urrutia,Santiago Urrutia,0.0,18,15,0,0,0,0,3,18,GP3,2014,tier3,santiago urrutia
+24,Adderly_Fong,Adderly Fong,0.0,8,6,0,0,0,0,2,18,GP3,2014,tier3,adderly fong
+25,Ryan_Cullen_(racing_driver),Ryan Cullen,0.0,16,13,0,0,0,0,3,18,GP3,2014,tier3,ryan cullen
+26,Mitchell_Gilbert,Mitchell Gilbert,0.0,8,7,0,0,0,0,1,18,GP3,2014,tier3,mitchell gilbert
+27,Beitske_Visser,Beitske Visser,0.0,2,2,0,0,0,0,0,18,GP3,2014,tier3,beitske visser
+28,Kang_Ling,Kang Ling,0.0,2,2,0,0,0,0,0,18,GP3,2014,tier3,kang ling
+29,Carmen_Jord%C3%A1,Carmen Jordá,0.0,14,10,0,0,0,0,4,18,GP3,2014,tier3,carmen jorda
+30,John_Bryant-Meisner,John Bryant-Meisner,0.0,4,4,0,0,0,0,0,18,GP3,2014,tier3,john bryant meisner
+31,Victor_Carbone,Victor Carbone,0.0,8,6,0,0,0,0,2,18,GP3,2014,tier3,victor carbone
+32,Sebastian_Balthasar,Sebastian Balthasar,0.0,8,5,0,0,0,0,3,18,GP3,2014,tier3,sebastian balthasar
+33,Nikolay_Martsenko,Nikolay Martsenko,0.0,3,2,0,0,0,0,1,18,GP3,2014,tier3,nikolay martsenko
+34,Ivan_Taranov_(racing_driver),Ivan Taranov,0.0,2,2,0,0,0,0,0,18,GP3,2014,tier3,ivan taranov
+35,name:denis nagulin,Denis Nagulin,0.0,2,1,0,0,0,0,1,18,GP3,2014,tier3,denis nagulin
+36,Christopher_H%C3%B6her,Christopher Höher,0.0,2,2,0,0,0,0,0,18,GP3,2014,tier3,christopher hoher
+1,Esteban_Ocon,Esteban Ocon,253.0,18,17,1,14,3,5,1,18,GP3,2015,tier3,esteban ocon
+2,Luca_Ghiotto,Luca Ghiotto,245.0,18,17,5,8,5,9,1,18,GP3,2015,tier3,luca ghiotto
+3,Marvin_Kirchh%C3%B6fer,Marvin Kirchhöfer,200.0,18,17,5,8,1,1,1,18,GP3,2015,tier3,marvin kirchhofer
+4,Emil_Bernstorff,Emil Bernstorff,194.0,18,15,2,7,0,1,3,18,GP3,2015,tier3,emil bernstorff
+5,Jimmy_Eriksson,Jimmy Eriksson,118.0,18,18,1,3,0,0,0,18,GP3,2015,tier3,jimmy eriksson
+6,Antonio_Fuoco,Antonio Fuoco,88.0,18,14,0,2,0,0,4,18,GP3,2015,tier3,antonio fuoco
+7,Kevin_Ceccon,Kevin Ceccon,77.0,16,12,2,3,0,1,4,18,GP3,2015,tier3,kevin ceccon
+8,Matt_Parry,Matt Parry,67.0,18,13,0,3,0,0,5,18,GP3,2015,tier3,matt parry
+9,Jann_Mardenborough,Jann Mardenborough,58.0,14,11,0,2,0,0,3,18,GP3,2015,tier3,jann mardenborough
+10,%C3%81lex_Palou,Álex Palou,51.0,18,15,1,1,0,1,3,18,GP3,2015,tier3,alex palou
+11,Ralph_Boschung,Ralph Boschung,28.0,17,16,0,1,0,0,1,18,GP3,2015,tier3,ralph boschung
+12,Alfonso_Celis_Jr.,Alfonso Celis Jr.,24.0,16,14,0,1,0,0,2,18,GP3,2015,tier3,alfonso celis jr
+13,Math%C3%A9o_Tuscher,Mathéo Tuscher,22.0,18,13,0,0,0,0,5,18,GP3,2015,tier3,matheo tuscher
+14,Artur_Janosz,Artur Janosz,20.0,18,16,0,0,0,0,2,18,GP3,2015,tier3,artur janosz
+15,%C3%93scar_Tunjo,Óscar Tunjo,17.0,6,6,1,1,0,0,0,18,GP3,2015,tier3,oscar tunjo
+16,Alex_Fontana,Alex Fontana,16.0,18,18,0,0,0,0,0,18,GP3,2015,tier3,alex fontana
+17,Sandy_Stuvik,Sandy Stuvik,7.0,18,15,0,0,0,0,3,18,GP3,2015,tier3,sandy stuvik
+18,Seb_Morris,Seb Morris,6.0,18,13,0,0,0,0,5,18,GP3,2015,tier3,seb morris
+19,P%C3%A5l_Varhaug,Pål Varhaug,5.0,18,12,0,0,0,0,6,18,GP3,2015,tier3,pal varhaug
+20,Aleksander_Bosak,Aleksander Bosak,4.0,18,14,0,0,0,0,4,18,GP3,2015,tier3,aleksander bosak
+21,Matevos_Isaakyan,Matevos Isaakyan,2.0,4,3,0,0,0,0,1,18,GP3,2015,tier3,matevos isaakyan
+22,Mitchell_Gilbert,Mitchell Gilbert,1.0,18,17,0,0,0,0,1,18,GP3,2015,tier3,mitchell gilbert
+23,Adderly_Fong,Adderly Fong,0.0,14,13,0,0,0,0,1,18,GP3,2015,tier3,adderly fong
+24,Zaid_Ashkanani,Zaid Ashkanani,0.0,18,18,0,0,0,0,0,18,GP3,2015,tier3,zaid ashkanani
+25,Brandon_Ma%C3%AFsano,Brandon Maïsano,0.0,2,2,0,0,0,0,0,18,GP3,2015,tier3,brandon maisano
+26,Amaury_Bonduel,Amaury Bonduel,0.0,2,2,0,0,0,0,0,18,GP3,2015,tier3,amaury bonduel
+27,Michele_Beretta,Michele Beretta,0.0,6,6,0,0,0,0,0,18,GP3,2015,tier3,michele beretta
+28,Beitske_Visser,Beitske Visser,0.0,2,1,0,0,0,0,1,18,GP3,2015,tier3,beitske visser
+29,Konstantin_Tereshchenko,Konstantin Tereshchenko,0.0,6,5,0,0,0,0,1,18,GP3,2015,tier3,konstantin tereshchenko
+30,Samin_G%C3%B3mez,Samin Gómez,0.0,6,4,0,0,0,0,2,18,GP3,2015,tier3,samin gomez
+31,Christopher_H%C3%B6her,Christopher Höher,0.0,2,2,0,0,0,0,0,18,GP3,2015,tier3,christopher hoher
+1,Charles_Leclerc,Charles Leclerc,202.0,18,15,3,8,4,4,3,18,GP3,2016,tier3,charles leclerc
+2,Alexander_Albon,Alexander Albon,177.0,18,15,4,7,3,3,3,18,GP3,2016,tier3,alexander albon
+3,Antonio_Fuoco,Antonio Fuoco,157.0,18,17,2,8,0,0,1,18,GP3,2016,tier3,antonio fuoco
+4,Jake_Dennis,Jake Dennis,149.0,18,16,2,5,0,4,2,18,GP3,2016,tier3,jake dennis
+5,Jack_Aitken,Jack Aitken,148.0,18,18,1,7,0,2,0,18,GP3,2016,tier3,jack aitken
+6,Nyck_de_Vries,Nyck de Vries,133.0,18,18,2,5,1,1,0,18,GP3,2016,tier3,nyck de vries
+7,Nirei_Fukuzumi,Nirei Fukuzumi,91.0,18,14,0,3,0,0,4,18,GP3,2016,tier3,nirei fukuzumi
+8,Jake_Hughes,Jake Hughes,90.0,18,14,2,4,1,2,4,18,GP3,2016,tier3,jake hughes
+9,Matt_Parry,Matt Parry,82.0,18,15,1,2,0,0,3,18,GP3,2016,tier3,matt parry
+10,Arjun_Maini,Arjun Maini,50.0,14,13,0,1,0,0,1,18,GP3,2016,tier3,arjun maini
+11,Ralph_Boschung,Ralph Boschung,48.0,12,11,1,1,0,1,1,18,GP3,2016,tier3,ralph boschung
+12,Santino_Ferrucci,Santino Ferrucci,36.0,18,16,0,1,0,0,2,18,GP3,2016,tier3,santino ferrucci
+13,Steijn_Schothorst,Steijn Schothorst,36.0,18,16,0,0,0,0,2,18,GP3,2016,tier3,steijn schothorst
+14,Kevin_J%C3%B6rg,Kevin Jörg,26.0,18,16,0,0,0,0,2,18,GP3,2016,tier3,kevin jorg
+15,%C3%81lex_Palou,Álex Palou,22.0,18,18,0,1,0,0,0,18,GP3,2016,tier3,alex palou
+16,%C3%93scar_Tunjo,Óscar Tunjo,18.0,5,5,0,1,0,1,0,18,GP3,2016,tier3,oscar tunjo
+17,Matevos_Isaakyan,Matevos Isaakyan,17.0,18,12,0,0,0,0,6,18,GP3,2016,tier3,matevos isaakyan
+18,Sandy_Stuvik,Sandy Stuvik,9.0,18,16,0,0,0,0,2,18,GP3,2016,tier3,sandy stuvik
+19,Konstantin_Tereshchenko,Konstantin Tereshchenko,8.0,18,15,0,0,0,0,3,18,GP3,2016,tier3,konstantin tereshchenko
+20,Artur_Janosz,Artur Janosz,3.0,18,15,0,0,0,0,3,18,GP3,2016,tier3,artur janosz
+21,Tatiana_Calder%C3%B3n,Tatiana Calderón,2.0,18,13,0,0,0,0,5,18,GP3,2016,tier3,tatiana calderon
+22,Giuliano_Alesi,Giuliano Alesi,1.0,15,13,0,0,0,0,2,18,GP3,2016,tier3,giuliano alesi
+23,Alessio_Lorandi,Alessio Lorandi,0.0,4,4,0,0,0,0,0,18,GP3,2016,tier3,alessio lorandi
+24,Akash_Nandy,Akash Nandy,0.0,18,15,0,0,0,0,3,18,GP3,2016,tier3,akash nandy
+25,Richard_Gonda,Richard Gonda,0.0,6,5,0,0,0,0,1,18,GP3,2016,tier3,richard gonda
+26,Niko_Kari,Niko Kari,0.0,2,1,0,0,0,0,1,18,GP3,2016,tier3,niko kari
+27,Mahaveer_Raghunathan,Mahaveer Raghunathan,0.0,2,2,0,0,0,0,0,18,GP3,2016,tier3,mahaveer raghunathan
+1,George_Russell_(racing_driver),George Russell,220.0,14,14,4,7,4,5,0,16,GP3,2017,tier3,george russell
+2,Jack_Aitken,Jack Aitken,141.0,15,13,1,6,2,2,2,16,GP3,2017,tier3,jack aitken
+3,Nirei_Fukuzumi,Nirei Fukuzumi,134.0,14,12,2,6,1,0,2,16,GP3,2017,tier3,nirei fukuzumi
+4,Anthoine_Hubert,Anthoine Hubert,123.0,15,14,0,4,0,4,1,16,GP3,2017,tier3,anthoine hubert
+5,Giuliano_Alesi,Giuliano Alesi,99.0,15,14,3,4,0,1,1,16,GP3,2017,tier3,giuliano alesi
+6,Dorian_Boccolacci,Dorian Boccolacci,93.0,15,14,1,3,0,0,1,16,GP3,2017,tier3,dorian boccolacci
+7,Alessio_Lorandi,Alessio Lorandi,92.0,15,13,1,4,0,0,2,16,GP3,2017,tier3,alessio lorandi
+8,Ryan_Tveter,Ryan Tveter,78.0,15,14,0,3,0,0,1,16,GP3,2017,tier3,ryan tveter
+9,Arjun_Maini,Arjun Maini,72.0,15,14,1,2,0,0,1,16,GP3,2017,tier3,arjun maini
+10,Niko_Kari,Niko Kari,63.0,15,14,1,2,0,1,1,16,GP3,2017,tier3,niko kari
+11,Dan_Ticktum,Dan Ticktum,36.0,5,4,0,1,0,1,1,16,GP3,2017,tier3,dan ticktum
+12,Kevin_J%C3%B6rg,Kevin Jörg,28.0,15,15,0,1,0,0,0,16,GP3,2017,tier3,kevin jorg
+13,Raoul_Hyman,Raoul Hyman,27.0,15,15,1,1,0,0,0,16,GP3,2017,tier3,raoul hyman
+14,Leonardo_Pulcini,Leonardo Pulcini,20.0,15,12,0,1,0,1,3,16,GP3,2017,tier3,leonardo pulcini
+15,Julien_Falchero,Julien Falchero,16.0,14,12,0,0,0,0,2,16,GP3,2017,tier3,julien falchero
+16,Marcos_Siebert,Marcos Siebert,13.0,15,11,0,0,0,0,4,16,GP3,2017,tier3,marcos siebert
+17,Steijn_Schothorst,Steijn Schothorst,8.0,15,11,0,0,0,0,4,16,GP3,2017,tier3,steijn schothorst
+18,Tatiana_Calder%C3%B3n,Tatiana Calderón,7.0,15,13,0,0,0,0,2,16,GP3,2017,tier3,tatiana calderon
+19,Santino_Ferrucci,Santino Ferrucci,3.0,6,4,0,0,0,0,2,16,GP3,2017,tier3,santino ferrucci
+20,Bruno_Baptista,Bruno Baptista,3.0,15,12,0,0,0,0,3,16,GP3,2017,tier3,bruno baptista
+21,Juan_Manuel_Correa,Juan Manuel Correa,0.0,7,5,0,0,0,0,2,16,GP3,2017,tier3,juan manuel correa
+22,Matthieu_Vaxivi%C3%A8re,Matthieu Vaxivière,0.0,4,3,0,0,0,0,1,16,GP3,2017,tier3,matthieu vaxiviere
+1,Anthoine_Hubert,Anthoine Hubert,214.0,18,16,2,11,2,4,2,18,GP3,2018,tier3,anthoine hubert
+2,Nikita_Mazepin,Nikita Mazepin,198.0,18,17,4,8,1,5,1,18,GP3,2018,tier3,nikita mazepin
+3,Callum_Ilott,Callum Ilott,167.0,18,17,2,7,1,2,1,18,GP3,2018,tier3,callum ilott
+4,Leonardo_Pulcini,Leonardo Pulcini,156.0,18,17,2,5,2,2,1,18,GP3,2018,tier3,leonardo pulcini
+5,David_Beckmann,David Beckmann,137.0,18,14,3,4,2,2,4,18,GP3,2018,tier3,david beckmann
+6,Pedro_Piquet,Pedro Piquet,106.0,18,16,2,4,0,0,2,18,GP3,2018,tier3,pedro piquet
+7,Giuliano_Alesi,Giuliano Alesi,100.0,18,17,1,4,0,1,1,18,GP3,2018,tier3,giuliano alesi
+8,Jake_Hughes,Jake Hughes,85.0,18,17,1,3,0,0,1,18,GP3,2018,tier3,jake hughes
+9,Ryan_Tveter,Ryan Tveter,69.0,18,17,0,2,0,1,1,18,GP3,2018,tier3,ryan tveter
+10,Dorian_Boccolacci,Dorian Boccolacci,58.0,10,9,1,1,1,1,1,18,GP3,2018,tier3,dorian boccolacci
+11,Alessio_Lorandi,Alessio Lorandi,42.0,8,8,0,1,0,0,0,18,GP3,2018,tier3,alessio lorandi
+12,Juan_Manuel_Correa,Juan Manuel Correa,42.0,18,16,0,0,0,0,2,18,GP3,2018,tier3,juan manuel correa
+13,Joey_Mawson,Joey Mawson,38.0,18,16,0,2,0,0,2,18,GP3,2018,tier3,joey mawson
+14,Simo_Laaksonen,Simo Laaksonen,36.0,18,18,0,1,0,0,0,18,GP3,2018,tier3,simo laaksonen
+15,Richard_Verschoor,Richard Verschoor,30.0,8,8,0,1,0,0,0,18,GP3,2018,tier3,richard verschoor
+16,Tatiana_Calder%C3%B3n,Tatiana Calderón,11.0,18,15,0,0,0,0,3,18,GP3,2018,tier3,tatiana calderon
+17,Niko_Kari,Niko Kari,6.0,14,8,0,0,0,0,6,18,GP3,2018,tier3,niko kari
+18,Gabriel_Aubry_(racing_driver),Gabriel Aubry,5.0,18,11,0,0,0,0,7,18,GP3,2018,tier3,gabriel aubry
+19,Diego_Menchaca,Diego Menchaca,3.0,18,15,0,0,0,0,3,18,GP3,2018,tier3,diego menchaca
+20,Jannes_Fittje,Jannes Fittje,0.0,10,9,0,0,0,0,1,18,GP3,2018,tier3,jannes fittje
+21,Devlin_DeFrancesco,Devlin DeFrancesco,0.0,12,11,0,0,0,0,1,18,GP3,2018,tier3,devlin defrancesco
+22,Julien_Falchero,Julien Falchero,0.0,14,11,0,0,0,0,3,18,GP3,2018,tier3,julien falchero
+23,Christian_Lundgaard,Christian Lundgaard,0.0,2,2,0,0,0,0,0,18,GP3,2018,tier3,christian lundgaard
+24,Sacha_Fenestraz,Sacha Fenestraz,0.0,4,4,0,0,0,0,0,18,GP3,2018,tier3,sacha fenestraz
+25,Will_Palmer,Will Palmer,0.0,2,2,0,0,0,0,0,18,GP3,2018,tier3,will palmer
+26,Jehan_Daruvala,Jehan Daruvala,0.0,2,2,0,0,0,0,0,18,GP3,2018,tier3,jehan daruvala
+1,Esteban_Ocon,Esteban Ocon,478.0,33,30,9,21,15,7,3,33,European F3,2014,tier3,esteban ocon
+2,Tom_Blomqvist,Tom Blomqvist,420.0,33,30,6,15,6,9,3,33,European F3,2014,tier3,tom blomqvist
+3,Max_Verstappen,Max Verstappen,411.0,32,24,10,16,6,7,8,33,European F3,2014,tier3,max verstappen
+4,Lucas_Auer,Lucas Auer,365.0,33,31,3,13,1,2,2,33,European F3,2014,tier3,lucas auer
+5,Antonio_Fuoco,Antonio Fuoco,255.0,32,28,2,10,0,2,4,33,European F3,2014,tier3,antonio fuoco
+6,Antonio_Giovinazzi,Antonio Giovinazzi,238.0,33,28,2,7,2,3,5,33,European F3,2014,tier3,antonio giovinazzi
+7,Jordan_King,Jordan King,217.0,32,28,0,7,0,0,4,33,European F3,2014,tier3,jordan king
+8,Felix_Rosenqvist,Felix Rosenqvist,198.0,33,27,1,2,1,3,6,33,European F3,2014,tier3,felix rosenqvist
+9,Jake_Dennis,Jake Dennis,174.0,33,29,0,3,0,0,4,33,European F3,2014,tier3,jake dennis
+10,Nicholas_Latifi,Nicholas Latifi,128.0,30,22,0,1,0,0,8,33,European F3,2014,tier3,nicholas latifi
+11,Gustavo_Menezes,Gustavo Menezes,91.0,33,29,0,2,1,0,4,33,European F3,2014,tier3,gustavo menezes
+12,F%C3%A9lix_Serrall%C3%A9s,Félix Serrallés,82.0,33,26,0,0,0,0,7,33,European F3,2014,tier3,felix serralles
+13,Edward_Jones_(racing_driver),Ed Jones,70.0,20,17,0,2,0,0,3,33,European F3,2014,tier3,ed jones
+14,Dennis_van_de_Laar,Dennis van de Laar,38.0,32,29,0,0,0,0,3,33,European F3,2014,tier3,dennis van de laar
+15,Tatiana_Calder%C3%B3n,Tatiana Calderón,29.0,33,27,0,0,0,0,6,33,European F3,2014,tier3,tatiana calderon
+16,Mitch_Gilbert,Mitch Gilbert,28.0,18,16,0,0,0,0,2,33,European F3,2014,tier3,mitch gilbert
+17,Roy_Nissany,Roy Nissany,26.0,33,30,0,0,0,0,3,33,European F3,2014,tier3,roy nissany
+18,Sean_Gelael,Sean Gelael,25.0,33,29,0,0,0,0,4,33,European F3,2014,tier3,sean gelael
+19,Santino_Ferrucci,Santino Ferrucci,24.0,20,16,0,0,0,0,4,33,European F3,2014,tier3,santino ferrucci
+20,Jules_Szymkowiak,Jules Szymkowiak,17.0,33,26,0,0,0,0,7,33,European F3,2014,tier3,jules szymkowiak
+21,John_Bryant-Meisner,John Bryant-Meisner,6.0,21,20,0,0,0,0,1,33,European F3,2014,tier3,john bryant meisner
+22,Felipe_Guimar%C3%A3es,Felipe Guimarães,5.0,18,11,0,0,0,0,7,33,European F3,2014,tier3,felipe guimaraes
+23,Spike_Goddard,Richard Goddard,3.0,30,25,0,0,0,0,5,33,European F3,2014,tier3,richard goddard
+24,Hector_Hurst,Hector Hurst,3.0,24,21,0,0,0,0,3,33,European F3,2014,tier3,hector hurst
+25,name:alexander toril,Alexander Toril,1.0,30,23,0,0,0,0,7,33,European F3,2014,tier3,alexander toril
+26,Riccardo_Agostini,Riccardo Agostini,1.0,9,7,0,0,0,0,2,33,European F3,2014,tier3,riccardo agostini
+27,Sandro_Zeller,Sandro Zeller,0.0,24,19,0,0,0,0,5,33,European F3,2014,tier3,sandro zeller
+28,Michele_Beretta,Michele Beretta,0.0,33,21,0,0,0,0,12,33,European F3,2014,tier3,michele beretta
+29,Alfonso_Celis_Jr.,Alfonso Celis Jr.,0.0,3,2,0,0,0,0,1,33,European F3,2014,tier3,alfonso celis jr
+30,Andy_Chang,Wing Chung Chang,0.0,9,8,0,0,0,0,1,33,European F3,2014,tier3,wing chung chang
+1,Felix_Rosenqvist,Felix Rosenqvist,508.0,33,32,13,24,17,13,1,33,European F3,2015,tier3,felix rosenqvist
+2,Antonio_Giovinazzi,Antonio Giovinazzi,412.5,33,31,6,20,4,4,2,33,European F3,2015,tier3,antonio giovinazzi
+3,Jake_Dennis,Jake Dennis,377.0,33,28,6,16,6,5,5,33,European F3,2015,tier3,jake dennis
+4,Charles_Leclerc,Charles Leclerc,363.5,33,31,4,13,3,5,2,33,European F3,2015,tier3,charles leclerc
+5,Lance_Stroll,Lance Stroll,231.0,32,26,1,6,0,0,6,33,European F3,2015,tier3,lance stroll
+6,George_Russell_(racing_driver),George Russell,203.0,33,32,1,3,0,0,1,33,European F3,2015,tier3,george russell
+7,Alexander_Albon,Alexander Albon,187.0,31,28,0,5,2,1,3,33,European F3,2015,tier3,alexander albon
+8,Maximilian_G%C3%BCnther,Maximilian Günther,152.0,30,26,1,2,0,0,4,33,European F3,2015,tier3,maximilian gunther
+9,Mikkel_Jensen_(racing_driver),Mikkel Jensen,117.5,32,27,0,2,1,0,5,33,European F3,2015,tier3,mikkel jensen
+10,Markus_Pommer,Markus Pommer,116.5,33,28,1,2,0,1,5,33,European F3,2015,tier3,markus pommer
+11,Santino_Ferrucci,Santino Ferrucci,91.0,33,27,0,1,0,1,6,33,European F3,2015,tier3,santino ferrucci
+12,Callum_Ilott,Callum Ilott,65.5,33,33,0,1,0,0,0,33,European F3,2015,tier3,callum ilott
+13,Gustavo_Menezes,Gustavo Menezes,65.0,32,26,0,0,0,1,6,33,European F3,2015,tier3,gustavo menezes
+14,S%C3%A9rgio_Sette_C%C3%A2mara,Sérgio Sette Câmara,57.5,33,30,0,2,0,0,3,33,European F3,2015,tier3,sergio sette camara
+15,Brandon_Ma%C3%AFsano,Brandon Maïsano,53.0,22,20,0,0,0,0,2,33,European F3,2015,tier3,brandon maisano
+16,Nick_Cassidy,Nick Cassidy,43.0,6,5,0,2,0,0,1,33,European F3,2015,tier3,nick cassidy
+17,Pietro_Fittipaldi,Pietro Fittipaldi,32.0,32,24,0,0,0,0,6,33,European F3,2015,tier3,pietro fittipaldi
+18,Arjun_Maini,Arjun Maini,27.0,33,30,0,0,0,0,3,33,European F3,2015,tier3,arjun maini
+19,Dorian_Boccolacci,Dorian Boccolacci,27.0,32,27,0,0,0,0,5,33,European F3,2015,tier3,dorian boccolacci
+20,Alessio_Lorandi,Alessio Lorandi,26.0,33,27,0,0,0,0,6,33,European F3,2015,tier3,alessio lorandi
+21,Raoul_Hyman,Raoul Hyman,14.5,33,26,0,0,0,0,7,33,European F3,2015,tier3,raoul hyman
+22,Michele_Beretta,Michele Beretta,4.0,32,25,0,0,0,0,7,33,European F3,2015,tier3,michele beretta
+23,Ryan_Tveter,Ryan Tveter,2.0,33,23,0,0,0,0,10,33,European F3,2015,tier3,ryan tveter
+24,name:sam macleod,Sam MacLeod,2.0,30,24,0,0,0,0,6,33,European F3,2015,tier3,sam macleod
+25,Fabian_Schiller,Fabian Schiller,2.0,24,19,0,0,0,0,5,33,European F3,2015,tier3,fabian schiller
+26,Nabil_Jeffri,Nabil Jeffri,2.0,33,28,0,0,0,0,5,33,European F3,2015,tier3,nabil jeffri
+27,Tatiana_Calder%C3%B3n,Tatiana Calderón,0.0,33,28,0,0,0,0,5,33,European F3,2015,tier3,tatiana calderon
+28,Matt_Solomon,Matt Solomon,0.0,33,25,0,0,0,0,8,33,European F3,2015,tier3,matt solomon
+29,Matt_Rao,Matthew Rao,0.0,32,26,0,0,0,0,6,33,European F3,2015,tier3,matthew rao
+30,Martin_Cao,Hongwei Cao,0.0,15,15,0,0,0,0,0,33,European F3,2015,tier3,hongwei cao
+31,Nicolas_Beer,Nicolas Beer,0.0,4,3,0,0,0,0,1,33,European F3,2015,tier3,nicolas beer
+32,name:nicolas pohler,Nicolas Pohler,0.0,27,21,0,0,0,0,6,33,European F3,2015,tier3,nicolas pohler
+33,F%C3%A9lix_Serrall%C3%A9s,Félix Serrallés,0.0,3,2,0,0,0,0,1,33,European F3,2015,tier3,felix serralles
+34,Julio_Moreno_(racing_driver),Julio Moreno,0.0,32,28,0,0,0,1,4,33,European F3,2015,tier3,julio moreno
+35,Artur_Janosz,Artur Janosz,0.0,3,2,0,0,0,0,1,33,European F3,2015,tier3,artur janosz
+36,Wing_Chung_Chang,Wing Chung Chang,0.0,15,11,0,0,0,0,4,33,European F3,2015,tier3,wing chung chang
+37,Zhi_Cong_Li,Peter Li,0.0,21,19,0,0,0,0,2,33,European F3,2015,tier3,peter li
+38,Kang_Ling,Kang Ling,0.0,24,15,0,0,0,0,9,33,European F3,2015,tier3,kang ling
+39,Mahaveer_Raghunathan,Mahaveer Raghunathan,0.0,29,25,0,0,0,0,1,33,European F3,2015,tier3,mahaveer raghunathan
+40,Tanart_Sathienthirakul,Tanart Sathienthirakul,0.0,3,2,0,0,0,0,1,33,European F3,2015,tier3,tanart sathienthirakul
+41,Matheus_Leist,Matheus Leist,0.0,3,3,0,0,0,0,0,33,European F3,2015,tier3,matheus leist
+42,Gustav_Malja,Gustav Malja,0.0,3,2,0,0,0,0,1,33,European F3,2015,tier3,gustav malja
+1,Lance_Stroll,Lance Stroll,507.0,30,26,14,20,14,13,4,30,European F3,2016,tier3,lance stroll
+2,Maximilian_G%C3%BCnther,Maximilian Günther,320.0,30,26,4,13,7,4,4,30,European F3,2016,tier3,maximilian gunther
+3,George_Russell_(racing_driver),George Russell,264.0,30,24,2,10,3,3,6,30,European F3,2016,tier3,george russell
+4,Nick_Cassidy,Nick Cassidy,254.0,30,25,1,8,1,1,5,30,European F3,2016,tier3,nick cassidy
+5,Joel_Eriksson_(racing_driver),Joel Eriksson,252.0,30,27,1,10,1,2,3,30,European F3,2016,tier3,joel eriksson
+6,Callum_Ilott,Callum Ilott,226.0,30,23,2,6,2,3,7,30,European F3,2016,tier3,callum ilott
+7,Ralf_Aron,Ralf Aron,166.0,29,28,1,2,0,0,1,30,European F3,2016,tier3,ralf aron
+8,Anthoine_Hubert,Anthoine Hubert,160.0,30,28,1,3,1,1,2,30,European F3,2016,tier3,anthoine hubert
+9,Ben_Barnicoat,Ben Barnicoat,134.0,30,25,2,3,0,0,5,30,European F3,2016,tier3,ben barnicoat
+10,Niko_Kari,Niko Kari,129.0,30,27,1,5,0,0,3,30,European F3,2016,tier3,niko kari
+11,S%C3%A9rgio_Sette_C%C3%A2mara,Sérgio Sette Câmara,117.0,30,25,0,2,0,1,5,30,European F3,2016,tier3,sergio sette camara
+12,Mikkel_Jensen_(racing_driver),Mikkel Jensen,107.0,29,25,0,1,0,0,4,30,European F3,2016,tier3,mikkel jensen
+13,Guanyu_Zhou,Guanyu Zhou,101.0,30,27,0,2,0,0,3,30,European F3,2016,tier3,guanyu zhou
+14,Alessio_Lorandi,Alessio Lorandi,96.0,21,20,1,2,1,1,1,30,European F3,2016,tier3,alessio lorandi
+15,David_Beckmann,David Beckmann,67.0,24,19,0,2,0,0,5,30,European F3,2016,tier3,david beckmann
+16,Jake_Hughes,Jake Hughes,27.0,3,3,0,1,0,0,0,30,European F3,2016,tier3,jake hughes
+17,Ryan_Tveter,Ryan Tveter,25.0,18,15,0,0,0,0,3,30,European F3,2016,tier3,ryan tveter
+18,Harrison_Newey,Harrison Newey,22.0,30,26,0,0,0,0,4,30,European F3,2016,tier3,harrison newey
+19,Pedro_Piquet,Pedro Piquet,19.0,30,24,0,0,0,0,6,30,European F3,2016,tier3,pedro piquet
+20,Nikita_Mazepin,Nikita Mazepin,10.0,29,25,0,0,0,0,4,30,European F3,2016,tier3,nikita mazepin
+21,Arjun_Maini,Arjun Maini,3.0,12,9,0,0,0,0,3,30,European F3,2016,tier3,arjun maini
+22,Raoul_Hyman,Raoul Hyman,1.0,3,3,0,0,0,0,0,30,European F3,2016,tier3,raoul hyman
+23,Zhi_Cong_Li,Peter Li,0.0,10,7,0,0,0,0,3,30,European F3,2016,tier3,peter li
+24,William_Buller_(racing_driver),William Buller,0.0,3,1,0,0,0,0,2,30,European F3,2016,tier3,william buller
+25,Weiron_Tan,Weiron Tan,0.0,9,6,0,0,0,0,3,30,European F3,2016,tier3,weiron tan
+26,Ukyo_Sasahara,Ukyo Sasahara,0.0,6,3,0,0,0,0,3,30,European F3,2016,tier3,ukyo sasahara
+27,Wing_Chung_Chang,Wing Chung Chang,0.0,6,6,0,0,0,0,0,30,European F3,2016,tier3,wing chung chang
+1,Lando_Norris,Lando Norris,441.0,30,28,9,20,8,8,2,30,European F3,2017,tier3,lando norris
+2,Joel_Eriksson_(racing_driver),Joel Eriksson,388.0,30,29,7,14,5,4,1,30,European F3,2017,tier3,joel eriksson
+3,Maximilian_G%C3%BCnther,Maximilian Günther,383.0,30,29,5,16,3,2,1,30,European F3,2017,tier3,maximilian gunther
+4,Callum_Ilott,Callum Ilott,344.0,30,26,6,11,10,9,4,30,European F3,2017,tier3,callum ilott
+5,Jake_Hughes,Jake Hughes,211.0,30,24,1,7,2,2,6,30,European F3,2017,tier3,jake hughes
+6,Jehan_Daruvala,Jehan Daruvala,191.0,30,30,1,3,1,0,0,30,European F3,2017,tier3,jehan daruvala
+7,Ferdinand_Zvonimir_von_Habsburg,Ferdinand Habsburg,187.0,30,27,1,4,0,2,3,30,European F3,2017,tier3,ferdinand habsburg
+8,Guanyu_Zhou,Guanyu Zhou,149.0,30,26,0,5,0,0,4,30,European F3,2017,tier3,guanyu zhou
+9,Ralf_Aron,Ralf Aron,123.0,30,27,0,2,1,1,3,30,European F3,2017,tier3,ralf aron
+10,Nikita_Mazepin,Nikita Mazepin,108.0,30,26,0,3,0,1,4,30,European F3,2017,tier3,nikita mazepin
+11,Harrison_Newey,Harrison Newey,106.0,30,29,0,0,0,0,1,30,European F3,2017,tier3,harrison newey
+12,Mick_Schumacher,Mick Schumacher,94.0,30,29,0,1,0,0,1,30,European F3,2017,tier3,mick schumacher
+13,Joey_Mawson,Joey Mawson,83.0,30,26,0,1,0,0,4,30,European F3,2017,tier3,joey mawson
+14,Pedro_Piquet,Pedro Piquet,80.0,30,26,0,1,0,0,4,30,European F3,2017,tier3,pedro piquet
+15,Tadasuke_Makino,Tadasuke Makino,57.0,27,25,0,1,0,0,2,30,European F3,2017,tier3,tadasuke makino
+16,David_Beckmann,David Beckmann,45.0,30,25,0,0,0,0,5,30,European F3,2017,tier3,david beckmann
+17,Jake_Dennis,Jake Dennis,41.0,9,5,0,1,0,0,4,30,European F3,2017,tier3,jake dennis
+18,Max_Defourny,Max Defourny,2.0,3,3,0,0,0,1,0,30,European F3,2017,tier3,max defourny
+19,Marino_Sato,Marino Sato,1.0,30,28,0,0,0,0,2,30,European F3,2017,tier3,marino sato
+20,Sacha_Fenestraz,Sacha Fenestraz,1.0,3,3,0,0,0,0,0,30,European F3,2017,tier3,sacha fenestraz
+21,Keyvan_Andres_Soori,Keyvan Andres Soori,0.0,30,26,0,0,0,0,4,30,European F3,2017,tier3,keyvan andres soori
+22,Ameya_Vaidyanathan,Ameya Vaidyanathan,0.0,9,9,0,0,0,0,0,30,European F3,2017,tier3,ameya vaidyanathan
+23,Petru_Florescu,Petru Florescu,0.0,6,6,0,0,0,0,0,30,European F3,2017,tier3,petru florescu
+1,Mick_Schumacher,Mick Schumacher,365.0,30,27,8,14,7,4,3,30,European F3,2018,tier3,mick schumacher
+2,Dan_Ticktum,Dan Ticktum,308.0,30,26,4,8,5,1,4,30,European F3,2018,tier3,dan ticktum
+3,Robert_Shwartzman,Robert Shwartzman,294.0,30,28,2,11,3,1,2,30,European F3,2018,tier3,robert shwartzman
+4,J%C3%BCri_Vips,Jüri Vips,284.0,30,28,4,8,3,6,2,30,European F3,2018,tier3,juri vips
+5,Marcus_Armstrong,Marcus Armstrong,260.0,30,21,1,9,3,3,9,30,European F3,2018,tier3,marcus armstrong
+6,Ralf_Aron,Ralf Aron,242.5,30,27,4,8,0,2,3,30,European F3,2018,tier3,ralf aron
+7,%C3%81lex_Palou,Álex Palou,204.0,30,26,0,7,0,2,4,30,European F3,2018,tier3,alex palou
+8,Guanyu_Zhou,Guanyu Zhou,203.0,30,26,2,6,3,1,4,30,European F3,2018,tier3,guanyu zhou
+9,Enaam_Ahmed,Enaam Ahmed,174.0,30,27,2,4,2,1,3,30,European F3,2018,tier3,enaam ahmed
+10,Jehan_Daruvala,Jehan Daruvala,136.5,30,24,1,5,1,1,6,30,European F3,2018,tier3,jehan daruvala
+11,Sacha_Fenestraz,Sacha Fenestraz,121.0,30,25,1,3,2,1,5,30,European F3,2018,tier3,sacha fenestraz
+12,Jonathan_Aberdein,Jonathan Aberdein,108.0,30,28,0,3,0,1,2,30,European F3,2018,tier3,jonathan aberdein
+13,Ferdinand_Zvonimir_von_Habsburg,Ferdinand Habsburg,87.0,30,25,0,1,0,2,5,30,European F3,2018,tier3,ferdinand habsburg
+14,Fabio_Scherer,Fabio Scherer,64.0,30,26,0,1,1,2,4,30,European F3,2018,tier3,fabio scherer
+15,Nikita_Troitskiy,Nikita Troitskiy,37.0,30,26,1,1,0,2,4,30,European F3,2018,tier3,nikita troitskiy
+16,Marino_Sato,Marino Sato,31.5,30,27,0,0,0,0,3,30,European F3,2018,tier3,marino sato
+17,name:ben hingeley,Ben Hingeley,22.0,30,24,0,0,0,0,6,30,European F3,2018,tier3,ben hingeley
+18,Keyvan_Andres,Keyvan Andres,18.0,30,27,0,1,0,0,3,30,European F3,2018,tier3,keyvan andres
+19,Julian_Hanses,Julian Hanses,7.0,21,18,0,0,0,0,3,30,European F3,2018,tier3,julian hanses
+20,Artem_Petrov,Artem Petrov,7.0,30,26,0,0,0,0,4,30,European F3,2018,tier3,artem petrov
+21,Sebasti%C3%A1n_Fern%C3%A1ndez_(racing_driver),Sebastián Fernández,5.0,30,25,0,0,0,0,5,30,European F3,2018,tier3,sebastian fernandez
+22,Sophia_Fl%C3%B6rsch,Sophia Flörsch,1.0,21,20,0,0,0,0,1,30,European F3,2018,tier3,sophia florsch
+23,Ameya_Vaidyanathan,Ameya Vaidyanathan,0.0,29,25,0,0,0,0,4,30,European F3,2018,tier3,ameya vaidyanathan
+24,Petru_Florescu,Petru Florescu,0.0,15,14,0,0,0,0,1,30,European F3,2018,tier3,petru florescu
+25,Devlin_DeFrancesco,Devlin DeFrancesco,0.0,6,3,0,0,0,0,3,30,European F3,2018,tier3,devlin defrancesco
+26,Charles_Leong,Charles Leong,0.0,3,3,0,0,0,0,0,30,European F3,2018,tier3,charles leong
+1,Charles_Leclerc,Charles Leclerc,282.0,22,19,7,10,8,4,3,22,FIA F2,2017,f2,charles leclerc
+2,Artem_Markelov,Artem Markelov,210.0,22,21,5,7,1,6,1,22,FIA F2,2017,f2,artem markelov
+3,Oliver_Rowland,Oliver Rowland,191.0,22,18,2,10,1,2,4,22,FIA F2,2017,f2,oliver rowland
+4,Luca_Ghiotto,Luca Ghiotto,185.0,22,22,1,7,0,0,0,22,FIA F2,2017,f2,luca ghiotto
+5,Nicholas_Latifi,Nicholas Latifi,178.0,21,20,1,9,0,4,1,22,FIA F2,2017,f2,nicholas latifi
+6,Nobuharu_Matsushita,Nobuharu Matsushita,131.0,22,21,2,4,1,2,1,22,FIA F2,2017,f2,nobuharu matsushita
+7,Nyck_de_Vries,Nyck de Vries,114.0,21,19,1,5,0,2,2,22,FIA F2,2017,f2,nyck de vries
+8,Antonio_Fuoco,Antonio Fuoco,98.0,22,18,1,5,0,1,4,22,FIA F2,2017,f2,antonio fuoco
+9,Norman_Nato,Norman Nato,91.0,22,18,1,3,0,0,4,22,FIA F2,2017,f2,norman nato
+10,Alexander_Albon,Alexander Albon,86.0,20,20,0,2,0,1,0,22,FIA F2,2017,f2,alexander albon
+11,Jordan_King,Jordan King,62.0,22,17,0,0,0,0,5,22,FIA F2,2017,f2,jordan king
+12,S%C3%A9rgio_Sette_C%C3%A2mara,Sérgio Sette Câmara,47.0,22,21,1,2,0,0,1,22,FIA F2,2017,f2,sergio sette camara
+13,Gustav_Malja,Gustav Malja,44.0,22,21,0,1,0,0,1,22,FIA F2,2017,f2,gustav malja
+14,Sergio_Canamasas,Sergio Canamasas,21.0,14,11,0,0,0,0,3,22,FIA F2,2017,f2,sergio canamasas
+15,Sean_Gelael,Sean Gelael,17.0,22,22,0,0,0,0,0,22,FIA F2,2017,f2,sean gelael
+16,Johnny_Cecotto_Jr.,Johnny Cecotto Jr.,16.0,8,7,0,1,0,0,1,22,FIA F2,2017,f2,johnny cecotto jr
+17,Louis_Del%C3%A9traz,Louis Delétraz,16.0,22,20,0,0,0,0,2,22,FIA F2,2017,f2,louis deletraz
+18,Roberto_Merhi,Roberto Merhi,16.0,8,8,0,0,0,0,0,22,FIA F2,2017,f2,roberto merhi
+19,Ralph_Boschung,Ralph Boschung,11.0,20,15,0,0,0,0,5,22,FIA F2,2017,f2,ralph boschung
+20,Sergey_Sirotkin_(racing_driver),Sergey Sirotkin,9.0,2,2,0,0,0,0,0,22,FIA F2,2017,f2,sergey sirotkin
+21,%C3%81lex_Palou,Álex Palou,5.0,4,4,0,0,0,0,0,22,FIA F2,2017,f2,alex palou
+22,Santino_Ferrucci,Santino Ferrucci,4.0,10,8,0,0,0,0,2,22,FIA F2,2017,f2,santino ferrucci
+23,Nabil_Jeffri,Nabil Jeffri,2.0,22,20,0,0,0,0,2,22,FIA F2,2017,f2,nabil jeffri
+24,Robert_Vi%C8%99oiu,Robert Vișoiu,1.0,14,11,0,0,0,0,3,22,FIA F2,2017,f2,robert visoiu
+25,Lando_Norris,Lando Norris,0.0,2,1,0,0,0,0,1,22,FIA F2,2017,f2,lando norris
+26,Callum_Ilott,Callum Ilott,0.0,2,2,0,0,0,0,0,22,FIA F2,2017,f2,callum ilott
+27,Stefano_Coletti,Stefano Coletti,0.0,2,2,0,0,0,0,0,22,FIA F2,2017,f2,stefano coletti
+28,Ren%C3%A9_Binder,René Binder,0.0,2,2,0,0,0,0,0,22,FIA F2,2017,f2,rene binder
+29,Raffaele_Marciello,Raffaele Marciello,0.0,2,1,0,0,0,0,1,22,FIA F2,2017,f2,raffaele marciello
+1,George_Russell_(racing_driver),George Russell,287.0,24,21,7,11,5,6,3,24,FIA F2,2018,f2,george russell
+2,Lando_Norris,Lando Norris,219.0,24,22,1,9,1,1,2,24,FIA F2,2018,f2,lando norris
+3,Alexander_Albon,Alexander Albon,212.0,24,20,4,8,3,0,4,24,FIA F2,2018,f2,alexander albon
+4,Nyck_de_Vries,Nyck de Vries,202.0,24,20,3,6,2,6,4,24,FIA F2,2018,f2,nyck de vries
+5,Artem_Markelov,Artem Markelov,186.0,24,22,3,7,0,5,2,24,FIA F2,2018,f2,artem markelov
+6,S%C3%A9rgio_Sette_C%C3%A2mara,Sérgio Sette Câmara,164.0,22,19,0,8,1,1,3,24,FIA F2,2018,f2,sergio sette camara
+7,Antonio_Fuoco,Antonio Fuoco,141.0,23,21,2,6,0,1,2,24,FIA F2,2018,f2,antonio fuoco
+8,Luca_Ghiotto,Luca Ghiotto,111.0,24,21,0,4,0,2,3,24,FIA F2,2018,f2,luca ghiotto
+9,Nicholas_Latifi,Nicholas Latifi,91.0,24,21,1,3,0,2,3,24,FIA F2,2018,f2,nicholas latifi
+10,Louis_Del%C3%A9traz,Louis Delétraz,74.0,24,20,0,2,0,0,4,24,FIA F2,2018,f2,louis deletraz
+11,Jack_Aitken,Jack Aitken,63.0,23,20,1,2,0,0,3,24,FIA F2,2018,f2,jack aitken
+12,Roberto_Merhi,Roberto Merhi,61.0,19,17,0,2,0,0,2,24,FIA F2,2018,f2,roberto merhi
+13,Tadasuke_Makino,Tadasuke Makino,48.0,24,20,1,1,0,0,4,24,FIA F2,2018,f2,tadasuke makino
+14,Maximilian_G%C3%BCnther,Maximilian Günther,41.0,22,19,1,2,0,0,3,24,FIA F2,2018,f2,maximilian gunther
+15,Sean_Gelael,Sean Gelael,29.0,23,14,0,1,0,0,9,24,FIA F2,2018,f2,sean gelael
+16,Arjun_Maini,Arjun Maini,24.0,23,19,0,0,0,0,4,24,FIA F2,2018,f2,arjun maini
+17,Nirei_Fukuzumi,Nirei Fukuzumi,17.0,23,19,0,0,0,0,4,24,FIA F2,2018,f2,nirei fukuzumi
+18,Ralph_Boschung,Ralph Boschung,17.0,20,11,0,0,0,0,9,24,FIA F2,2018,f2,ralph boschung
+19,Santino_Ferrucci,Santino Ferrucci,7.0,13,12,0,0,0,0,1,24,FIA F2,2018,f2,santino ferrucci
+20,Alessio_Lorandi,Alessio Lorandi,6.0,10,8,0,0,0,0,2,24,FIA F2,2018,f2,alessio lorandi
+21,Dorian_Boccolacci,Dorian Boccolacci,3.0,8,7,0,0,0,0,1,24,FIA F2,2018,f2,dorian boccolacci
+22,Roy_Nissany,Roy Nissany,1.0,20,16,0,0,0,0,4,24,FIA F2,2018,f2,roy nissany
+23,Dan_Ticktum,Dan Ticktum,0.0,2,1,0,0,0,0,1,24,FIA F2,2018,f2,dan ticktum
+24,Niko_Kari,Niko Kari,0.0,4,1,0,0,0,0,3,24,FIA F2,2018,f2,niko kari
+1,Nyck_de_Vries,Nyck de Vries,266.0,22,22,4,12,0,0,0,24,FIA F2,2019,f2,nyck de vries
+2,Nicholas_Latifi,Nicholas Latifi,214.0,22,22,4,8,0,0,0,24,FIA F2,2019,f2,nicholas latifi
+3,Luca_Ghiotto,Luca Ghiotto,207.0,22,18,4,9,0,0,4,24,FIA F2,2019,f2,luca ghiotto
+4,S%C3%A9rgio_Sette_C%C3%A2mara,Sérgio Sette Câmara,204.0,22,19,2,8,0,0,3,24,FIA F2,2019,f2,sergio sette camara
+5,Jack_Aitken,Jack Aitken,159.0,22,22,3,7,0,0,0,24,FIA F2,2019,f2,jack aitken
+6,Nobuharu_Matsushita,Nobuharu Matsushita,144.0,22,20,2,5,0,0,2,24,FIA F2,2019,f2,nobuharu matsushita
+7,Guanyu_Zhou,Guanyu Zhou,140.0,22,20,0,5,0,0,2,24,FIA F2,2019,f2,guanyu zhou
+8,Louis_Del%C3%A9traz,Louis Delétraz,92.0,22,16,0,3,0,0,6,24,FIA F2,2019,f2,louis deletraz
+9,Jordan_King,Jordan King,79.0,20,19,0,2,0,0,1,24,FIA F2,2019,f2,jordan king
+10,Anthoine_Hubert,Anthoine Hubert,77.0,16,16,2,2,0,0,0,24,FIA F2,2019,f2,anthoine hubert
+11,Callum_Ilott,Callum Ilott,74.0,21,19,0,2,0,0,2,24,FIA F2,2019,f2,callum ilott
+12,Mick_Schumacher,Mick Schumacher,53.0,22,16,1,1,0,0,6,24,FIA F2,2019,f2,mick schumacher
+13,Juan_Manuel_Correa,Juan Manuel Correa,36.0,16,15,0,2,0,0,1,24,FIA F2,2019,f2,juan manuel correa
+14,Dorian_Boccolacci,Dorian Boccolacci,30.0,12,10,0,0,0,0,2,24,FIA F2,2019,f2,dorian boccolacci
+15,Giuliano_Alesi,Giuliano Alesi,20.0,22,15,0,0,0,0,7,24,FIA F2,2019,f2,giuliano alesi
+16,Artem_Markelov,Artem Markelov,16.0,6,3,0,0,0,0,3,24,FIA F2,2019,f2,artem markelov
+17,Sean_Gelael,Sean Gelael,15.0,20,15,0,0,0,0,5,24,FIA F2,2019,f2,sean gelael
+18,Nikita_Mazepin,Nikita Mazepin,11.0,22,19,0,0,0,0,3,24,FIA F2,2019,f2,nikita mazepin
+19,Ralph_Boschung,Ralph Boschung,3.0,14,11,0,0,0,0,3,24,FIA F2,2019,f2,ralph boschung
+20,Mahaveer_Raghunathan,Mahaveer Raghunathan,1.0,20,18,0,0,0,0,2,24,FIA F2,2019,f2,mahaveer raghunathan
+21,Marino_Sato,Marino Sato,0.0,6,6,0,0,0,0,0,24,FIA F2,2019,f2,marino sato
+22,Tatiana_Calder%C3%B3n,Tatiana Calderón,0.0,22,17,0,0,0,0,5,24,FIA F2,2019,f2,tatiana calderon
+23,Christian_Lundgaard,Christian Lundgaard,0.0,2,2,0,0,0,0,0,24,FIA F2,2019,f2,christian lundgaard
+24,Arjun_Maini,Arjun Maini,0.0,6,4,0,0,0,0,2,24,FIA F2,2019,f2,arjun maini
+25,Matevos_Isaakyan,Matevos Isaakyan,0.0,4,3,0,0,0,0,1,24,FIA F2,2019,f2,matevos isaakyan
+26,Pato_O%27Ward,Pato O'Ward,0.0,2,2,0,0,0,0,0,24,FIA F2,2019,f2,pato o ward
+27,Ryan_Tveter,Ryan Tveter,0.0,2,2,0,0,0,0,0,24,FIA F2,2019,f2,ryan tveter
+1,Mick_Schumacher,Mick Schumacher,215.0,24,23,2,10,0,0,1,24,FIA F2,2020,f2,mick schumacher
+2,Callum_Ilott,Callum Ilott,201.0,24,22,3,6,0,0,2,24,FIA F2,2020,f2,callum ilott
+3,Yuki_Tsunoda,Yuki Tsunoda,200.0,24,21,3,7,0,0,3,24,FIA F2,2020,f2,yuki tsunoda
+4,Robert_Shwartzman,Robert Shwartzman,177.0,24,22,4,6,0,0,2,24,FIA F2,2020,f2,robert shwartzman
+5,Nikita_Mazepin,Nikita Mazepin,164.0,24,23,2,6,0,0,1,24,FIA F2,2020,f2,nikita mazepin
+6,Guanyu_Zhou,Guanyu Zhou,151.5,24,22,1,6,0,0,2,24,FIA F2,2020,f2,guanyu zhou
+7,Christian_Lundgaard,Christian Lundgaard,149.0,24,22,2,6,0,0,2,24,FIA F2,2020,f2,christian lundgaard
+8,Louis_Del%C3%A9traz,Louis Delétraz,134.0,24,24,0,5,0,0,0,24,FIA F2,2020,f2,louis deletraz
+9,Felipe_Drugovich,Felipe Drugovich,121.0,24,21,3,4,0,0,3,24,FIA F2,2020,f2,felipe drugovich
+10,Luca_Ghiotto,Luca Ghiotto,106.0,23,20,1,4,0,0,3,24,FIA F2,2020,f2,luca ghiotto
+11,Dan_Ticktum,Dan Ticktum,96.5,24,22,1,4,0,0,2,24,FIA F2,2020,f2,dan ticktum
+12,Jehan_Daruvala,Jehan Daruvala,72.0,24,23,1,2,0,0,1,24,FIA F2,2020,f2,jehan daruvala
+13,Marcus_Armstrong,Marcus Armstrong,52.0,24,20,0,2,0,0,4,24,FIA F2,2020,f2,marcus armstrong
+14,Jack_Aitken,Jack Aitken,48.0,22,21,0,2,0,0,1,24,FIA F2,2020,f2,jack aitken
+15,Nobuharu_Matsushita,Nobuharu Matsushita,42.0,17,16,1,1,0,0,1,24,FIA F2,2020,f2,nobuharu matsushita
+16,J%C3%BCri_Vips,Jüri Vips,16.0,8,7,0,1,0,0,1,24,FIA F2,2020,f2,juri vips
+17,Giuliano_Alesi,Giuliano Alesi,12.0,24,20,0,0,0,0,4,24,FIA F2,2020,f2,giuliano alesi
+18,Artem_Markelov,Artem Markelov,5.0,23,21,0,0,0,0,2,24,FIA F2,2020,f2,artem markelov
+19,Roy_Nissany,Roy Nissany,5.0,24,19,0,0,0,0,5,24,FIA F2,2020,f2,roy nissany
+20,Pedro_Piquet,Pedro Piquet,3.0,24,24,0,0,0,0,0,24,FIA F2,2020,f2,pedro piquet
+21,Sean_Gelael,Sean Gelael,3.0,14,10,0,0,0,0,4,24,FIA F2,2020,f2,sean gelael
+22,Marino_Sato,Marino Sato,1.0,24,20,0,0,0,0,4,24,FIA F2,2020,f2,marino sato
+23,Jake_Hughes,Jake Hughes,0.0,2,1,0,0,0,0,1,24,FIA F2,2020,f2,jake hughes
+24,Guilherme_Samaia,Guilherme Samaia,0.0,24,22,0,0,0,0,2,24,FIA F2,2020,f2,guilherme samaia
+25,Ralph_Boschung,Ralph Boschung,0.0,2,1,0,0,0,0,1,24,FIA F2,2020,f2,ralph boschung
+26,Th%C3%A9o_Pourchaire,Théo Pourchaire,0.0,4,3,0,0,0,0,1,24,FIA F2,2020,f2,theo pourchaire
+1,Oscar_Piastri,Oscar Piastri,252.5,23,21,6,11,0,0,2,24,FIA F2,2021,f2,oscar piastri
+2,Robert_Shwartzman,Robert Shwartzman,192.0,23,21,2,8,0,0,2,24,FIA F2,2021,f2,robert shwartzman
+3,Zhou_Guanyu,Zhou Guanyu,183.0,22,20,4,9,0,0,2,24,FIA F2,2021,f2,zhou guanyu
+4,Dan_Ticktum,Dan Ticktum,159.5,23,20,2,7,0,0,3,24,FIA F2,2021,f2,dan ticktum
+5,Th%C3%A9o_Pourchaire,Théo Pourchaire,140.0,23,19,2,3,0,0,4,24,FIA F2,2021,f2,theo pourchaire
+6,J%C3%BCri_Vips,Jüri Vips,120.0,23,19,2,6,0,0,4,24,FIA F2,2021,f2,juri vips
+7,Jehan_Daruvala,Jehan Daruvala,113.0,23,22,2,5,0,0,1,24,FIA F2,2021,f2,jehan daruvala
+8,Felipe_Drugovich,Felipe Drugovich,105.0,21,20,0,4,0,0,1,24,FIA F2,2021,f2,felipe drugovich
+9,Liam_Lawson,Liam Lawson,103.0,23,16,1,3,0,0,7,24,FIA F2,2021,f2,liam lawson
+10,Ralph_Boschung,Ralph Boschung,59.5,23,20,0,2,0,0,3,24,FIA F2,2021,f2,ralph boschung
+11,Richard_Verschoor,Richard Verschoor,56.0,20,15,1,1,0,0,5,24,FIA F2,2021,f2,richard verschoor
+12,Christian_Lundgaard,Christian Lundgaard,50.0,23,20,0,3,0,0,3,24,FIA F2,2021,f2,christian lundgaard
+13,Marcus_Armstrong,Marcus Armstrong,49.0,23,16,1,2,0,0,7,24,FIA F2,2021,f2,marcus armstrong
+14,Bent_Viscaal,Bent Viscaal,34.0,23,20,0,2,0,0,3,24,FIA F2,2021,f2,bent viscaal
+15,David_Beckmann,David Beckmann,32.0,17,16,0,2,0,0,1,24,FIA F2,2021,f2,david beckmann
+16,Roy_Nissany,Roy Nissany,16.0,23,19,0,1,0,0,4,24,FIA F2,2021,f2,roy nissany
+17,Lirim_Zendeli,Lirim Zendeli,13.0,17,14,0,0,0,0,3,24,FIA F2,2021,f2,lirim zendeli
+18,Jake_Hughes,Jake Hughes,8.0,8,5,0,0,0,0,3,24,FIA F2,2021,f2,jake hughes
+19,Jack_Doohan_(racing_driver),Jack Doohan,7.0,6,5,0,0,0,0,1,24,FIA F2,2021,f2,jack doohan
+20,Enzo_Fittipaldi,Enzo Fittipaldi,2.0,8,6,0,0,0,0,2,24,FIA F2,2021,f2,enzo fittipaldi
+21,Marino_Sato,Marino Sato,1.0,23,18,0,0,0,0,5,24,FIA F2,2021,f2,marino sato
+22,Matteo_Nannini,Matteo Nannini,1.0,8,8,0,0,0,0,0,24,FIA F2,2021,f2,matteo nannini
+23,Jack_Aitken,Jack Aitken,0.0,9,8,0,0,0,0,1,24,FIA F2,2021,f2,jack aitken
+24,Guilherme_Samaia,Guilherme Samaia,0.0,23,17,0,0,0,0,6,24,FIA F2,2021,f2,guilherme samaia
+25,Alessio_Deledda,Alessio Deledda,0.0,23,14,0,0,0,0,9,24,FIA F2,2021,f2,alessio deledda
+26,Olli_Caldwell,Olli Caldwell,0.0,6,6,0,0,0,0,0,24,FIA F2,2021,f2,olli caldwell
+27,Gianluca_Petecof,Gianluca Petecof,0.0,6,3,0,0,0,0,3,24,FIA F2,2021,f2,gianluca petecof
+28,Cl%C3%A9ment_Novalak,Clément Novalak,0.0,6,5,0,0,0,0,1,24,FIA F2,2021,f2,clement novalak
+29,Logan_Sargeant,Logan Sargeant,0.0,3,2,0,0,0,0,1,24,FIA F2,2021,f2,logan sargeant
+1,Felipe_Drugovich,Felipe Drugovich,265.0,28,26,5,11,0,0,2,28,FIA F2,2022,f2,felipe drugovich
+2,Th%C3%A9o_Pourchaire,Théo Pourchaire,164.0,28,24,3,7,0,0,4,28,FIA F2,2022,f2,theo pourchaire
+3,Liam_Lawson,Liam Lawson,149.0,28,24,4,10,0,0,4,28,FIA F2,2022,f2,liam lawson
+4,Logan_Sargeant,Logan Sargeant,148.0,28,22,2,4,0,0,6,28,FIA F2,2022,f2,logan sargeant
+5,Ayumu_Iwasa,Ayumu Iwasa,141.0,28,27,2,6,0,0,1,28,FIA F2,2022,f2,ayumu iwasa
+6,Jack_Doohan_(racing_driver),Jack Doohan,128.0,28,22,3,6,0,0,6,28,FIA F2,2022,f2,jack doohan
+7,Jehan_Daruvala,Jehan Daruvala,126.0,27,25,1,8,0,0,2,28,FIA F2,2022,f2,jehan daruvala
+8,Enzo_Fittipaldi,Enzo Fittipaldi,126.0,28,25,0,6,0,0,3,28,FIA F2,2022,f2,enzo fittipaldi
+9,Frederik_Vesti,Frederik Vesti,117.0,28,27,1,5,0,0,1,28,FIA F2,2022,f2,frederik vesti
+10,Dennis_Hauger,Dennis Hauger,115.0,28,24,2,4,0,0,4,28,FIA F2,2022,f2,dennis hauger
+11,J%C3%BCri_Vips,Jüri Vips,114.0,28,25,1,5,0,0,3,28,FIA F2,2022,f2,juri vips
+12,Richard_Verschoor,Richard Verschoor,103.0,28,25,1,4,0,0,3,28,FIA F2,2022,f2,richard verschoor
+13,Marcus_Armstrong,Marcus Armstrong,93.0,28,24,3,4,0,0,4,28,FIA F2,2022,f2,marcus armstrong
+14,Cl%C3%A9ment_Novalak,Clément Novalak,40.0,28,22,0,1,0,0,6,28,FIA F2,2022,f2,clement novalak
+15,Ralph_Boschung,Ralph Boschung,40.0,16,12,0,2,0,0,4,28,FIA F2,2022,f2,ralph boschung
+16,Jake_Hughes,Jake Hughes,26.0,16,14,0,0,0,0,2,28,FIA F2,2022,f2,jake hughes
+17,Amaury_Cordeel,Amaury Cordeel,26.0,24,20,0,0,0,0,4,28,FIA F2,2022,f2,amaury cordeel
+18,David_Beckmann,David Beckmann,25.0,14,13,0,0,0,0,1,28,FIA F2,2022,f2,david beckmann
+19,Roy_Nissany,Roy Nissany,20.0,26,22,0,0,0,0,4,28,FIA F2,2022,f2,roy nissany
+20,Roberto_Merhi,Roberto Merhi,15.0,6,3,0,1,0,0,3,28,FIA F2,2022,f2,roberto merhi
+21,Olli_Caldwell,Olli Caldwell,12.0,26,22,0,0,0,0,4,28,FIA F2,2022,f2,olli caldwell
+22,Marino_Sato,Marino Sato,6.0,28,24,0,0,0,0,4,28,FIA F2,2022,f2,marino sato
+23,Calan_Williams,Calan Williams,5.0,26,25,0,0,0,0,1,28,FIA F2,2022,f2,calan williams
+24,Cem_B%C3%B6l%C3%BCkba%C5%9F%C4%B1,Cem Bölükbaşı,0.0,16,12,0,0,0,0,4,28,FIA F2,2022,f2,cem bolukbas
+25,Luca_Ghiotto,Luca Ghiotto,0.0,2,1,0,0,0,0,1,28,FIA F2,2022,f2,luca ghiotto
+26,Zane_Maloney,Zane Maloney,0.0,2,2,0,0,0,0,0,28,FIA F2,2022,f2,zane maloney
+27,Juan_Manuel_Correa,Juan Manuel Correa,0.0,2,2,0,0,0,0,0,28,FIA F2,2022,f2,juan manuel correa
+28,Tatiana_Calder%C3%B3n,Tatiana Calderón,0.0,7,4,0,0,0,0,3,28,FIA F2,2022,f2,tatiana calderon
+29,Lirim_Zendeli,Lirim Zendeli,0.0,2,2,0,0,0,0,0,28,FIA F2,2022,f2,lirim zendeli
+1,Th%C3%A9o_Pourchaire,Théo Pourchaire,203.0,26,24,1,10,0,0,2,26,FIA F2,2023,f2,theo pourchaire
+2,Frederik_Vesti,Frederik Vesti,192.0,25,21,6,10,0,0,4,26,FIA F2,2023,f2,frederik vesti
+3,Jack_Doohan_(racing_driver),Jack Doohan,168.0,25,23,3,5,0,0,2,26,FIA F2,2023,f2,jack doohan
+4,Ayumu_Iwasa,Ayumu Iwasa,165.0,26,23,3,6,0,0,3,26,FIA F2,2023,f2,ayumu iwasa
+5,Victor_Martins,Victor Martins,150.0,26,22,1,10,0,0,4,26,FIA F2,2023,f2,victor martins
+6,Oliver_Bearman,Oliver Bearman,130.0,26,22,4,6,0,0,4,26,FIA F2,2023,f2,oliver bearman
+7,Enzo_Fittipaldi,Enzo Fittipaldi,124.0,25,22,1,5,0,0,3,26,FIA F2,2023,f2,enzo fittipaldi
+8,Dennis_Hauger,Dennis Hauger,113.0,26,24,2,4,0,0,2,26,FIA F2,2023,f2,dennis hauger
+9,Richard_Verschoor,Richard Verschoor,108.0,26,22,1,3,0,0,4,26,FIA F2,2023,f2,richard verschoor
+10,Zane_Maloney,Zane Maloney,96.0,26,23,0,4,0,0,3,26,FIA F2,2023,f2,zane maloney
+11,Kush_Maini,Kush Maini,62.0,26,22,0,1,0,0,4,26,FIA F2,2023,f2,kush maini
+12,Jehan_Daruvala,Jehan Daruvala,59.0,24,21,0,3,0,0,3,26,FIA F2,2023,f2,jehan daruvala
+13,Jak_Crawford,Jak Crawford,57.0,26,22,1,5,0,0,4,26,FIA F2,2023,f2,jak crawford
+14,Isack_Hadjar,Isack Hadjar,55.0,26,24,1,2,0,0,2,26,FIA F2,2023,f2,isack hadjar
+15,Arthur_Leclerc,Arthur Leclerc,49.0,26,23,0,1,0,0,3,26,FIA F2,2023,f2,arthur leclerc
+16,Ralph_Boschung,Ralph Boschung,37.0,25,19,1,2,0,0,6,26,FIA F2,2023,f2,ralph boschung
+17,Cl%C3%A9ment_Novalak,Clément Novalak,28.0,24,20,1,1,0,0,4,26,FIA F2,2023,f2,clement novalak
+18,Roman_Stan%C4%9Bk,Roman Staněk,15.0,26,23,0,0,0,0,3,26,FIA F2,2023,f2,roman stanek
+19,Juan_Manuel_Correa,Juan Manuel Correa,13.0,26,24,0,0,0,0,2,26,FIA F2,2023,f2,juan manuel correa
+20,Amaury_Cordeel,Amaury Cordeel,8.0,26,21,0,0,0,0,5,26,FIA F2,2023,f2,amaury cordeel
+21,Roy_Nissany,Roy Nissany,0.0,26,22,0,0,0,0,4,26,FIA F2,2023,f2,roy nissany
+22,Brad_Benavides,Brad Benavides,0.0,18,14,0,0,0,0,4,26,FIA F2,2023,f2,brad benavides
+23,Josh_Mason,Josh Mason,0.0,8,7,0,0,0,0,1,26,FIA F2,2023,f2,josh mason
+24,Paul_Aron,Paul Aron,0.0,2,2,0,0,0,0,0,26,FIA F2,2023,f2,paul aron
+25,Franco_Colapinto,Franco Colapinto,0.0,2,1,0,0,0,0,1,26,FIA F2,2023,f2,franco colapinto
+1,Gabriel_Bortoleto,Gabriel Bortoleto,214.5,28,25,2,8,0,0,3,28,FIA F2,2024,f2,gabriel bortoleto
+2,Isack_Hadjar,Isack Hadjar,192.0,28,24,4,8,0,0,4,28,FIA F2,2024,f2,isack hadjar
+3,Paul_Aron,Paul Aron,163.0,28,24,1,8,0,0,4,28,FIA F2,2024,f2,paul aron
+4,Zane_Maloney,Zane Maloney,140.0,26,23,2,7,0,0,3,28,FIA F2,2024,f2,zane maloney
+5,Jak_Crawford,Jak Crawford,125.0,28,24,1,6,0,0,4,28,FIA F2,2024,f2,jak crawford
+6,Andrea_Kimi_Antonelli,Andrea Kimi Antonelli,113.0,26,23,2,3,0,0,3,28,FIA F2,2024,f2,andrea kimi antonelli
+7,Victor_Martins,Victor Martins,107.0,28,21,1,5,0,0,7,28,FIA F2,2024,f2,victor martins
+8,Richard_Verschoor,Richard Verschoor,106.0,28,23,1,6,0,0,5,28,FIA F2,2024,f2,richard verschoor
+9,Franco_Colapinto,Franco Colapinto,96.0,20,17,1,3,0,0,3,28,FIA F2,2024,f2,franco colapinto
+10,Joshua_D%C3%BCrksen,Joshua Dürksen,87.0,28,23,2,4,0,0,5,28,FIA F2,2024,f2,joshua durksen
+11,Dennis_Hauger,Dennis Hauger,85.5,24,20,1,5,0,0,4,28,FIA F2,2024,f2,dennis hauger
+12,Oliver_Bearman,Oliver Bearman,75.0,24,21,3,3,0,0,3,28,FIA F2,2024,f2,oliver bearman
+13,Kush_Maini,Kush Maini,74.0,28,26,1,5,0,0,2,28,FIA F2,2024,f2,kush maini
+14,Pepe_Mart%C3%AD,Pepe Martí,62.0,28,19,1,4,0,0,9,28,FIA F2,2024,f2,pepe marti
+15,Enzo_Fittipaldi,Enzo Fittipaldi,61.0,24,21,1,2,0,0,3,28,FIA F2,2024,f2,enzo fittipaldi
+16,Zak_O%27Sullivan,Zak O'Sullivan,59.0,22,18,2,2,0,0,4,28,FIA F2,2024,f2,zak o sullivan
+17,Amaury_Cordeel,Amaury Cordeel,39.0,28,22,0,0,0,0,6,28,FIA F2,2024,f2,amaury cordeel
+18,Juan_Manuel_Correa,Juan Manuel Correa,31.0,24,20,0,1,0,0,4,28,FIA F2,2024,f2,juan manuel correa
+19,Ritomo_Miyata,Ritomo Miyata,31.0,28,26,0,0,0,0,2,28,FIA F2,2024,f2,ritomo miyata
+20,Dino_Beganovic,Dino Beganovic,22.0,4,4,0,1,0,0,0,28,FIA F2,2024,f2,dino beganovic
+21,Taylor_Barnard,Taylor Barnard,18.0,20,17,1,1,0,0,3,28,FIA F2,2024,f2,taylor barnard
+22,Roman_Stan%C4%9Bk,Roman Staněk,14.0,22,18,1,1,0,0,4,28,FIA F2,2024,f2,roman stanek
+23,Oliver_Goethe,Oliver Goethe,14.0,8,5,0,0,0,0,3,28,FIA F2,2024,f2,oliver goethe
+24,Rafael_Villag%C3%B3mez,Rafael Villagómez,13.0,28,23,0,0,0,0,5,28,FIA F2,2024,f2,rafael villagomez
+25,Christian_Mansell,Christian Mansell,10.0,6,6,0,0,0,0,0,28,FIA F2,2024,f2,christian mansell
+26,Luke_Browning,Luke Browning,7.0,6,6,0,0,0,0,0,28,FIA F2,2024,f2,luke browning
+27,Gabriele_Min%C3%AC,Gabriele Minì,6.0,2,1,0,1,0,0,1,28,FIA F2,2024,f2,gabriele mini
+28,John_Bennett_(racing_driver),John Bennett,4.0,4,4,0,0,0,0,0,28,FIA F2,2024,f2,john bennett
+29,Leonardo_Fornaroli,Leonardo Fornaroli,0.0,2,2,0,0,0,0,0,28,FIA F2,2024,f2,leonardo fornaroli
+30,Cian_Shields,Cian Shields,0.0,4,4,0,0,0,0,0,28,FIA F2,2024,f2,cian shields
+31,Max_Esterson,Max Esterson,0.0,4,4,0,0,0,0,0,28,FIA F2,2024,f2,max esterson
+32,Niels_Koolen,Niels Koolen,0.0,4,3,0,0,0,0,1,28,FIA F2,2024,f2,niels koolen
+1,Leonardo_Fornaroli,Leonardo Fornaroli,211.0,27,27,4,9,0,0,0,28,FIA F2,2025,f2,leonardo fornaroli
+2,Jak_Crawford,Jak Crawford,175.0,26,24,4,8,0,0,2,28,FIA F2,2025,f2,jak crawford
+3,Richard_Verschoor,Richard Verschoor,170.0,27,25,4,6,0,0,2,28,FIA F2,2025,f2,richard verschoor
+4,Luke_Browning,Luke Browning,162.0,27,25,1,9,0,0,2,28,FIA F2,2025,f2,luke browning
+5,Alex_Dunne,Alex Dunne,150.0,27,21,2,8,0,0,6,28,FIA F2,2025,f2,alex dunne
+6,Arvid_Lindblad,Arvid Lindblad,134.0,27,24,3,5,0,0,3,28,FIA F2,2025,f2,arvid lindblad
+7,Dino_Beganovic,Dino Beganovic,116.0,27,25,1,4,0,0,2,28,FIA F2,2025,f2,dino beganovic
+8,Pepe_Mart%C3%AD,Pepe Martí,112.0,23,20,3,5,0,0,3,28,FIA F2,2025,f2,pepe marti
+9,Joshua_D%C3%BCrksen,Joshua Dürksen,107.0,27,23,2,8,0,0,4,28,FIA F2,2025,f2,joshua durksen
+10,Roman_Stan%C4%9Bk,Roman Staněk,105.0,27,25,1,5,0,0,2,28,FIA F2,2025,f2,roman stanek
+11,Victor_Martins,Victor Martins,97.0,27,22,1,3,0,0,5,28,FIA F2,2025,f2,victor martins
+12,Sebasti%C3%A1n_Montoya,Sebastián Montoya,91.0,27,23,0,3,0,0,4,28,FIA F2,2025,f2,sebastian montoya
+13,Gabriele_Min%C3%AC,Gabriele Minì,72.0,27,23,0,3,0,0,4,28,FIA F2,2025,f2,gabriele mini
+14,Rafael_Villag%C3%B3mez,Rafael Villagómez,43.0,27,24,0,2,0,0,3,28,FIA F2,2025,f2,rafael villagomez
+15,Oliver_Goethe,Oliver Goethe,37.0,27,25,0,0,0,0,2,28,FIA F2,2025,f2,oliver goethe
+16,Kush_Maini,Kush Maini,32.0,27,23,1,1,0,0,4,28,FIA F2,2025,f2,kush maini
+17,Ritomo_Miyata,Ritomo Miyata,30.0,27,24,0,1,0,0,3,28,FIA F2,2025,f2,ritomo miyata
+18,Nikola_Tsolov,Nikola Tsolov,12.0,4,4,0,1,0,0,0,28,FIA F2,2025,f2,nikola tsolov
+19,Amaury_Cordeel,Amaury Cordeel,3.0,23,20,0,0,0,0,3,28,FIA F2,2025,f2,amaury cordeel
+20,Martinius_Stenshorne,Martinius Stenshorne,2.0,6,4,0,0,0,0,2,28,FIA F2,2025,f2,martinius stenshorne
+21,Sami_Meguetounif,Sami Meguetounif,2.0,21,16,0,0,0,0,5,28,FIA F2,2025,f2,sami meguetounif
+22,John_Bennett_(racing_driver),John Bennett,1.0,27,23,0,0,0,0,4,28,FIA F2,2025,f2,john bennett
+23,Max_Esterson,Max Esterson,0.0,21,17,0,0,0,0,4,28,FIA F2,2025,f2,max esterson
+24,Cian_Shields,Cian Shields,0.0,27,21,0,0,0,0,6,28,FIA F2,2025,f2,cian shields
+25,Laurens_van_Hoepen,Laurens van Hoepen,0.0,5,5,0,0,0,0,0,28,FIA F2,2025,f2,laurens van hoepen
+26,Tasanapol_Inthraphuvasak,Tasanapol Inthraphuvasak,0.0,2,2,0,0,0,0,0,28,FIA F2,2025,f2,tasanapol inthraphuvasak
+27,James_Wharton_(racing_driver),James Wharton,0.0,2,1,0,0,0,0,1,28,FIA F2,2025,f2,james wharton
+1,Jolyon_Palmer,Jolyon Palmer,276.0,22,21,4,12,3,7,1,22,GP2,2014,f2,jolyon palmer
+2,Stoffel_Vandoorne,Stoffel Vandoorne,229.0,22,22,4,10,4,3,0,22,GP2,2014,f2,stoffel vandoorne
+3,Felipe_Nasr,Felipe Nasr,224.0,22,20,4,10,1,2,2,22,GP2,2014,f2,felipe nasr
+4,Mitch_Evans,Mitch Evans,174.0,22,22,2,6,0,1,0,22,GP2,2014,f2,mitch evans
+5,Johnny_Cecotto_Jr.,Johnny Cecotto Jr.,140.0,22,18,2,5,1,0,4,22,GP2,2014,f2,johnny cecotto jr
+6,Stefano_Coletti,Stefano Coletti,136.0,22,18,2,5,0,5,4,22,GP2,2014,f2,stefano coletti
+7,Arthur_Pic,Arthur Pic,124.0,22,21,1,3,0,1,1,22,GP2,2014,f2,arthur pic
+8,Raffaele_Marciello,Raffaele Marciello,74.0,22,16,1,4,1,1,6,22,GP2,2014,f2,raffaele marciello
+9,St%C3%A9phane_Richelmi,Stéphane Richelmi,73.0,22,20,1,2,1,0,2,22,GP2,2014,f2,stephane richelmi
+10,Juli%C3%A1n_Leal,Julián Leal,68.0,22,20,0,2,0,1,2,22,GP2,2014,f2,julian leal
+11,Marco_S%C3%B8rensen,Marco Sørensen,47.0,14,13,1,1,0,0,1,22,GP2,2014,f2,marco srensen
+12,Andr%C3%A9_Negr%C3%A3o,André Negrão,31.0,20,17,0,0,0,0,3,22,GP2,2014,f2,andre negrao
+13,Adrian_Quaife-Hobbs,Adrian Quaife-Hobbs,30.0,18,18,0,1,0,0,0,22,GP2,2014,f2,adrian quaife hobbs
+14,Sergio_Canamasas,Sergio Canamasas,29.0,19,14,0,1,0,0,5,22,GP2,2014,f2,sergio canamasas
+15,Rio_Haryanto,Rio Haryanto,28.0,22,18,0,1,0,0,4,22,GP2,2014,f2,rio haryanto
+16,Daniel_Abt,Daniel Abt,27.0,20,16,0,0,0,0,4,22,GP2,2014,f2,daniel abt
+17,Simon_Trummer,Simon Trummer,26.0,22,20,0,1,0,0,2,22,GP2,2014,f2,simon trummer
+18,Takuya_Izawa,Takuya Izawa,26.0,22,19,0,1,0,0,3,22,GP2,2014,f2,takuya izawa
+19,Tom_Dillmann,Tom Dillmann,18.0,8,8,0,1,0,1,0,22,GP2,2014,f2,tom dillmann
+20,Nathana%C3%ABl_Berthon,Nathanaël Berthon,17.0,22,20,0,0,0,0,2,22,GP2,2014,f2,nathanael berthon
+21,Alexander_Rossi_(racing_driver),Alexander Rossi,12.0,12,10,0,0,0,0,2,22,GP2,2014,f2,alexander rossi
+22,Tio_Ellinas,Tio Ellinas,7.0,8,8,0,0,0,0,0,22,GP2,2014,f2,tio ellinas
+23,Jon_Lancaster,Jon Lancaster,6.0,16,14,0,0,0,0,2,22,GP2,2014,f2,jon lancaster
+24,Artem_Markelov,Artem Markelov,6.0,22,15,0,0,0,0,7,22,GP2,2014,f2,artem markelov
+25,Ren%C3%A9_Binder,René Binder,3.0,22,16,0,0,0,0,6,22,GP2,2014,f2,rene binder
+26,Conor_Daly,Conor Daly,2.0,18,15,0,0,0,0,3,22,GP2,2014,f2,conor daly
+27,Kimiya_Sato,Kimiya Sato,2.0,20,15,0,0,0,0,5,22,GP2,2014,f2,kimiya sato
+28,Dani%C3%ABl_de_Jong,Daniël de Jong,2.0,22,17,0,0,0,0,5,22,GP2,2014,f2,daniel de jong
+29,Pierre_Gasly,Pierre Gasly,0.0,6,5,0,0,0,0,1,22,GP2,2014,f2,pierre gasly
+30,Sergio_Campana_(racing_driver),Sergio Campana,0.0,3,2,0,0,0,0,1,22,GP2,2014,f2,sergio campana
+31,Facu_Regalia,Facu Regalia,0.0,8,4,0,0,0,0,4,22,GP2,2014,f2,facu regalia
+32,Nicholas_Latifi,Nicholas Latifi,0.0,2,2,0,0,0,0,0,22,GP2,2014,f2,nicholas latifi
+33,Kevin_Giovesi,Kevin Giovesi,0.0,2,2,0,0,0,0,0,22,GP2,2014,f2,kevin giovesi
+34,Axcil_Jefferies,Axcil Jefferies,0.0,2,1,0,0,0,0,1,22,GP2,2014,f2,axcil jefferies
+1,Stoffel_Vandoorne,Stoffel Vandoorne,341.5,21,21,7,16,4,7,0,22,GP2,2015,f2,stoffel vandoorne
+2,Alexander_Rossi_(racing_driver),Alexander Rossi,181.5,21,20,3,7,1,0,1,22,GP2,2015,f2,alexander rossi
+3,Sergey_Sirotkin_(racing_driver),Sergey Sirotkin,139.0,21,20,1,5,1,1,1,22,GP2,2015,f2,sergey sirotkin
+4,Rio_Haryanto,Rio Haryanto,138.0,21,20,3,5,0,1,1,22,GP2,2015,f2,rio haryanto
+5,Mitch_Evans,Mitch Evans,135.0,19,17,2,7,0,2,2,22,GP2,2015,f2,mitch evans
+6,Alex_Lynn,Alex Lynn,110.0,21,19,2,4,2,3,2,22,GP2,2015,f2,alex lynn
+7,Raffaele_Marciello,Raffaele Marciello,110.0,21,20,0,4,0,0,1,22,GP2,2015,f2,raffaele marciello
+8,Pierre_Gasly,Pierre Gasly,110.0,21,18,0,4,3,1,3,22,GP2,2015,f2,pierre gasly
+9,Nobuharu_Matsushita,Nobuharu Matsushita,68.5,21,16,1,3,0,1,5,22,GP2,2015,f2,nobuharu matsushita
+10,Richie_Stanaway,Richie Stanaway,60.0,18,17,2,2,0,0,1,22,GP2,2015,f2,richie stanaway
+11,Arthur_Pic,Arthur Pic,60.0,21,19,0,2,0,0,2,22,GP2,2015,f2,arthur pic
+12,Jordan_King,Jordan King,60.0,21,18,0,1,0,1,3,22,GP2,2015,f2,jordan king
+13,Artem_Markelov,Artem Markelov,48.0,21,17,0,1,0,0,4,22,GP2,2015,f2,artem markelov
+14,Juli%C3%A1n_Leal,Julián Leal,38.0,16,15,0,0,0,0,1,22,GP2,2015,f2,julian leal
+15,Sergio_Canamasas,Sergio Canamasas,27.0,19,16,0,1,0,0,3,22,GP2,2015,f2,sergio canamasas
+16,Nathana%C3%ABl_Berthon,Nathanaël Berthon,27.0,19,16,0,1,0,1,3,22,GP2,2015,f2,nathanael berthon
+17,Robert_Vi%C8%99oiu,Robert Vișoiu,20.0,18,17,0,0,0,1,1,22,GP2,2015,f2,robert visoiu
+18,Norman_Nato,Norman Nato,20.0,21,17,0,0,0,1,4,22,GP2,2015,f2,norman nato
+19,Nick_Yelloly,Nick Yelloly,19.0,12,8,0,0,0,1,4,22,GP2,2015,f2,nick yelloly
+20,Andr%C3%A9_Negr%C3%A3o,André Negrão,5.0,21,21,0,0,0,0,0,22,GP2,2015,f2,andre negrao
+21,Oliver_Rowland,Oliver Rowland,3.0,7,4,0,0,0,0,3,22,GP2,2015,f2,oliver rowland
+22,Ren%C3%A9_Binder,René Binder,2.0,19,15,0,0,0,0,4,22,GP2,2015,f2,rene binder
+23,Dani%C3%ABl_de_Jong,Daniël de Jong,1.0,16,13,0,0,0,0,3,22,GP2,2015,f2,daniel de jong
+24,Dean_Stoneman,Dean Stoneman,1.0,5,4,0,0,0,0,1,22,GP2,2015,f2,dean stoneman
+25,Gustav_Malja,Gustav Malja,1.0,5,5,0,0,0,0,0,22,GP2,2015,f2,gustav malja
+26,Marlon_St%C3%B6ckinger,Marlon Stöckinger,0.0,21,17,0,0,0,0,4,22,GP2,2015,f2,marlon stockinger
+27,Nicholas_Latifi,Nicholas Latifi,0.0,7,6,0,0,0,0,1,22,GP2,2015,f2,nicholas latifi
+28,Johnny_Cecotto_Jr.,Johnny Cecotto Jr.,0.0,10,8,0,0,0,0,2,22,GP2,2015,f2,johnny cecotto jr
+29,Zo%C3%ABl_Amberg,Zoël Amberg,0.0,6,5,0,0,0,0,1,22,GP2,2015,f2,zoel amberg
+30,Sean_Gelael,Sean Gelael,0.0,9,8,0,0,0,0,1,22,GP2,2015,f2,sean gelael
+31,Simon_Trummer,Simon Trummer,0.0,4,4,0,0,0,0,0,22,GP2,2015,f2,simon trummer
+32,Jon_Lancaster,Jon Lancaster,0.0,2,2,0,0,0,0,0,22,GP2,2015,f2,jon lancaster
+33,Marco_S%C3%B8rensen,Marco Sørensen,0.0,8,6,0,0,0,0,2,22,GP2,2015,f2,marco srensen
+34,Patric_Niederhauser,Patric Niederhauser,0.0,2,2,0,0,0,0,0,22,GP2,2015,f2,patric niederhauser
+35,Jann_Mardenborough,Jann Mardenborough,0.0,2,2,0,0,0,0,0,22,GP2,2015,f2,jann mardenborough
+1,Pierre_Gasly,Pierre Gasly,219.0,22,19,4,9,5,4,3,22,GP2,2016,f2,pierre gasly
+2,Antonio_Giovinazzi,Antonio Giovinazzi,211.0,22,19,5,8,2,2,3,22,GP2,2016,f2,antonio giovinazzi
+3,Sergey_Sirotkin_(racing_driver),Sergey Sirotkin,159.0,22,17,2,8,3,3,5,22,GP2,2016,f2,sergey sirotkin
+4,Raffaele_Marciello,Raffaele Marciello,159.0,22,22,0,6,0,0,0,22,GP2,2016,f2,raffaele marciello
+5,Norman_Nato,Norman Nato,136.0,22,17,2,5,1,1,5,22,GP2,2016,f2,norman nato
+6,Alex_Lynn,Alex Lynn,124.0,22,20,3,5,0,0,2,22,GP2,2016,f2,alex lynn
+7,Jordan_King,Jordan King,122.0,22,21,2,5,0,1,1,22,GP2,2016,f2,jordan king
+8,Luca_Ghiotto,Luca Ghiotto,111.0,22,18,1,4,0,2,4,22,GP2,2016,f2,luca ghiotto
+9,Oliver_Rowland,Oliver Rowland,107.0,22,21,0,4,0,0,1,22,GP2,2016,f2,oliver rowland
+10,Artem_Markelov,Artem Markelov,97.0,21,18,1,2,0,3,3,22,GP2,2016,f2,artem markelov
+11,Nobuharu_Matsushita,Nobuharu Matsushita,92.0,20,17,1,2,0,4,3,22,GP2,2016,f2,nobuharu matsushita
+12,Mitch_Evans,Mitch Evans,90.0,22,19,1,1,0,2,3,22,GP2,2016,f2,mitch evans
+13,Gustav_Malja,Gustav Malja,53.0,22,20,0,2,0,0,2,22,GP2,2016,f2,gustav malja
+14,Arthur_Pic,Arthur Pic,36.0,18,14,0,1,0,0,4,22,GP2,2016,f2,arthur pic
+15,Sean_Gelael,Sean Gelael,24.0,22,14,0,1,0,0,8,22,GP2,2016,f2,sean gelael
+16,Nicholas_Latifi,Nicholas Latifi,23.0,22,18,0,1,0,0,4,22,GP2,2016,f2,nicholas latifi
+17,Marvin_Kirchh%C3%B6fer,Marvin Kirchhöfer,21.0,20,17,0,1,0,0,3,22,GP2,2016,f2,marvin kirchhofer
+18,Johnny_Cecotto_Jr.,Johnny Cecotto Jr.,18.0,4,4,0,1,0,0,0,22,GP2,2016,f2,johnny cecotto jr
+19,Sergio_Canamasas,Sergio Canamasas,17.0,20,17,0,0,0,0,3,22,GP2,2016,f2,sergio canamasas
+20,Jimmy_Eriksson,Jimmy Eriksson,10.0,18,15,0,0,0,0,3,22,GP2,2016,f2,jimmy eriksson
+21,Dani%C3%ABl_de_Jong,Daniël de Jong,6.0,22,19,0,0,0,0,3,22,GP2,2016,f2,daniel de jong
+22,Nabil_Jeffri,Nabil Jeffri,2.0,22,16,0,0,0,0,6,22,GP2,2016,f2,nabil jeffri
+23,Ren%C3%A9_Binder,René Binder,0.0,4,4,0,0,0,0,0,22,GP2,2016,f2,rene binder
+24,Philo_Paz_Armand,Philo Paz Armand,0.0,22,15,0,0,0,0,7,22,GP2,2016,f2,philo paz armand
+25,Emil_Bernstorff,Emil Bernstorff,0.0,2,2,0,0,0,0,0,22,GP2,2016,f2,emil bernstorff
+26,Louis_Del%C3%A9traz,Louis Delétraz,0.0,2,1,0,0,0,0,1,22,GP2,2016,f2,louis deletraz
+1,Lewis_Hamilton,Lewis Hamilton,381.0,19,18,10,17,0,0,1,19,Formula One,2015,f1,lewis hamilton
+2,Nico_Rosberg,Nico Rosberg,322.0,19,18,6,15,0,0,1,19,Formula One,2015,f1,nico rosberg
+3,Sebastian_Vettel,Sebastian Vettel,278.0,19,18,3,13,0,0,1,19,Formula One,2015,f1,sebastian vettel
+4,Kimi_R%C3%A4ikk%C3%B6nen,Kimi Räikkönen,150.0,19,14,0,3,0,0,5,19,Formula One,2015,f1,kimi raikkonen
+5,Valtteri_Bottas,Valtteri Bottas,136.0,18,17,0,2,0,0,1,19,Formula One,2015,f1,valtteri bottas
+6,Felipe_Massa,Felipe Massa,121.0,19,16,0,2,0,0,3,19,Formula One,2015,f1,felipe massa
+7,Daniil_Kvyat,Daniil Kvyat,95.0,18,16,0,1,0,0,2,19,Formula One,2015,f1,daniil kvyat
+8,Daniel_Ricciardo,Daniel Ricciardo,92.0,19,17,0,2,0,0,2,19,Formula One,2015,f1,daniel ricciardo
+9,Sergio_P%C3%A9rez,Sergio Pérez,78.0,19,18,0,1,0,0,1,19,Formula One,2015,f1,sergio perez
+10,Nico_H%C3%BClkenberg,Nico Hülkenberg,58.0,18,13,0,0,0,0,5,19,Formula One,2015,f1,nico hulkenberg
+11,Romain_Grosjean,Romain Grosjean,51.0,19,13,0,1,0,0,6,19,Formula One,2015,f1,romain grosjean
+12,Max_Verstappen,Max Verstappen,49.0,19,15,0,0,0,0,4,19,Formula One,2015,f1,max verstappen
+13,Felipe_Nasr,Felipe Nasr,27.0,18,17,0,0,0,0,1,19,Formula One,2015,f1,felipe nasr
+14,Pastor_Maldonado,Pastor Maldonado,27.0,19,10,0,0,0,0,9,19,Formula One,2015,f1,pastor maldonado
+15,Carlos_Sainz_Jr.,Carlos Sainz Jr.,18.0,19,12,0,0,0,0,7,19,Formula One,2015,f1,carlos sainz jr
+16,Jenson_Button,Jenson Button,16.0,18,13,0,0,0,0,5,19,Formula One,2015,f1,jenson button
+17,Fernando_Alonso,Fernando Alonso,11.0,18,11,0,0,0,0,7,19,Formula One,2015,f1,fernando alonso
+18,Marcus_Ericsson,Marcus Ericsson,9.0,19,16,0,0,0,0,3,19,Formula One,2015,f1,marcus ericsson
+19,Roberto_Merhi,Roberto Merhi,0.0,13,12,0,0,0,0,1,19,Formula One,2015,f1,roberto merhi
+20,Alexander_Rossi,Alexander Rossi,0.0,5,5,0,0,0,0,0,19,Formula One,2015,f1,alexander rossi
+21,Will_Stevens,Will Stevens,0.0,17,15,0,0,0,0,2,19,Formula One,2015,f1,will stevens
+1,Nico_Rosberg,Nico Rosberg,385.0,21,20,9,16,0,0,1,21,Formula One,2016,f1,nico rosberg
+2,Lewis_Hamilton,Lewis Hamilton,380.0,21,19,10,17,0,0,2,21,Formula One,2016,f1,lewis hamilton
+3,Daniel_Ricciardo,Daniel Ricciardo,256.0,21,21,1,8,0,0,0,21,Formula One,2016,f1,daniel ricciardo
+4,Sebastian_Vettel,Sebastian Vettel,212.0,20,17,0,7,0,0,3,21,Formula One,2016,f1,sebastian vettel
+5,Max_Verstappen,Max Verstappen,204.0,21,18,1,7,0,0,3,21,Formula One,2016,f1,max verstappen
+6,Kimi_R%C3%A4ikk%C3%B6nen,Kimi Räikkönen,186.0,21,17,0,4,0,0,4,21,Formula One,2016,f1,kimi raikkonen
+7,Sergio_P%C3%A9rez,Sergio Pérez,101.0,21,21,0,2,0,0,0,21,Formula One,2016,f1,sergio perez
+8,Valtteri_Bottas,Valtteri Bottas,85.0,21,19,0,1,0,0,2,21,Formula One,2016,f1,valtteri bottas
+9,Nico_H%C3%BClkenberg,Nico Hülkenberg,72.0,21,17,0,0,0,0,4,21,Formula One,2016,f1,nico hulkenberg
+10,Fernando_Alonso,Fernando Alonso,54.0,20,17,0,0,0,0,3,21,Formula One,2016,f1,fernando alonso
+11,Felipe_Massa,Felipe Massa,53.0,21,18,0,0,0,0,3,21,Formula One,2016,f1,felipe massa
+12,Carlos_Sainz_Jr.,Carlos Sainz Jr.,46.0,21,17,0,0,0,0,4,21,Formula One,2016,f1,carlos sainz jr
+13,Romain_Grosjean,Romain Grosjean,29.0,19,16,0,0,0,0,3,21,Formula One,2016,f1,romain grosjean
+14,Daniil_Kvyat,Daniil Kvyat,25.0,20,15,0,1,0,0,5,21,Formula One,2016,f1,daniil kvyat
+15,Jenson_Button,Jenson Button,21.0,21,15,0,0,0,0,6,21,Formula One,2016,f1,jenson button
+16,Kevin_Magnussen,Kevin Magnussen,7.0,21,17,0,0,0,0,4,21,Formula One,2016,f1,kevin magnussen
+17,Felipe_Nasr,Felipe Nasr,2.0,21,17,0,0,0,0,4,21,Formula One,2016,f1,felipe nasr
+18,Jolyon_Palmer,Jolyon Palmer,1.0,20,15,0,0,0,0,5,21,Formula One,2016,f1,jolyon palmer
+19,Pascal_Wehrlein,Pascal Wehrlein,1.0,21,16,0,0,0,0,5,21,Formula One,2016,f1,pascal wehrlein
+20,Stoffel_Vandoorne,Stoffel Vandoorne,1.0,1,1,0,0,0,0,0,21,Formula One,2016,f1,stoffel vandoorne
+21,Esteban_Guti%C3%A9rrez,Esteban Gutiérrez,0.0,21,16,0,0,0,0,5,21,Formula One,2016,f1,esteban gutierrez
+22,Marcus_Ericsson,Marcus Ericsson,0.0,21,16,0,0,0,0,5,21,Formula One,2016,f1,marcus ericsson
+23,Esteban_Ocon,Esteban Ocon,0.0,9,9,0,0,0,0,0,21,Formula One,2016,f1,esteban ocon
+24,Rio_Haryanto,Rio Haryanto,0.0,12,9,0,0,0,0,3,21,Formula One,2016,f1,rio haryanto
+1,Lewis_Hamilton,Lewis Hamilton,363.0,20,20,9,13,0,0,0,20,Formula One,2017,f1,lewis hamilton
+2,Sebastian_Vettel,Sebastian Vettel,317.0,20,18,5,13,0,0,2,20,Formula One,2017,f1,sebastian vettel
+3,Valtteri_Bottas,Valtteri Bottas,305.0,20,19,3,13,0,0,1,20,Formula One,2017,f1,valtteri bottas
+4,Kimi_R%C3%A4ikk%C3%B6nen,Kimi Räikkönen,205.0,19,17,0,7,0,0,2,20,Formula One,2017,f1,kimi raikkonen
+5,Daniel_Ricciardo,Daniel Ricciardo,200.0,20,14,1,9,0,0,6,20,Formula One,2017,f1,daniel ricciardo
+6,Max_Verstappen,Max Verstappen,168.0,20,13,2,4,0,0,7,20,Formula One,2017,f1,max verstappen
+7,Sergio_P%C3%A9rez,Sergio Pérez,100.0,20,19,0,0,0,0,1,20,Formula One,2017,f1,sergio perez
+8,Esteban_Ocon,Esteban Ocon,87.0,20,19,0,0,0,0,1,20,Formula One,2017,f1,esteban ocon
+9,Carlos_Sainz_Jr.,Carlos Sainz Jr.,54.0,20,12,0,0,0,0,8,20,Formula One,2017,f1,carlos sainz jr
+10,Nico_H%C3%BClkenberg,Nico Hülkenberg,43.0,20,14,0,0,0,0,6,20,Formula One,2017,f1,nico hulkenberg
+11,Felipe_Massa,Felipe Massa,43.0,19,17,0,0,0,0,2,20,Formula One,2017,f1,felipe massa
+12,Lance_Stroll,Lance Stroll,40.0,20,16,0,1,0,0,4,20,Formula One,2017,f1,lance stroll
+13,Romain_Grosjean,Romain Grosjean,28.0,20,17,0,0,0,0,3,20,Formula One,2017,f1,romain grosjean
+14,Kevin_Magnussen,Kevin Magnussen,19.0,20,15,0,0,0,0,5,20,Formula One,2017,f1,kevin magnussen
+15,Fernando_Alonso,Fernando Alonso,17.0,18,11,0,0,0,0,7,20,Formula One,2017,f1,fernando alonso
+16,Stoffel_Vandoorne,Stoffel Vandoorne,13.0,19,14,0,0,0,0,5,20,Formula One,2017,f1,stoffel vandoorne
+17,Jolyon_Palmer,Jolyon Palmer,8.0,15,11,0,0,0,0,4,20,Formula One,2017,f1,jolyon palmer
+18,Pascal_Wehrlein,Pascal Wehrlein,5.0,18,15,0,0,0,0,3,20,Formula One,2017,f1,pascal wehrlein
+19,Daniil_Kvyat,Daniil Kvyat,5.0,15,11,0,0,0,0,4,20,Formula One,2017,f1,daniil kvyat
+20,Marcus_Ericsson,Marcus Ericsson,0.0,20,14,0,0,0,0,6,20,Formula One,2017,f1,marcus ericsson
+21,Pierre_Gasly,Pierre Gasly,0.0,5,5,0,0,0,0,0,20,Formula One,2017,f1,pierre gasly
+22,Antonio_Giovinazzi,Antonio Giovinazzi,0.0,2,1,0,0,0,0,1,20,Formula One,2017,f1,antonio giovinazzi
+23,Brendon_Hartley,Brendon Hartley,0.0,4,2,0,0,0,0,2,20,Formula One,2017,f1,brendon hartley
+1,Lewis_Hamilton,Lewis Hamilton,408.0,21,20,11,17,0,0,1,21,Formula One,2018,f1,lewis hamilton
+2,Sebastian_Vettel,Sebastian Vettel,320.0,21,20,5,12,0,0,1,21,Formula One,2018,f1,sebastian vettel
+3,Kimi_R%C3%A4ikk%C3%B6nen,Kimi Räikkönen,251.0,21,17,1,12,0,0,4,21,Formula One,2018,f1,kimi raikkonen
+4,Max_Verstappen,Max Verstappen,249.0,21,18,2,11,0,0,3,21,Formula One,2018,f1,max verstappen
+5,Valtteri_Bottas,Valtteri Bottas,247.0,21,20,0,8,0,0,1,21,Formula One,2018,f1,valtteri bottas
+6,Daniel_Ricciardo,Daniel Ricciardo,170.0,21,13,2,2,0,0,8,21,Formula One,2018,f1,daniel ricciardo
+7,Nico_H%C3%BClkenberg,Nico Hülkenberg,69.0,21,14,0,0,0,0,7,21,Formula One,2018,f1,nico hulkenberg
+8,Sergio_P%C3%A9rez,Sergio Pérez,62.0,21,19,0,1,0,0,2,21,Formula One,2018,f1,sergio perez
+9,Kevin_Magnussen,Kevin Magnussen,56.0,21,18,0,0,0,0,3,21,Formula One,2018,f1,kevin magnussen
+10,Carlos_Sainz_Jr.,Carlos Sainz Jr.,53.0,21,19,0,0,0,0,2,21,Formula One,2018,f1,carlos sainz jr
+11,Fernando_Alonso,Fernando Alonso,50.0,21,15,0,0,0,0,6,21,Formula One,2018,f1,fernando alonso
+12,Esteban_Ocon,Esteban Ocon,49.0,21,15,0,0,0,0,6,21,Formula One,2018,f1,esteban ocon
+13,Charles_Leclerc,Charles Leclerc,39.0,21,16,0,0,0,0,5,21,Formula One,2018,f1,charles leclerc
+14,Romain_Grosjean,Romain Grosjean,37.0,21,15,0,0,0,0,6,21,Formula One,2018,f1,romain grosjean
+15,Pierre_Gasly,Pierre Gasly,29.0,21,16,0,0,0,0,5,21,Formula One,2018,f1,pierre gasly
+16,Stoffel_Vandoorne,Stoffel Vandoorne,12.0,21,19,0,0,0,0,2,21,Formula One,2018,f1,stoffel vandoorne
+17,Marcus_Ericsson,Marcus Ericsson,9.0,21,17,0,0,0,0,4,21,Formula One,2018,f1,marcus ericsson
+18,Lance_Stroll,Lance Stroll,6.0,21,19,0,0,0,0,2,21,Formula One,2018,f1,lance stroll
+19,Brendon_Hartley,Brendon Hartley,4.0,21,16,0,0,0,0,5,21,Formula One,2018,f1,brendon hartley
+20,Sergey_Sirotkin,Sergey Sirotkin,1.0,21,18,0,0,0,0,3,21,Formula One,2018,f1,sergey sirotkin
+1,Lewis_Hamilton,Lewis Hamilton,413.0,21,21,11,17,0,0,0,21,Formula One,2019,f1,lewis hamilton
+2,Valtteri_Bottas,Valtteri Bottas,326.0,21,19,4,15,0,0,2,21,Formula One,2019,f1,valtteri bottas
+3,Max_Verstappen,Max Verstappen,278.0,21,19,3,9,0,0,2,21,Formula One,2019,f1,max verstappen
+4,Charles_Leclerc,Charles Leclerc,264.0,21,19,2,10,0,0,2,21,Formula One,2019,f1,charles leclerc
+5,Sebastian_Vettel,Sebastian Vettel,240.0,21,19,1,9,0,0,2,21,Formula One,2019,f1,sebastian vettel
+6,Carlos_Sainz_Jr.,Carlos Sainz Jr.,96.0,21,18,0,1,0,0,3,21,Formula One,2019,f1,carlos sainz jr
+7,Pierre_Gasly,Pierre Gasly,95.0,21,20,0,1,0,0,1,21,Formula One,2019,f1,pierre gasly
+8,Alex_Albon,Alexander Albon,92.0,21,20,0,0,0,0,1,21,Formula One,2019,f1,alexander albon
+9,Daniel_Ricciardo,Daniel Ricciardo,54.0,21,16,0,0,0,0,5,21,Formula One,2019,f1,daniel ricciardo
+10,Sergio_P%C3%A9rez,Sergio Pérez,52.0,21,19,0,0,0,0,2,21,Formula One,2019,f1,sergio perez
+11,Lando_Norris,Lando Norris,49.0,21,17,0,0,0,0,4,21,Formula One,2019,f1,lando norris
+12,Kimi_R%C3%A4ikk%C3%B6nen,Kimi Räikkönen,43.0,21,19,0,0,0,0,2,21,Formula One,2019,f1,kimi raikkonen
+13,Daniil_Kvyat,Daniil Kvyat,37.0,21,18,0,1,0,0,3,21,Formula One,2019,f1,daniil kvyat
+14,Nico_H%C3%BClkenberg,Nico Hülkenberg,37.0,21,18,0,0,0,0,3,21,Formula One,2019,f1,nico hulkenberg
+15,Lance_Stroll,Lance Stroll,21.0,21,19,0,0,0,0,2,21,Formula One,2019,f1,lance stroll
+16,Kevin_Magnussen,Kevin Magnussen,20.0,21,19,0,0,0,0,2,21,Formula One,2019,f1,kevin magnussen
+17,Antonio_Giovinazzi,Antonio Giovinazzi,14.0,21,20,0,0,0,0,1,21,Formula One,2019,f1,antonio giovinazzi
+18,Romain_Grosjean,Romain Grosjean,8.0,21,14,0,0,0,0,7,21,Formula One,2019,f1,romain grosjean
+19,Robert_Kubica,Robert Kubica,1.0,21,19,0,0,0,0,2,21,Formula One,2019,f1,robert kubica
+20,George_Russell_(racing_driver),George Russell,0.0,21,19,0,0,0,0,2,21,Formula One,2019,f1,george russell
+1,Lewis_Hamilton,Lewis Hamilton,347.0,16,16,11,14,0,0,0,17,Formula One,2020,f1,lewis hamilton
+2,Valtteri_Bottas,Valtteri Bottas,223.0,17,16,2,11,0,0,1,17,Formula One,2020,f1,valtteri bottas
+3,Max_Verstappen,Max Verstappen,214.0,17,12,2,11,0,0,5,17,Formula One,2020,f1,max verstappen
+4,Sergio_P%C3%A9rez,Sergio Pérez,125.0,15,14,1,2,0,0,1,17,Formula One,2020,f1,sergio perez
+5,Daniel_Ricciardo,Daniel Ricciardo,119.0,17,16,0,2,0,0,1,17,Formula One,2020,f1,daniel ricciardo
+6,Carlos_Sainz_Jr.,Carlos Sainz Jr.,105.0,16,14,0,1,0,0,2,17,Formula One,2020,f1,carlos sainz jr
+7,Alex_Albon,Alexander Albon,105.0,17,16,0,2,0,0,1,17,Formula One,2020,f1,alexander albon
+8,Charles_Leclerc,Charles Leclerc,98.0,17,13,0,2,0,0,4,17,Formula One,2020,f1,charles leclerc
+9,Lando_Norris,Lando Norris,97.0,17,16,0,1,0,0,1,17,Formula One,2020,f1,lando norris
+10,Pierre_Gasly,Pierre Gasly,75.0,17,14,1,1,0,0,3,17,Formula One,2020,f1,pierre gasly
+11,Lance_Stroll,Lance Stroll,75.0,16,11,0,2,0,0,5,17,Formula One,2020,f1,lance stroll
+12,Esteban_Ocon,Esteban Ocon,62.0,17,13,0,1,0,0,4,17,Formula One,2020,f1,esteban ocon
+13,Sebastian_Vettel,Sebastian Vettel,33.0,17,15,0,1,0,0,2,17,Formula One,2020,f1,sebastian vettel
+14,Daniil_Kvyat,Daniil Kvyat,32.0,17,16,0,0,0,0,1,17,Formula One,2020,f1,daniil kvyat
+15,Nico_H%C3%BClkenberg,Nico Hülkenberg,10.0,2,2,0,0,0,0,0,17,Formula One,2020,f1,nico hulkenberg
+16,Kimi_R%C3%A4ikk%C3%B6nen,Kimi Räikkönen,4.0,17,16,0,0,0,0,1,17,Formula One,2020,f1,kimi raikkonen
+17,Antonio_Giovinazzi,Antonio Giovinazzi,4.0,17,14,0,0,0,0,3,17,Formula One,2020,f1,antonio giovinazzi
+18,George_Russell_(racing_driver),George Russell,3.0,17,13,0,0,0,0,4,17,Formula One,2020,f1,george russell
+19,Romain_Grosjean,Romain Grosjean,2.0,15,12,0,0,0,0,3,17,Formula One,2020,f1,romain grosjean
+20,Kevin_Magnussen,Kevin Magnussen,1.0,17,11,0,0,0,0,6,17,Formula One,2020,f1,kevin magnussen
+21,Nicholas_Latifi,Nicholas Latifi,0.0,17,14,0,0,0,0,3,17,Formula One,2020,f1,nicholas latifi
+22,Jack_Aitken,Jack Aitken,0.0,1,1,0,0,0,0,0,17,Formula One,2020,f1,jack aitken
+23,Pietro_Fittipaldi,Pietro Fittipaldi,0.0,2,2,0,0,0,0,0,17,Formula One,2020,f1,pietro fittipaldi
+1,Max_Verstappen,Max Verstappen,395.5,22,20,10,18,0,0,2,22,Formula One,2021,f1,max verstappen
+2,Lewis_Hamilton,Lewis Hamilton,387.5,22,21,8,17,0,0,1,22,Formula One,2021,f1,lewis hamilton
+3,Valtteri_Bottas,Valtteri Bottas,226.0,22,18,1,11,0,0,4,22,Formula One,2021,f1,valtteri bottas
+4,Sergio_P%C3%A9rez,Sergio Pérez,190.0,22,20,1,5,0,0,2,22,Formula One,2021,f1,sergio perez
+5,Carlos_Sainz_Jr.,Carlos Sainz Jr.,164.5,22,22,0,4,0,0,0,22,Formula One,2021,f1,carlos sainz jr
+6,Lando_Norris,Lando Norris,160.0,22,21,0,4,0,0,1,22,Formula One,2021,f1,lando norris
+7,Charles_Leclerc,Charles Leclerc,159.0,21,20,0,1,0,0,1,22,Formula One,2021,f1,charles leclerc
+8,Daniel_Ricciardo,Daniel Ricciardo,115.0,22,21,1,1,0,0,1,22,Formula One,2021,f1,daniel ricciardo
+9,Pierre_Gasly,Pierre Gasly,110.0,22,19,0,1,0,0,3,22,Formula One,2021,f1,pierre gasly
+10,Fernando_Alonso,Fernando Alonso,81.0,22,20,0,1,0,0,2,22,Formula One,2021,f1,fernando alonso
+11,Esteban_Ocon,Esteban Ocon,74.0,22,19,1,1,0,0,3,22,Formula One,2021,f1,esteban ocon
+12,Sebastian_Vettel,Sebastian Vettel,43.0,22,19,0,1,0,0,3,22,Formula One,2021,f1,sebastian vettel
+13,Lance_Stroll,Lance Stroll,34.0,22,19,0,0,0,0,3,22,Formula One,2021,f1,lance stroll
+14,Yuki_Tsunoda,Yuki Tsunoda,32.0,21,18,0,0,0,0,3,22,Formula One,2021,f1,yuki tsunoda
+15,George_Russell_(racing_driver),George Russell,16.0,22,18,0,1,0,0,4,22,Formula One,2021,f1,george russell
+16,Kimi_R%C3%A4ikk%C3%B6nen,Kimi Räikkönen,10.0,20,18,0,0,0,0,2,22,Formula One,2021,f1,kimi raikkonen
+17,Nicholas_Latifi,Nicholas Latifi,7.0,22,19,0,0,0,0,3,22,Formula One,2021,f1,nicholas latifi
+18,Antonio_Giovinazzi,Antonio Giovinazzi,3.0,22,21,0,0,0,0,1,22,Formula One,2021,f1,antonio giovinazzi
+19,Mick_Schumacher,Mick Schumacher,0.0,22,19,0,0,0,0,3,22,Formula One,2021,f1,mick schumacher
+20,Robert_Kubica,Robert Kubica,0.0,2,2,0,0,0,0,0,22,Formula One,2021,f1,robert kubica
+21,Nikita_Mazepin,Nikita Mazepin,0.0,21,16,0,0,0,0,5,22,Formula One,2021,f1,nikita mazepin
+1,Max_Verstappen,Max Verstappen,454.0,22,21,15,17,0,0,1,22,Formula One,2022,f1,max verstappen
+2,Charles_Leclerc,Charles Leclerc,308.0,22,19,3,11,0,0,3,22,Formula One,2022,f1,charles leclerc
+3,Sergio_P%C3%A9rez,Sergio Pérez,305.0,22,20,2,11,0,0,1,22,Formula One,2022,f1,sergio perez
+4,George_Russell_(racing_driver),George Russell,275.0,22,21,1,8,0,0,1,22,Formula One,2022,f1,george russell
+5,Carlos_Sainz_Jr.,Carlos Sainz Jr.,246.0,22,16,1,9,0,0,4,22,Formula One,2022,f1,carlos sainz jr
+6,Lewis_Hamilton,Lewis Hamilton,240.0,22,21,0,9,0,0,1,22,Formula One,2022,f1,lewis hamilton
+7,Lando_Norris,Lando Norris,122.0,22,20,0,1,0,0,1,22,Formula One,2022,f1,lando norris
+8,Esteban_Ocon,Esteban Ocon,92.0,22,20,0,0,0,0,2,22,Formula One,2022,f1,esteban ocon
+9,Fernando_Alonso,Fernando Alonso,81.0,22,17,0,0,0,0,5,22,Formula One,2022,f1,fernando alonso
+10,Valtteri_Bottas,Valtteri Bottas,49.0,22,17,0,0,0,0,5,22,Formula One,2022,f1,valtteri bottas
+11,Daniel_Ricciardo,Daniel Ricciardo,37.0,22,19,0,0,0,0,3,22,Formula One,2022,f1,daniel ricciardo
+12,Sebastian_Vettel,Sebastian Vettel,37.0,20,18,0,0,0,0,2,22,Formula One,2022,f1,sebastian vettel
+13,Kevin_Magnussen,Kevin Magnussen,25.0,22,18,0,0,0,0,4,22,Formula One,2022,f1,kevin magnussen
+14,Pierre_Gasly,Pierre Gasly,23.0,22,19,0,0,0,0,3,22,Formula One,2022,f1,pierre gasly
+15,Lance_Stroll,Lance Stroll,18.0,22,20,0,0,0,0,2,22,Formula One,2022,f1,lance stroll
+16,Mick_Schumacher,Mick Schumacher,12.0,21,19,0,0,0,0,2,22,Formula One,2022,f1,mick schumacher
+17,Yuki_Tsunoda,Yuki Tsunoda,12.0,21,16,0,0,0,0,5,22,Formula One,2022,f1,yuki tsunoda
+18,Zhou_Guanyu,Zhou Guanyu,6.0,22,17,0,0,0,0,5,22,Formula One,2022,f1,zhou guanyu
+19,Alexander_Albon,Alexander Albon,4.0,21,17,0,0,0,0,4,22,Formula One,2022,f1,alexander albon
+20,Nicholas_Latifi,Nicholas Latifi,2.0,22,18,0,0,0,0,4,22,Formula One,2022,f1,nicholas latifi
+21,Nyck_de_Vries,Nyck de Vries,2.0,1,1,0,0,0,0,0,22,Formula One,2022,f1,nyck de vries
+22,Nico_H%C3%BClkenberg,Nico Hülkenberg,0.0,2,2,0,0,0,0,0,22,Formula One,2022,f1,nico hulkenberg
+1,Max_Verstappen,Max Verstappen,575.0,22,22,19,21,0,0,0,22,Formula One,2023,f1,max verstappen
+2,Sergio_P%C3%A9rez,Sergio Pérez,285.0,22,20,2,9,0,0,2,22,Formula One,2023,f1,sergio perez
+3,Lewis_Hamilton,Lewis Hamilton,234.0,22,20,0,6,0,0,0,22,Formula One,2023,f1,lewis hamilton
+4,Fernando_Alonso,Fernando Alonso,206.0,22,20,0,8,0,0,2,22,Formula One,2023,f1,fernando alonso
+5,Charles_Leclerc,Charles Leclerc,206.0,22,17,0,6,0,0,4,22,Formula One,2023,f1,charles leclerc
+6,Lando_Norris,Lando Norris,205.0,22,21,0,7,0,0,1,22,Formula One,2023,f1,lando norris
+7,Carlos_Sainz_Jr.,Carlos Sainz Jr.,200.0,22,20,1,3,0,0,0,22,Formula One,2023,f1,carlos sainz jr
+8,George_Russell_(racing_driver),George Russell,175.0,22,19,0,2,0,0,2,22,Formula One,2023,f1,george russell
+9,Oscar_Piastri,Oscar Piastri,97.0,22,19,0,2,0,0,2,22,Formula One,2023,f1,oscar piastri
+10,Lance_Stroll,Lance Stroll,74.0,21,18,0,0,0,0,3,22,Formula One,2023,f1,lance stroll
+11,Pierre_Gasly,Pierre Gasly,62.0,22,21,0,1,0,0,1,22,Formula One,2023,f1,pierre gasly
+12,Esteban_Ocon,Esteban Ocon,58.0,22,16,0,1,0,0,6,22,Formula One,2023,f1,esteban ocon
+13,Alexander_Albon,Alexander Albon,27.0,22,18,0,0,0,0,4,22,Formula One,2023,f1,alexander albon
+14,Yuki_Tsunoda,Yuki Tsunoda,17.0,21,20,0,0,0,0,1,22,Formula One,2023,f1,yuki tsunoda
+15,Valtteri_Bottas,Valtteri Bottas,10.0,22,19,0,0,0,0,3,22,Formula One,2023,f1,valtteri bottas
+16,Nico_H%C3%BClkenberg,Nico Hülkenberg,9.0,22,21,0,0,0,0,0,22,Formula One,2023,f1,nico hulkenberg
+17,Daniel_Ricciardo,Daniel Ricciardo,6.0,7,7,0,0,0,0,0,22,Formula One,2023,f1,daniel ricciardo
+18,Zhou_Guanyu,Zhou Guanyu,6.0,22,19,0,0,0,0,3,22,Formula One,2023,f1,zhou guanyu
+19,Kevin_Magnussen,Kevin Magnussen,3.0,22,19,0,0,0,0,3,22,Formula One,2023,f1,kevin magnussen
+20,Liam_Lawson,Liam Lawson,2.0,5,5,0,0,0,0,0,22,Formula One,2023,f1,liam lawson
+21,Logan_Sargeant,Logan Sargeant,1.0,22,18,0,0,0,0,4,22,Formula One,2023,f1,logan sargeant
+22,Nyck_de_Vries,Nyck de Vries,0.0,10,9,0,0,0,0,1,22,Formula One,2023,f1,nyck de vries
+1,Max_Verstappen,Max Verstappen,437.0,24,23,9,14,0,0,1,24,Formula One,2024,f1,max verstappen
+2,Lando_Norris,Lando Norris,374.0,24,24,4,13,0,0,0,24,Formula One,2024,f1,lando norris
+3,Charles_Leclerc,Charles Leclerc,356.0,24,23,3,13,0,0,1,24,Formula One,2024,f1,charles leclerc
+4,Oscar_Piastri,Oscar Piastri,292.0,24,24,2,8,0,0,0,24,Formula One,2024,f1,oscar piastri
+5,Carlos_Sainz_Jr.,Carlos Sainz Jr.,290.0,23,21,2,9,0,0,2,24,Formula One,2024,f1,carlos sainz jr
+6,George_Russell_(racing_driver),George Russell,245.0,24,22,2,4,0,0,2,24,Formula One,2024,f1,george russell
+7,Lewis_Hamilton,Lewis Hamilton,223.0,24,22,2,5,0,0,1,24,Formula One,2024,f1,lewis hamilton
+8,Sergio_P%C3%A9rez,Sergio Pérez,152.0,24,20,0,4,0,0,4,24,Formula One,2024,f1,sergio perez
+9,Fernando_Alonso,Fernando Alonso,70.0,24,23,0,0,0,0,1,24,Formula One,2024,f1,fernando alonso
+10,Pierre_Gasly,Pierre Gasly,42.0,23,20,0,1,0,0,3,24,Formula One,2024,f1,pierre gasly
+11,Nico_H%C3%BClkenberg,Nico Hülkenberg,41.0,24,21,0,0,0,0,2,24,Formula One,2024,f1,nico hulkenberg
+12,Yuki_Tsunoda,Yuki Tsunoda,30.0,24,20,0,0,0,0,4,24,Formula One,2024,f1,yuki tsunoda
+13,Lance_Stroll,Lance Stroll,24.0,23,21,0,0,0,0,2,24,Formula One,2024,f1,lance stroll
+14,Esteban_Ocon,Esteban Ocon,23.0,23,21,0,1,0,0,2,24,Formula One,2024,f1,esteban ocon
+15,Kevin_Magnussen,Kevin Magnussen,16.0,22,21,0,0,0,0,1,24,Formula One,2024,f1,kevin magnussen
+16,Alexander_Albon,Alexander Albon,12.0,23,17,0,0,0,0,6,24,Formula One,2024,f1,alexander albon
+17,Daniel_Ricciardo,Daniel Ricciardo,12.0,18,16,0,0,0,0,2,24,Formula One,2024,f1,daniel ricciardo
+18,Oliver_Bearman,Oliver Bearman,7.0,3,3,0,0,0,0,0,24,Formula One,2024,f1,oliver bearman
+19,Franco_Colapinto,Franco Colapinto,5.0,9,6,0,0,0,0,3,24,Formula One,2024,f1,franco colapinto
+20,Zhou_Guanyu,Zhou Guanyu,4.0,24,22,0,0,0,0,2,24,Formula One,2024,f1,zhou guanyu
+21,Liam_Lawson,Liam Lawson,4.0,6,6,0,0,0,0,0,24,Formula One,2024,f1,liam lawson
+22,Valtteri_Bottas,Valtteri Bottas,0.0,24,22,0,0,0,0,2,24,Formula One,2024,f1,valtteri bottas
+23,Logan_Sargeant,Logan Sargeant,0.0,14,12,0,0,0,0,2,24,Formula One,2024,f1,logan sargeant
+24,Jack_Doohan,Jack Doohan,0.0,1,1,0,0,0,0,0,24,Formula One,2024,f1,jack doohan
+1,Lando_Norris,Lando Norris,423.0,24,23,7,18,0,0,1,24,Formula One,2025,f1,lando norris
+2,Max_Verstappen,Max Verstappen,421.0,24,23,8,15,0,0,1,24,Formula One,2025,f1,max verstappen
+3,Oscar_Piastri,Oscar Piastri,410.0,24,22,7,16,0,0,2,24,Formula One,2025,f1,oscar piastri
+4,George_Russell_(racing_driver),George Russell,319.0,24,24,2,9,0,0,0,24,Formula One,2025,f1,george russell
+5,Charles_Leclerc,Charles Leclerc,242.0,24,21,0,7,0,0,1,24,Formula One,2025,f1,charles leclerc
+6,Lewis_Hamilton,Lewis Hamilton,156.0,24,21,0,0,0,0,2,24,Formula One,2025,f1,lewis hamilton
+7,Kimi_Antonelli,Kimi Antonelli,150.0,24,20,0,3,0,0,4,24,Formula One,2025,f1,kimi antonelli
+8,Alexander_Albon,Alexander Albon,73.0,24,20,0,0,0,0,4,24,Formula One,2025,f1,alexander albon
+9,Carlos_Sainz_Jr.,Carlos Sainz Jr.,64.0,23,20,0,2,0,0,2,24,Formula One,2025,f1,carlos sainz jr
+10,Fernando_Alonso,Fernando Alonso,56.0,24,19,0,0,0,0,5,24,Formula One,2025,f1,fernando alonso
+11,Nico_H%C3%BClkenberg,Nico Hülkenberg,51.0,23,20,0,1,0,0,3,24,Formula One,2025,f1,nico hulkenberg
+12,Isack_Hadjar,Isack Hadjar,51.0,23,22,0,1,0,0,1,24,Formula One,2025,f1,isack hadjar
+13,Oliver_Bearman,Oliver Bearman,41.0,24,21,0,0,0,0,3,24,Formula One,2025,f1,oliver bearman
+14,Liam_Lawson,Liam Lawson,38.0,24,19,0,0,0,0,5,24,Formula One,2025,f1,liam lawson
+15,Esteban_Ocon,Esteban Ocon,38.0,24,23,0,0,0,0,1,24,Formula One,2025,f1,esteban ocon
+16,Lance_Stroll,Lance Stroll,33.0,23,22,0,0,0,0,1,24,Formula One,2025,f1,lance stroll
+17,Yuki_Tsunoda,Yuki Tsunoda,33.0,24,23,0,0,0,0,1,24,Formula One,2025,f1,yuki tsunoda
+18,Pierre_Gasly,Pierre Gasly,22.0,24,21,0,0,0,0,3,24,Formula One,2025,f1,pierre gasly
+19,Gabriel_Bortoleto,Gabriel Bortoleto,19.0,24,19,0,0,0,0,5,24,Formula One,2025,f1,gabriel bortoleto
+20,Franco_Colapinto,Franco Colapinto,0.0,17,17,0,0,0,0,0,24,Formula One,2025,f1,franco colapinto
+21,Jack_Doohan,Jack Doohan,0.0,6,4,0,0,0,0,2,24,Formula One,2025,f1,jack doohan
