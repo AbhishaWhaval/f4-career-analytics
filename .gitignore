@@ -5,3 +5,5 @@ __pycache__/
 data/raw/
 data/processed/
 .venv/
+reports/watchlist.csv
+reports/test_predictions.csv

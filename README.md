@@ -82,7 +82,7 @@ accent- and punctuation-insensitive name key.
 ## Quick start
 
 ```bash
-git clone <your-repo> && cd f4-career-analytics
+git clone https://github.com/AbhishaWhaval/f4-career-analytics.git && cd f4-career-analytics
 python -m venv .venv && source .venv/bin/activate      # Windows: .venv\Scripts\activate
 make setup
 make all        # fetch (~15 min first run, then cached) → build → train
@@ -107,7 +107,7 @@ between series and individual career look-ups.
 
 ## Data
 
-- **Population:** 14 FIA-certified F4 championships, 2014–2025 (Italian, ADAC, British, Spanish, French,
+- **Population:** 14 FIA-certified F4 championships are configured; 95 seasons across 11 of them had parseable Wikipedia standings (see `coverage.csv`). Series: Italian, ADAC, British, Spanish, French,
   Japanese, US, Australian, Chinese, SEA, Danish, NEZ, Indian, UAE). Edit `config.py` to add more.
 - **Outcomes:** Formula Regional European and Euroformula Open (regional), FIA F3 / GP3 / FIA European F3
   (tier 3), FIA F2 / GP2 (tier 2) and Formula 1.
@@ -139,3 +139,7 @@ between series and individual career look-ups.
 ├── data/                raw cache + processed CSVs (git-ignored)
 ├── Makefile · requirements.txt · pyproject.toml
 ```
+
+## License
+
+Code: MIT (see [LICENSE](LICENSE)). Data derived from Wikipedia is available under CC BY-SA 4.0.
