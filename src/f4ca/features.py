@@ -14,8 +14,20 @@ from .strength import estimate_strength, finish_percentile
 FEATURES = [
     "best_pct", "mean_pct", "best_points_share", "win_rate", "podium_rate", "pole_rate",
     "fastest_lap_rate", "finish_rate", "participation", "n_series", "champion",
-    "series_strength", "strength_adj_pct",
+    "series_strength", "strength_adj_pct", "age_at_debut",
 ]
+
+
+def age_at_debut(birth_date: pd.Series, debut_season: pd.Series) -> pd.Series:
+    """Age in years at the middle of the debut season (1 July). 'YYYY' alone counts as 1 July.
+    Values outside 13-30 are treated as parsing errors and set to missing."""
+    s = birth_date.fillna("").astype(str)
+    year = pd.to_numeric(s.str[:4], errors="coerce")
+    month = pd.to_numeric(s.str[5:7], errors="coerce").fillna(7)
+    day = pd.to_numeric(s.str[8:10], errors="coerce").fillna(1)
+    born = year + (month - 1) / 12 + (day - 1) / 365
+    age = debut_season + 0.5 - born
+    return age.where(age.between(13, 30))
 
 
 def _match_ladder(drivers: pd.DataFrame, ladder: pd.DataFrame) -> pd.DataFrame:
@@ -31,7 +43,7 @@ def _match_ladder(drivers: pd.DataFrame, ladder: pd.DataFrame) -> pd.DataFrame:
     return out.drop(columns=["name_key"])
 
 
-def build_features(f4: pd.DataFrame, ladder: pd.DataFrame, cfg: Config):
+def build_features(f4: pd.DataFrame, ladder: pd.DataFrame, cfg: Config, births: pd.DataFrame = None):
     f4 = f4.copy()
     f4["pct"] = finish_percentile(f4)
     champ_pts = f4.groupby(["series", "season"])["points"].transform("max").replace(0, np.nan)
@@ -71,6 +83,12 @@ def build_features(f4: pd.DataFrame, ladder: pd.DataFrame, cfg: Config):
         "f4_seasons_total": f4.groupby("driver_id")["season"].nunique(),
     }).reset_index()
 
+    if births is not None and len(births):
+        feats = feats.merge(births[["driver_id", "birth_date"]], on="driver_id", how="left")
+    else:
+        feats["birth_date"] = np.nan
+    feats["age_at_debut"] = age_at_debut(feats["birth_date"], feats["debut_season"])
+
     labels = _match_ladder(feats, ladder)
     feats = feats.merge(labels, on="driver_id", how="left")
     for tier in TIER_ORDER:
@@ -90,7 +108,9 @@ def build_features(f4: pd.DataFrame, ladder: pd.DataFrame, cfg: Config):
 def run(cfg: Config):
     f4 = pd.read_csv(cfg.processed_dir / "f4_results.csv")
     ladder = pd.read_csv(cfg.processed_dir / "ladder.csv")
-    feats, strength = build_features(f4, ladder, cfg)
+    bfile = cfg.processed_dir / "birthdates.csv"
+    births = pd.read_csv(bfile, dtype={"birth_date": str}) if bfile.exists() else None
+    feats, strength = build_features(f4, ladder, cfg, births)
     feats.to_csv(cfg.processed_dir / "drivers.csv", index=False)
     strength.to_csv(cfg.processed_dir / "series_strength.csv", index=False)
     return feats, strength

@@ -20,7 +20,7 @@ def _table(df: pd.DataFrame) -> str:
     return "\n".join(lines)
 
 
-def write_report(cfg: Config, feats, coverage, desc, results, best, importance, coefs, watchlist) -> str:
+def write_report(cfg: Config, feats, coverage, desc, results, best, importance, coefs, watchlist, age=None) -> str:
     lab = feats[feats["labelled"]]
     tgt = TIER_LABELS[cfg.target]
     parsed = coverage[coverage["status"] == "parsed"]
@@ -46,6 +46,7 @@ def write_report(cfg: Config, feats, coverage, desc, results, best, importance, 
                               odds_ratio=lambda d: d["odds_ratio"].map("{:.2f}".format))
     wl = watchlist.head(15).assign(probability=lambda d: d["probability"].map("{:.0%}".format))
 
+    age_md = _age_section(age or {}, tgt, cfg)
     md = f"""# Results: who climbs from Formula 4?
 
 _Generated {date.today():%d %b %Y} by `python -m f4ca all`. Numbers change if the data is re-scraped._
@@ -93,6 +94,8 @@ Logistic regression coefficients (per standard deviation; odds ratio > 1 raises 
 
 {_table(co)}
 
+{age_md}
+
 ## Watchlist: open cases, highest predicted probability
 Drivers whose outcome window has not closed yet and who have not reached {tgt}.
 
@@ -106,3 +109,34 @@ Drivers whose outcome window has not closed yet and who have not reached {tgt}.
 """
     (cfg.reports_dir / "results.md").write_text(md, encoding="utf-8")
     return md
+
+
+def _age_section(age: dict, tgt: str, cfg: Config) -> str:
+    if not age or not age.get("coverage_all"):
+        return "## Age at debut\nNo birth dates available. Run `python -m f4ca bios` to add them.\n"
+    lines = ["## Age at debut",
+             f"Birth dates were found for **{age['coverage_all']:.0%}** of drivers (those with a Wikipedia article)."]
+    cp, cn = age.get("coverage_progressed"), age.get("coverage_not_progressed")
+    if cp is not None and cn is not None:
+        if cp - cn > 0.05:
+            lines.append(f"Coverage is uneven: {cp:.0%} of drivers who progressed have a known age versus "
+                         f"{cn:.0%} of those who did not, because successful drivers are more likely to have "
+                         "an article. A \"missing age\" flag would therefore leak the outcome, so missing ages "
+                         "are imputed with the median and no missing-flag is given to the model.")
+        else:
+            lines.append(f"Coverage is similar for drivers who progressed ({cp:.0%}) and those who did not "
+                         f"({cn:.0%}). Missing ages are imputed with the median, with no missing-flag, "
+                         "so article existence cannot leak the outcome.")
+    if age.get("by_age"):
+        t = pd.DataFrame(age["by_age"]).assign(rate=lambda d: d["rate"].map("{:.0%}".format))
+        lines += ["", f"Progression to {tgt} within {cfg.horizon} years, by age at F4 debut (known ages only):",
+                  "", _table(t), "", "![Age](figures/age_vs_progression.png)"]
+    ab = age.get("ablation")
+    if ab:
+        w, wo = ab["with_age"], ab["without_age"]
+        lines += ["", f"**Ablation** (logistic regression, holdout drivers with a known age: n={ab['n_test']}, "
+                  f"{ab['positives']} progressed):", "",
+                  "| Model | ROC-AUC | PR-AUC |", "|---|---|---|",
+                  f"| Without age | {wo['roc_auc']:.3f} | {wo['pr_auc']:.3f} |",
+                  f"| With age | {w['roc_auc']:.3f} | {w['pr_auc']:.3f} |"]
+    return "\n".join(lines)

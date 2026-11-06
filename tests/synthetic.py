@@ -34,12 +34,18 @@ def make_world(cfg, seed=0, drivers_per_season=16):
     seasons = sorted({y for s in cfg.f4_series.values() for y in s})
     ladder = {t: {} for t in cfg.tiers}
     uid = 0
+    births = {}
     for y in seasons:
         rookies = []
         for _ in range(drivers_per_season):
             uid += 1
-            rookies.append({"id": f"Driver_{uid}", "name": f"Driver {_letters(uid)}", "skill": rng.normal(),
-                            "money": rng.random()})
+            age = rng.uniform(14.5, 19)
+            d = {"id": f"Driver_{uid}", "name": f"Driver {_letters(uid)}", "money": rng.random(),
+                 "skill": rng.normal() - 0.4 * (age - 16.5)}
+            if rng.random() < 0.7:   # 30% have no birth date, like drivers without an article
+                born = y + 0.5 - age
+                births[d["id"].replace("_", " ")] = f"{int(born)}-{int((born % 1) * 12) + 1:02d}-15"
+            rookies.append(d)
         for s_i, s in enumerate(series):
             field = list(rookies[s_i::len(series)])
             # well-funded drivers also enter a second series -> links series for strength estimation
@@ -59,6 +65,8 @@ def make_world(cfg, seed=0, drivers_per_season=16):
                 ladder["tier3"].setdefault(yr, []).append(d)
                 if rng.random() < 0.4:
                     ladder["f2"].setdefault(yr + 2, []).append(d)
+    import json
+    (cfg.raw_dir / "driver_birthdates.json").write_text(json.dumps(births), encoding="utf-8")
     for tier, series_map in cfg.tiers.items():
         for s, titles in series_map.items():
             for y, title in titles.items():

@@ -1,4 +1,4 @@
-"""Command line: python -m f4ca {fetch,build,features,train,all}"""
+"""Command line: python -m f4ca {fetch,build,bios,train,export,all}"""
 import argparse
 import logging
 
@@ -7,23 +7,27 @@ import pandas as pd
 from . import build as build_mod
 from . import features as feat_mod
 from .config import Config
+from .export import export_app_data
 from .model import plot_descriptive, train_and_evaluate
 from .report import write_report
 
 
-def analyse(cfg: Config) -> None:
+def analyse(cfg: Config, export: bool = True) -> None:
     feats, strength = feat_mod.run(cfg)
     coverage = pd.read_csv(cfg.processed_dir / "coverage.csv")
     desc = plot_descriptive(feats, strength, cfg)
-    results, best, importance, coefs, watchlist = train_and_evaluate(feats, cfg)
-    write_report(cfg, feats, coverage, desc, results, best, importance, coefs, watchlist)
+    results, best, importance, coefs, watchlist, age = train_and_evaluate(feats, cfg)
+    write_report(cfg, feats, coverage, desc, results, best, importance, coefs, watchlist, age)
     logging.info("Report written to %s", cfg.reports_dir / "results.md")
+    if export:
+        export_app_data(cfg)
 
 
 def main(argv=None) -> int:
     p = argparse.ArgumentParser(prog="f4ca", description=__doc__)
-    p.add_argument("command", choices=["fetch", "build", "train", "all"],
-                   help="fetch = download pages; build = parse to CSV; train = features, models, report; all = everything")
+    p.add_argument("command", choices=["fetch", "build", "bios", "train", "export", "all"],
+                   help="fetch = download season pages; build = parse to CSV; bios = look up birth "
+                        "dates; train = features, models, report and app data; all = everything")
     p.add_argument("--refresh", action="store_true", help="re-download pages already in data/raw")
     p.add_argument("--target", choices=["regional", "tier3", "f2", "f1"], default=None)
     p.add_argument("--horizon", type=int, default=None, help="years after F4 debut to reach the target")
@@ -45,6 +49,10 @@ def main(argv=None) -> int:
         build_mod.fetch(cfg, refresh=a.refresh)
     if a.command in ("build", "all"):
         build_mod.build(cfg)
+    if a.command in ("bios", "all"):
+        build_mod.fetch_bios(cfg, refresh=a.refresh)
     if a.command in ("train", "all"):
         analyse(cfg)
+    if a.command == "export":
+        export_app_data(cfg)
     return 0

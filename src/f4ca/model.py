@@ -15,6 +15,7 @@ import pandas as pd  # noqa: E402
 from sklearn.base import clone  # noqa: E402
 from sklearn.calibration import calibration_curve  # noqa: E402
 from sklearn.ensemble import HistGradientBoostingClassifier  # noqa: E402
+from sklearn.impute import SimpleImputer  # noqa: E402
 from sklearn.inspection import permutation_importance  # noqa: E402
 from sklearn.linear_model import LogisticRegression  # noqa: E402
 from sklearn.metrics import (average_precision_score, brier_score_loss,  # noqa: E402
@@ -33,14 +34,65 @@ TIER_LABELS = {"regional": "Regional F3", "tier3": "FIA F3 / GP3 / Euro F3",
                "f2": "F2 / GP2", "f1": "Formula 1"}
 
 
+def _impute():
+    # Median imputation WITHOUT a missing-indicator: whether a driver has a Wikipedia article
+    # (and so a known birth date) partly depends on later success, so "age is missing" would
+    # leak the outcome. Imputing hides that signal from both models.
+    return SimpleImputer(strategy="median", keep_empty_features=True)
+
+
 def models(seed: int):
     return {
         "Baseline: finish only": (["best_pct"], make_pipeline(StandardScaler(), LogisticRegression())),
-        "Logistic regression": (FEATURES, make_pipeline(StandardScaler(), LogisticRegression(C=0.5, max_iter=2000))),
-        "Gradient boosting": (FEATURES, HistGradientBoostingClassifier(
+        "Logistic regression": (FEATURES, make_pipeline(_impute(), StandardScaler(),
+                                                        LogisticRegression(C=0.5, max_iter=2000))),
+        "Gradient boosting": (FEATURES, make_pipeline(_impute(), HistGradientBoostingClassifier(
             max_depth=3, learning_rate=0.05, max_iter=250, l2_regularization=1.0,
-            min_samples_leaf=20, random_state=seed)),
+            min_samples_leaf=20, random_state=seed))),
     }
+
+
+def age_analysis(feats: pd.DataFrame, cfg: Config) -> dict:
+    """How much does age at debut add? Compared on drivers whose age is known, so the
+    comparison is not distorted by imputed values."""
+    target = f"reached_{cfg.target}_in_horizon"
+    lab = feats[feats["labelled"]]
+    known = lab["age_at_debut"].notna()
+    out = {
+        "coverage_all": float(feats["age_at_debut"].notna().mean()),
+        "coverage_progressed": float(known[lab[target] == 1].mean()) if (lab[target] == 1).any() else None,
+        "coverage_not_progressed": float(known[lab[target] == 0].mean()) if (lab[target] == 0).any() else None,
+    }
+    tr = feats[(feats["split"] == "train") & feats["age_at_debut"].notna()]
+    te = feats[(feats["split"] == "test") & feats["age_at_debut"].notna()]
+    if min(tr[target].sum(), te[target].sum()) >= 5 and min((tr[target] == 0).sum(), (te[target] == 0).sum()) >= 5:
+        without = [f for f in FEATURES if f != "age_at_debut"]
+        res = {}
+        for name, cols in [("with_age", FEATURES), ("without_age", without)]:
+            m = make_pipeline(_impute(), StandardScaler(), LogisticRegression(C=0.5, max_iter=2000))
+            p = m.fit(tr[cols], tr[target]).predict_proba(te[cols])[:, 1]
+            res[name] = {"pr_auc": float(average_precision_score(te[target], p)),
+                         "roc_auc": float(roc_auc_score(te[target], p))}
+        out["ablation"] = {"n_test": int(len(te)), "positives": int(te[target].sum()), **res}
+
+    # Progression by age group (labelled drivers with a known age)
+    la = lab[known].copy()
+    if len(la):
+        bins = [0, 15.5, 16.5, 17.5, 19, 99]
+        names = ["Under 15.5", "15.5\u201316.5", "16.5\u201317.5", "17.5\u201319", "19+"]
+        la["age_group"] = pd.cut(la["age_at_debut"], bins=bins, labels=names)
+        g = la.groupby("age_group", observed=False).agg(drivers=(target, "size"), progressed=(target, "sum"))
+        g["rate"] = g["progressed"] / g["drivers"].clip(lower=1)
+        out["by_age"] = g.reset_index().to_dict("records")
+        fig, ax = plt.subplots(figsize=(7, 4))
+        ax.bar(g.index.astype(str), g["rate"], color="#e8742a")
+        for i, (r, n) in enumerate(zip(g["rate"], g["drivers"])):
+            ax.text(i, r, f"{r:.0%}\nn={n}", ha="center", va="bottom", fontsize=8)
+        _style(ax, f"Age at F4 debut vs reaching {TIER_LABELS[cfg.target]} in {cfg.horizon} yrs")
+        ax.set_ylabel("Share who progressed"); ax.set_xlabel("Age at debut (years)")
+        ax.set_ylim(0, max(0.1, g["rate"].max() * 1.3))
+        fig.tight_layout(); fig.savefig(cfg.figures_dir / "age_vs_progression.png", dpi=150); plt.close(fig)
+    return out
 
 
 def bootstrap_ci(y, p, metric, n, seed):
@@ -130,10 +182,17 @@ def train_and_evaluate(feats: pd.DataFrame, cfg: Config):
     preds.to_csv(out / "test_predictions.csv", index=False)
     watchlist.to_csv(out / "watchlist.csv", index=False)
 
+    age = age_analysis(feats, cfg)
+    with open(out / "metrics.json") as fh:
+        m = json.load(fh)
+    m["age"] = age
+    with open(out / "metrics.json", "w") as fh:
+        json.dump(m, fh, indent=2)
+
     plot_curves(yte, test_preds, cfg)
     plot_calibration(yte, test_preds, cfg)
     plot_importance(importance, best, cfg)
-    return results, best, importance, coefs, watchlist
+    return results, best, importance, coefs, watchlist, age
 
 
 # ---------------------------------------------------------------------- figures
